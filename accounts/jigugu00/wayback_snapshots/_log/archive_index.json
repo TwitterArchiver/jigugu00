@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T17:59:00",
+  "last_updated": "2026-08-26T18:00:00",
   "html": {
     "https://web.archive.org/web/20260813205635if_/https://twitter.com/jigugu00/status/2088006826508128757": {
       "status": "done",
@@ -2509,9 +2509,9 @@
         "20260813205624_twitter_com_jigugu00_status_2088006781952029167.json",
         "20260813205635_twitter_com_jigugu00_status_2088006826508128757.json"
       ],
-      "last_updated": "2026-08-26T17:18:55",
+      "last_updated": "2026-08-26T17:59:30",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260813205635if_/https://pbs.twimg.com/profile_images/2087266012181716992/dbXzcpoY_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1971277775345680384/A9MKPkpj_normal.jpg": {
       "status": "done",
@@ -2673,13 +2673,13 @@
       "last_updated": "2026-08-26T17:18:50"
     },
     "https://pbs.twimg.com/profile_images/2088465311733624833/ridzBOP-_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260816032402_twitter_com_jigugu00_status_2088829108910535020.json"
       ],
-      "last_updated": "2026-08-26T17:18:56",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260816032402if_/https://pbs.twimg.com/profile_images/2088465311733624833/ridzBOP-_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-26T17:59:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260816032402if_/https://pbs.twimg.com/profile_images/2088465311733624833/ridzBOP-_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb5fe79d2b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2088256647546421248/doq1_qJc_normal.jpg": {
       "status": "done",
@@ -2712,22 +2712,22 @@
       "last_updated": "2026-08-26T17:18:50"
     },
     "https://pbs.twimg.com/profile_images/2087417200227573760/lAgJDtc-_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260816082307_twitter_com_jigugu00_status_2088904372428439764.json"
       ],
-      "last_updated": "2026-08-26T17:18:55",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260816082307if_/https://pbs.twimg.com/profile_images/2087417200227573760/lAgJDtc-_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-26T17:59:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260816082307im_/https://pbs.twimg.com/profile_images/2087417200227573760/lAgJDtc-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb5fe79cbc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2087446735694270464/m2k4R-fA_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260816104427_twitter_com_jigugu00_status_2088939942026305618.json"
       ],
-      "last_updated": "2026-08-26T17:57:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260816104427im_/https://pbs.twimg.com/profile_images/2087446735694270464/m2k4R-fA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f624f3a41d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T17:59:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260816104427im_/https://pbs.twimg.com/profile_images/2087446735694270464/m2k4R-fA_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb5fe7ccd70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg": {
       "status": "done",
@@ -2766,13 +2766,13 @@
       "last_updated": "2026-08-26T17:18:50"
     },
     "https://pbs.twimg.com/profile_images/2088717781651054592/lxm0NtNa_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260816114259_twitter_com_jigugu00_status_2088954671696421139.json"
       ],
-      "last_updated": "2026-08-26T17:18:55",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260816114259if_/https://pbs.twimg.com/profile_images/2088717781651054592/lxm0NtNa_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-26T17:59:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260816114259im_/https://pbs.twimg.com/profile_images/2088717781651054592/lxm0NtNa_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb5fe79e7b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2078407875937140736/kfwrb55X_normal.jpg": {
       "status": "done",
@@ -3256,9 +3256,9 @@
         "20260822171900_twitter_com_jigugu00_status_2091213560601039038.json",
         "20260822173822_twitter_com_jigugu00_status_2091218432880693432.json"
       ],
-      "last_updated": "2026-08-26T17:57:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260822173822im_/https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f624f34ae10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T17:59:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260822173822im_/https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb5fe7ce780>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg": {
       "status": "done",
@@ -3358,13 +3358,13 @@
       "last_updated": "2026-08-26T17:18:52"
     },
     "https://pbs.twimg.com/profile_images/2088856791295971328/Yk2aQuM2_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260822170530_twitter_com_jigugu00_status_2091210163093168321.json"
       ],
-      "last_updated": "2026-08-26T17:18:56",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260822170530if_/https://pbs.twimg.com/profile_images/2088856791295971328/Yk2aQuM2_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:00:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260822170530im_/https://pbs.twimg.com/profile_images/2088856791295971328/Yk2aQuM2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb5fe73e660>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2085551654724907008/Ce_PgULY_normal.jpg": {
       "status": "done",
@@ -4102,7 +4102,7 @@
       "last_updated": "2026-08-26T17:18:50"
     },
     "20260816032402_twitter_com_jigugu00_status_2088829108910535020.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPr37dHakAAgQnv.jpg",
@@ -4118,7 +4118,7 @@
           "https://pbs.twimg.com/profile_images/2088256647546421248/doq1_qJc_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:18:56"
+      "last_updated": "2026-08-26T17:59:39"
     },
     "20260816033234_twitter_com_jigugu00_status_2088831254636720622.json": {
       "status": "done",
@@ -4202,7 +4202,7 @@
       "last_updated": "2026-08-26T17:18:50"
     },
     "20260816082307_twitter_com_jigugu00_status_2088904372428439764.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HP0zTKjaMAALOXC.jpg",
@@ -4214,7 +4214,7 @@
           "https://pbs.twimg.com/profile_images/2087417200227573760/lAgJDtc-_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:18:55"
+      "last_updated": "2026-08-26T17:59:42"
     },
     "20260816104427_twitter_com_jigugu00_status_2088939942026305618.json": {
       "status": "failed",
@@ -4305,7 +4305,7 @@
       "last_updated": "2026-08-26T17:18:50"
     },
     "20260816114259_twitter_com_jigugu00_status_2088954671696421139.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -4314,7 +4314,7 @@
           "https://pbs.twimg.com/profile_images/2088717781651054592/lxm0NtNa_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:18:55"
+      "last_updated": "2026-08-26T17:59:52"
     },
     "20260816131834_twitter_com_jigugu00_status_2088978725962674527.json": {
       "status": "done",
@@ -6368,7 +6368,7 @@
       "last_updated": "2026-08-26T17:18:52"
     },
     "20260822170530_twitter_com_jigugu00_status_2091210163093168321.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -6378,7 +6378,7 @@
           "https://pbs.twimg.com/profile_images/2088856791295971328/Yk2aQuM2_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:18:56"
+      "last_updated": "2026-08-26T18:00:00"
     },
     "20260822170624_twitter_com_jigugu00_status_2091210390382551187.json": {
       "status": "done",
