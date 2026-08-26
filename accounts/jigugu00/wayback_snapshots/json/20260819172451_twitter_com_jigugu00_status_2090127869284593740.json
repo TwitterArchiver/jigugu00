@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090127869284593740",
+    "created_at": "2026-08-19T17:24:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090127869284593740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675364163428978689",
+          "start": 3,
+          "username": "chopin__s6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090127869284593740",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089612012758397289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chopin__s6: 希死念慮は波みたいだと思う。押し寄せてきてしばらくすると引いていく。もう大丈夫かもしれないと思った頃にまたやってくる。何度だって寄せては返す。そのたびに耐えて、やり過ごして、また生きる。大丈夫になれないことじゃなくて、大丈夫になってもまた苦しくな…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090127869284593740",
+        "created_at": "2026-08-19T17:24:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090127869284593740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675364163428978689",
+              "start": 3,
+              "username": "chopin__s6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090127869284593740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089612012758397289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chopin__s6: 希死念慮は波みたいだと思う。押し寄せてきてしばらくすると引いていく。もう大丈夫かもしれないと思った頃にまたやってくる。何度だって寄せては返す。そのたびに耐えて、やり過ごして、また生きる。大丈夫になれないことじゃなくて、大丈夫になってもまた苦しくな…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675364163428978689",
+        "conversation_id": "2089612012758397289",
+        "created_at": "2026-08-18T07:15:01.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089612012758397289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089612012758397289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 573,
+          "impression_count": 222002,
+          "like_count": 7180,
+          "quote_count": 100,
+          "reply_count": 10,
+          "retweet_count": 1135
+        },
+        "reply_settings": "everyone",
+        "text": "希死念慮は波みたいだと思う。押し寄せてきてしばらくすると引いていく。もう大丈夫かもしれないと思った頃にまたやってくる。何度だって寄せては返す。そのたびに耐えて、やり過ごして、また生きる。大丈夫になれないことじゃなくて、大丈夫になってもまた苦しくなる、その繰り返しに疲れた"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090127869284593740",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 745,
+          "like_count": 3225,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-02T04:43:00.000Z",
+        "description": "01 ︴鬱 ︴sub @chopin_r62",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "chopin_r62"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/vd7wllw7wxgijs…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/vd7wllw7wxgijse?t=5B76IQ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/J85heOjB9h"
+              }
+            ]
+          }
+        },
+        "id": "1675364163428978689",
+        "is_identity_verified": false,
+        "location": "心に傘を",
+        "most_recent_tweet_id": "2090009483057811618",
+        "name": "𝘴𝘶𝘪𝘯𝘦.",
+        "pinned_tweet_id": "1999005007786684741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675364163428978689/1742516320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851092765784096769/UIrVX8rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 161,
+          "like_count": 12087,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 1543
+        },
+        "url": "https://t.co/J85heOjB9h",
+        "username": "chopin__s6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

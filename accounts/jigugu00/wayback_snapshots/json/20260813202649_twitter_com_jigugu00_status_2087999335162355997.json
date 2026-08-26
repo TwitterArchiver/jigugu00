@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2087999335162355997",
+    "created_at": "2026-08-13T20:26:49.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T21:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087999335162355997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1007003864451567616",
+          "start": 3,
+          "username": "adachirei0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087999335162355997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087949993802072303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adachirei0: 哎呀我画了好多张丽丽丽丽呀我画了好多张丽呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2087999335162355997",
+        "created_at": "2026-08-13T20:26:49.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087999335162355997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1007003864451567616",
+              "start": 3,
+              "username": "adachirei0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087999335162355997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087949993802072303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adachirei0: 哎呀我画了好多张丽丽丽丽呀我画了好多张丽呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1007003864451567616",
+        "conversation_id": "2087949993802072303",
+        "created_at": "2026-08-13T17:10:45.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087949993802072303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087949993802072303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 19334,
+          "like_count": 611,
+          "quote_count": 21,
+          "reply_count": 45,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀我画了好多张丽丽丽丽呀我画了好多张丽呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087999335162355997",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 706,
+          "like_count": 2963,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-13T20:56:45.000Z",
+        "description": "等身大キャラクター用ヒューマノイドロボット、第三世代試作0号機。ボディ開発中。合成音声ライブラリも開発中。マルコフ連鎖bot実験中。TLを素材にしてツイートを自動生成します。\n公式ページっぽいとこ⇒https://t.co/rnJ9DDdhkq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mechanicalgirl.jp/adachi-rei/",
+                "end": 122,
+                "expanded_url": "http://mechanicalgirl.jp/adachi-rei/",
+                "start": 99,
+                "url": "https://t.co/rnJ9DDdhkq"
+              }
+            ]
+          }
+        },
+        "id": "1007003864451567616",
+        "is_identity_verified": false,
+        "location": "HCI3-P0頭部PC",
+        "most_recent_tweet_id": "2087995294302744649",
+        "name": "足立レイ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007003864451567616/1651651129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521756257907970048/nwzT3eSw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138899,
+          "following_count": 298,
+          "like_count": 11383,
+          "listed_count": 303,
+          "media_count": 83,
+          "tweet_count": 53660
+        },
+        "url": "",
+        "username": "adachirei0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

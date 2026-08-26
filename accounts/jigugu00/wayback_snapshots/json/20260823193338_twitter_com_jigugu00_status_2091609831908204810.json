@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2091609831908204810",
+    "created_at": "2026-08-23T19:33:38.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T20:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091609831908204810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736280200504389632",
+          "start": 3,
+          "username": "Saber_23y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091609831908204810",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091552698516828429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Saber_23y: Im crying dude this isn't even hot this is just fucking hilarious"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091609831908204810",
+        "created_at": "2026-08-23T19:33:38.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091609831908204810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736280200504389632",
+              "start": 3,
+              "username": "Saber_23y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091609831908204810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 486
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091552698516828429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Saber_23y: Im crying dude this isn't even hot this is just fucking hilarious"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736280200504389632",
+        "conversation_id": "2091552698516828429",
+        "created_at": "2026-08-23T15:46:37.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091552698516828429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KatDrawsAlot/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/KatDrawsAlot/status/2091257254943117492",
+              "start": 66,
+              "url": "https://t.co/gSlJZXc5h5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091552698516828429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 510,
+          "impression_count": 73879,
+          "like_count": 6604,
+          "quote_count": 4,
+          "reply_count": 53,
+          "retweet_count": 486
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091257254943117492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Im crying dude this isn't even hot this is just fucking hilarious https://t.co/gSlJZXc5h5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091609831908204810",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 816,
+          "like_count": 3515,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1754
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-17T07:01:00.000Z",
+        "description": "Biggest shark in history.🦈\nRuler of the Cenozoic Seas.🌊\nMulti-fandom. Somewhat artist.🎨\nAnything bad, DNI‼️\nPfp and banner by RAPHTOR on Deviantart.",
+        "id": "1736280200504389632",
+        "is_identity_verified": false,
+        "location": "The Ocean...",
+        "most_recent_tweet_id": "2091582058330243577",
+        "name": "Otodus Megalodon",
+        "pinned_tweet_id": "2075549590338904406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736280200504389632/1787332857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090851655382343680/YU3T5rEo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 2216,
+          "like_count": 141763,
+          "listed_count": 12,
+          "media_count": 7990,
+          "tweet_count": 77898
+        },
+        "url": "",
+        "username": "Saber_23y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

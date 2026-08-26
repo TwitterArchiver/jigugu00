@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090164998475816960"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090165033284289012",
+    "created_at": "2026-08-19T19:52:31.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T20:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090165033284289012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QboQwXXbFk",
+          "end": 157,
+          "expanded_url": "https://x.com/jigugu00/status/2090165033284289012/photo/1",
+          "media_key": "3_2090164998475816960",
+          "start": 134,
+          "url": "https://t.co/QboQwXXbFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090165033284289012",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090164998475816960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "24t哮喘片报告，纯主观感受总结。\n服用一盒(24t)，药效在服下后1到7小时期间。时长持续5.5小时左右 3到4.5小时大约为顶峰。\n\n效果：\n较积极：欣快感+社交提升+轻微止痛+轻微防困。\n较消极：心跳加速+血压升高+恶心感（这个我没感觉到但是有人说）+晕眩感。 https://t.co/QboQwXXbFk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2090164998475816960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHB_fAbIAAuyWt.jpg",
+        "width": 818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090164998475816960"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090165033284289012",
+        "created_at": "2026-08-19T19:52:31.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090165033284289012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QboQwXXbFk",
+              "end": 157,
+              "expanded_url": "https://x.com/jigugu00/status/2090165033284289012/photo/1",
+              "media_key": "3_2090164998475816960",
+              "start": 134,
+              "url": "https://t.co/QboQwXXbFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090165033284289012",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090164998475816960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "24t哮喘片报告，纯主观感受总结。\n服用一盒(24t)，药效在服下后1到7小时期间。时长持续5.5小时左右 3到4.5小时大约为顶峰。\n\n效果：\n较积极：欣快感+社交提升+轻微止痛+轻微防困。\n较消极：心跳加速+血压升高+恶心感（这个我没感觉到但是有人说）+晕眩感。 https://t.co/QboQwXXbFk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090165033284289012",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 746,
+          "like_count": 3236,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1590
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

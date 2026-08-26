@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090137455374815737",
+    "created_at": "2026-08-19T18:12:31.000Z",
+    "display_text_range": [
+      12,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090139866508247115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045921763553312768",
+          "start": 0,
+          "username": "_weiwudage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090139866508247115",
+    "in_reply_to_user_id": "2045921763553312768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090137455374815737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_weiwudage ？！萌萌！？\n其实宝宝！我建议上色最好不要用边缘会渐变的笔刷哦！因为会显得糊糊的ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090137440904515584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGo7bDbkAAUlCo.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090137455374815737",
+        "created_at": "2026-08-19T18:12:31.000Z",
+        "display_text_range": [
+          12,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090139866508247115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045921763553312768",
+              "start": 0,
+              "username": "_weiwudage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090139866508247115",
+        "in_reply_to_user_id": "2045921763553312768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090137455374815737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_weiwudage ？！萌萌！？\n其实宝宝！我建议上色最好不要用边缘会渐变的笔刷哦！因为会显得糊糊的ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090137440904515584"
+          ]
+        },
+        "author_id": "2045921763553312768",
+        "conversation_id": "2090137455374815737",
+        "created_at": "2026-08-19T18:02:56.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090137455374815737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4XRmffhZGy",
+              "end": 40,
+              "expanded_url": "https://x.com/_weiwudage/status/2090137455374815737/photo/1",
+              "media_key": "3_2090137440904515584",
+              "start": 17,
+              "url": "https://t.co/4XRmffhZGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090137455374815737",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090137440904515584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无语，怎么这么累。下辈子再细画了 https://t.co/4XRmffhZGy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090139866508247115",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 744,
+          "like_count": 3228,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T17:45:48.000Z",
+        "description": "你别骂我我玻璃心   \n贫穷/内向（？）/餐劵/o割丨取向KAWAII\n只fo好感丨交友大欢迎丨留言请私丨非互fo🚪5.2\n这也是我@makeasweetdream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "makeasweetdream"
+              }
+            ]
+          }
+        },
+        "id": "2045921763553312768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090139309919916428",
+        "name": "苦愛",
+        "pinned_tweet_id": "2083351160136818777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045921763553312768/1786613085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078407875937140736/kfwrb55X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 73,
+          "like_count": 1992,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "_weiwudage",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

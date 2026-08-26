@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090145281715421452",
+    "created_at": "2026-08-19T18:34:02.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090145281715421452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887384585711067139",
+          "start": 3,
+          "username": "mytk1144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090145281715421452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 656
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089870160605937998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mytk1144: ロリの胸を盛るな\nマジで"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090145281715421452",
+        "created_at": "2026-08-19T18:34:02.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090145281715421452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887384585711067139",
+              "start": 3,
+              "username": "mytk1144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090145281715421452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 656
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089870160605937998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mytk1144: ロリの胸を盛るな\nマジで"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887384585711067139",
+        "conversation_id": "2089870160605937998",
+        "created_at": "2026-08-19T00:20:48.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T01:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089870160605937998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089870160605937998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 217685,
+          "like_count": 6189,
+          "quote_count": 61,
+          "reply_count": 77,
+          "retweet_count": 656
+        },
+        "reply_settings": "everyone",
+        "text": "ロリの胸を盛るな\nマジで"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090145281715421452",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 744,
+          "like_count": 3232,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1582
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:15:47.000Z",
+        "description": "今日も響と妖夢はかわいい。\nちょっと絵ができる自称限界同人作家\n妖軌／関西橋筋六艦目",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/mytk1144",
+                "end": 23,
+                "expanded_url": "https://note.com/mytk1144",
+                "start": 0,
+                "url": "https://t.co/aNhFrLqUMc"
+              }
+            ]
+          }
+        },
+        "id": "1887384585711067139",
+        "is_identity_verified": false,
+        "location": "関西",
+        "most_recent_tweet_id": "2090124963990884584",
+        "name": "みょんたか＠次は10/4秋季例大祭＆10/11東方紅楼夢",
+        "pinned_tweet_id": "2083208862283534818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887384585711067139/1780221108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066755129832038400/myboambH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 454,
+          "like_count": 13462,
+          "listed_count": 3,
+          "media_count": 506,
+          "tweet_count": 8743
+        },
+        "url": "https://t.co/aNhFrLqUMc",
+        "username": "mytk1144",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

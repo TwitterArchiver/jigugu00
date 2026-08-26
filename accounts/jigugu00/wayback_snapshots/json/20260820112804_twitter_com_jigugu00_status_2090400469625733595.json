@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090075379293880680",
+    "created_at": "2026-08-20T11:28:04.000Z",
+    "display_text_range": [
+      12,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090400469625733595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617812832464297984",
+          "start": 0,
+          "username": "LTLkindred"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090400469625733595",
+    "in_reply_to_user_id": "1617812832464297984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090398047394210069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LTLkindred 是QQ截屏自动打码((本意是给对面名字打码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090075379293880680",
+        "created_at": "2026-08-20T11:28:04.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090400469625733595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617812832464297984",
+              "start": 0,
+              "username": "LTLkindred"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090400469625733595",
+        "in_reply_to_user_id": "1617812832464297984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090398047394210069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LTLkindred 是QQ截屏自动打码((本意是给对面名字打码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617812832464297984",
+        "conversation_id": "2090075379293880680",
+        "created_at": "2026-08-20T11:18:26.000Z",
+        "display_text_range": [
+          10,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090398047394210069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090398047394210069",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090075379293880680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 虽然但是，给自己头像打码有什么说法，不是一样的嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090400469625733595",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 768,
+          "like_count": 3291,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-24T09:14:14.000Z",
+        "description": "//深宅家中//时常陷入抑郁 //性别未知        \n喜爱玩游戏🎮（经常不知道玩什么 讨厌腾讯\n//喜欢❤️一切可爱的事物 (ૢ˃ꌂ˂⁎)   //oder💊        \n梦想有一天突然考入心仪的学校\n//ASD（聊天能力欠缺）INTP，INFP随机转化//缺爱💔（想要姐姐妹妹）//",
+        "id": "1617812832464297984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090398633669927318",
+        "name": "LTLkindred",
+        "pinned_tweet_id": "2028890908905885823",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024260517905436672/OWpIdUho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 22,
+          "like_count": 2902,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "LTLkindred",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2091107620220518716",
+    "created_at": "2026-08-22T16:59:12.000Z",
+    "display_text_range": [
+      22,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091208578078245287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1989783807122354176",
+          "start": 0,
+          "username": "q8ofin"
+        },
+        {
+          "end": 21,
+          "id": "1956350631981236224",
+          "start": 8,
+          "username": "nerorel_1330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091208578078245287",
+    "in_reply_to_user_id": "1989783807122354176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091208006797316474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q8ofin @nerorel_1330 卧槽。卧槽。卧槽。我没钱了我日。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091107620220518716",
+        "created_at": "2026-08-22T16:59:12.000Z",
+        "display_text_range": [
+          22,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091208578078245287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1989783807122354176",
+              "start": 0,
+              "username": "q8ofin"
+            },
+            {
+              "end": 21,
+              "id": "1956350631981236224",
+              "start": 8,
+              "username": "nerorel_1330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091208578078245287",
+        "in_reply_to_user_id": "1989783807122354176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091208006797316474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q8ofin @nerorel_1330 卧槽。卧槽。卧槽。我没钱了我日。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989783807122354176",
+        "conversation_id": "2091107620220518716",
+        "created_at": "2026-08-22T16:56:56.000Z",
+        "display_text_range": [
+          24,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091208006797316474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            },
+            {
+              "end": 23,
+              "id": "1956350631981236224",
+              "start": 10,
+              "username": "nerorel_1330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091208006797316474",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091183106598605146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 @nerorel_1330 现在京东上有…！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091208578078245287",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 796,
+          "like_count": 3401,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T19:53:33.000Z",
+        "description": "无聊什么神人都来找我聊天好不好\n🚪52 纯绿 开放朋友圈",
+        "id": "1989783807122354176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091208006797316474",
+        "name": "sliik",
+        "pinned_tweet_id": "2091027264624619914",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989783807122354176/1784878990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081067376716726272/2CsvpxYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 25,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "q8ofin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-15T13:42:02.000Z",
+        "description": "05/she/her/LGBTQ+🌈友好/od\n主要是发些碎碎念，实际上备忘录躺着一大堆话\n不太会照顾情绪，鉴定为学数学学的",
+        "id": "1956350631981236224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091200361277362513",
+        "name": "伊藤",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956350860394741760/WW8aFIQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 109,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "nerorel_1330",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

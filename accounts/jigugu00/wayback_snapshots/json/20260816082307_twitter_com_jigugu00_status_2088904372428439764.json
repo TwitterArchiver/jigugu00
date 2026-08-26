@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088882206513180672",
+        "3_2088882206542532608"
+      ],
+      "media_source_tweet_id": [
+        "2088882214314672166",
+        "2088882214314672166"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2088904372428439764",
+    "created_at": "2026-08-16T08:23:07.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088904372428439764"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 51,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 77,
+          "start": 65,
+          "tag": "病み垢女子と繋がりたい"
+        },
+        {
+          "end": 91,
+          "start": 79,
+          "tag": "病み垢男子と繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045085252365025280",
+          "start": 3,
+          "username": "__kaho_i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1kikM6p6Uf",
+          "end": 115,
+          "expanded_url": "https://x.com/__kaho_i/status/2088882214314672166/photo/1",
+          "media_key": "3_2088882206513180672",
+          "start": 92,
+          "url": "https://t.co/1kikM6p6Uf"
+        },
+        {
+          "display_url": "pic.x.com/1kikM6p6Uf",
+          "end": 115,
+          "expanded_url": "https://x.com/__kaho_i/status/2088882214314672166/photo/1",
+          "media_key": "3_2088882206542532608",
+          "start": 92,
+          "url": "https://t.co/1kikM6p6Uf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088904372428439764",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088882206513180672"
+      },
+      {
+        "media_key": "3_2088882206542532608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088882214314672166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @__kaho_i: 🏷𝕥𝕒𝕘𓈒𓏸︎\n\nお友達【求】！\n\n♀￤メンヘラ￤即レス￤束縛￤日常\n\n #病み垢さんと繋がりたい\n #病み垢女子と繋がりたい\n #病み垢男子と繋がりたい https://t.co/1kikM6p6Uf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2088882206513180672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0zTKjaMAALOXC.jpg",
+        "width": 735
+      },
+      {
+        "height": 1176,
+        "media_key": "3_2088882206542532608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0zTKqaEAAU-xm.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088882206513180672",
+            "3_2088882206542532608"
+          ],
+          "media_source_tweet_id": [
+            "2088882214314672166",
+            "2088882214314672166"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2088904372428439764",
+        "created_at": "2026-08-16T08:23:07.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088904372428439764"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 51,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 77,
+              "start": 65,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 91,
+              "start": 79,
+              "tag": "病み垢男子と繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045085252365025280",
+              "start": 3,
+              "username": "__kaho_i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kikM6p6Uf",
+              "end": 115,
+              "expanded_url": "https://x.com/__kaho_i/status/2088882214314672166/photo/1",
+              "media_key": "3_2088882206513180672",
+              "start": 92,
+              "url": "https://t.co/1kikM6p6Uf"
+            },
+            {
+              "display_url": "pic.x.com/1kikM6p6Uf",
+              "end": 115,
+              "expanded_url": "https://x.com/__kaho_i/status/2088882214314672166/photo/1",
+              "media_key": "3_2088882206542532608",
+              "start": 92,
+              "url": "https://t.co/1kikM6p6Uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088904372428439764",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088882206513180672"
+          },
+          {
+            "media_key": "3_2088882206542532608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088882214314672166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @__kaho_i: 🏷𝕥𝕒𝕘𓈒𓏸︎\n\nお友達【求】！\n\n♀￤メンヘラ￤即レス￤束縛￤日常\n\n #病み垢さんと繋がりたい\n #病み垢女子と繋がりたい\n #病み垢男子と繋がりたい https://t.co/1kikM6p6Uf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088882206513180672",
+            "3_2088882206542532608"
+          ]
+        },
+        "author_id": "2045085252365025280",
+        "conversation_id": "2088882214314672166",
+        "created_at": "2026-08-16T06:55:04.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088882214314672166"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 37,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 63,
+              "start": 51,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 77,
+              "start": 65,
+              "tag": "病み垢男子と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kikM6p6Uf",
+              "end": 101,
+              "expanded_url": "https://x.com/__kaho_i/status/2088882214314672166/photo/1",
+              "media_key": "3_2088882206513180672",
+              "start": 78,
+              "url": "https://t.co/1kikM6p6Uf"
+            },
+            {
+              "display_url": "pic.x.com/1kikM6p6Uf",
+              "end": 101,
+              "expanded_url": "https://x.com/__kaho_i/status/2088882214314672166/photo/1",
+              "media_key": "3_2088882206542532608",
+              "start": 78,
+              "url": "https://t.co/1kikM6p6Uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088882214314672166",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088882206513180672"
+          },
+          {
+            "media_key": "3_2088882206542532608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 621,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🏷𝕥𝕒𝕘𓈒𓏸︎\n\nお友達【求】！\n\n♀￤メンヘラ￤即レス￤束縛￤日常\n\n #病み垢さんと繋がりたい\n #病み垢女子と繋がりたい\n #病み垢男子と繋がりたい https://t.co/1kikM6p6Uf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088904372428439764",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 723,
+          "like_count": 3130,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-17T10:21:35.000Z",
+        "description": "￤後輩ﾁｬﾝ@_Remu_chan￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "_Remu_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/",
+                "start": 0,
+                "url": "https://t.co/MPmSUfjFV3"
+              }
+            ]
+          }
+        },
+        "id": "2045085252365025280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088899898729222604",
+        "name": "一ノ瀬かほ",
+        "pinned_tweet_id": "2088882214314672166",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045085252365025280/1785478491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087417200227573760/lAgJDtc-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 84,
+          "like_count": 1454,
+          "listed_count": 10,
+          "media_count": 11,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/MPmSUfjFV3",
+        "username": "__kaho_i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

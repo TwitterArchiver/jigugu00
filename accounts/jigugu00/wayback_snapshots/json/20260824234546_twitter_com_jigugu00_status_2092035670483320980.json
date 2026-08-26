@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2091999233020928232",
+    "created_at": "2026-08-24T23:45:46.000Z",
+    "display_text_range": [
+      16,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T00:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092035670483320980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818503849541578752",
+          "start": 0,
+          "username": "warma_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092035670483320980",
+    "in_reply_to_user_id": "1818503849541578752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092035501498957977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warma_official 欧坤欧坤你要找我约直接给你免费好吧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 304,
+        "media_key": "3_2092035495035633664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQhnMtsbgAAvZr8.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091999233020928232",
+        "created_at": "2026-08-24T23:45:46.000Z",
+        "display_text_range": [
+          16,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092035670483320980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818503849541578752",
+              "start": 0,
+              "username": "warma_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092035670483320980",
+        "in_reply_to_user_id": "1818503849541578752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092035501498957977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warma_official 欧坤欧坤你要找我约直接给你免费好吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092035495035633664"
+          ]
+        },
+        "author_id": "1818503849541578752",
+        "conversation_id": "2091999233020928232",
+        "created_at": "2026-08-24T23:45:06.000Z",
+        "display_text_range": [
+          10,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092035501498957977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NkrmS4OSUN",
+              "end": 125,
+              "expanded_url": "https://x.com/warma_official/status/2092035501498957977/photo/1",
+              "media_key": "3_2092035495035633664",
+              "start": 102,
+              "url": "https://t.co/NkrmS4OSUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092035501498957977",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092035495035633664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091999233020928232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 支持嘞！怎么说也是用心去画的东西 蘑菇的心意的话....就定一亿万元好了！\n开玩笑啦 只要是融入自己劳动和心意的东西本身就是超珍贵的物品呐值得尝试！诶对了 不要忘记给我元帅亲情价哦！ https://t.co/NkrmS4OSUN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092035670483320980",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 815,
+          "like_count": 3552,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1779
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-31T04:28:07.000Z",
+        "description": "宇宙第一的大元帅MOKA！/\n“永远在一起” @zhyzhy655231 真的这么说！/想和有趣的人成为朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "zhyzhy655231"
+              }
+            ]
+          }
+        },
+        "id": "1818503849541578752",
+        "is_identity_verified": false,
+        "location": "全是澪的快乐星球",
+        "most_recent_tweet_id": "2092035501498957977",
+        "name": "MOKA",
+        "pinned_tweet_id": "2076735675261427888",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818503849541578752/1772570547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090409887755051008/sVKfENUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 32,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 737,
+          "tweet_count": 1599
+        },
+        "url": "",
+        "username": "warma_official",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

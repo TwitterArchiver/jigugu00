@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2091173808317321497",
+    "created_at": "2026-08-22T14:41:02.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091173808317321497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2050118191356203008",
+          "start": 3,
+          "username": "F3dSZinewm37746"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091173808317321497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2227
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090538443315245111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @F3dSZinewm37746: 病んだらガリガリになるタイプが良かった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091173808317321497",
+        "created_at": "2026-08-22T14:41:02.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091173808317321497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2050118191356203008",
+              "start": 3,
+              "username": "F3dSZinewm37746"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091173808317321497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090538443315245111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @F3dSZinewm37746: 病んだらガリガリになるタイプが良かった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050118191356203008",
+        "conversation_id": "2090538443315245111",
+        "created_at": "2026-08-20T20:36:19.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090538443315245111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090538443315245111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 808,
+          "impression_count": 2640508,
+          "like_count": 60480,
+          "quote_count": 640,
+          "reply_count": 38,
+          "retweet_count": 2227
+        },
+        "reply_settings": "everyone",
+        "text": "病んだらガリガリになるタイプが良かった"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091173808317321497",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 795,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T07:41:00.000Z",
+        "description": "09/痩せたいです切実に",
+        "id": "2050118191356203008",
+        "is_identity_verified": false,
+        "location": "ああ",
+        "most_recent_tweet_id": "2090879026303045690",
+        "name": "ァ",
+        "pinned_tweet_id": "2088620937155588604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050118191356203008/1782453606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058405007624650752/AOAYwnTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 105,
+          "like_count": 10640,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "F3dSZinewm37746",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

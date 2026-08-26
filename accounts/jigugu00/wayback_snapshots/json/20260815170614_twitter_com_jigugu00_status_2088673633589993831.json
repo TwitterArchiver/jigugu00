@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2088673633589993831",
+    "created_at": "2026-08-15T17:06:14.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T18:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088673633589993831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aswdncr/status…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/aswdncr/status/2088214313270161787",
+          "start": 95,
+          "url": "https://t.co/ix3KXpU0jk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088673633589993831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088214313270161787",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很绝望，经济无法独立每次要钱还要被批一顿。我对家人的恨是真的但爱也是真的。不上不下过的心惊胆战。他们心情好了也许能我好好说话，心情不好只能顺着他们情绪做事，一旦违反就断钱。好想经济独立。 https://t.co/ix3KXpU0jk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2088673633589993831",
+        "created_at": "2026-08-15T17:06:14.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088673633589993831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aswdncr/status…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/aswdncr/status/2088214313270161787",
+              "start": 95,
+              "url": "https://t.co/ix3KXpU0jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088673633589993831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088214313270161787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很绝望，经济无法独立每次要钱还要被批一顿。我对家人的恨是真的但爱也是真的。不上不下过的心惊胆战。他们心情好了也许能我好好说话，心情不好只能顺着他们情绪做事，一旦违反就断钱。好想经济独立。 https://t.co/ix3KXpU0jk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962893857731084289",
+        "conversation_id": "2088214313270161787",
+        "created_at": "2026-08-14T10:41:04.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088214313270161787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088214313270161787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 98183,
+          "like_count": 1866,
+          "quote_count": 14,
+          "reply_count": 248,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "我特别讨厌问家里要钱，感觉很没尊严很像摇尾乞食的宠物一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088673633589993831",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 712,
+          "like_count": 3089,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-02T15:02:38.000Z",
+        "description": "What’s your ETA.",
+        "id": "1962893857731084289",
+        "is_identity_verified": false,
+        "location": "www.没有门槛且对你不感兴趣.com",
+        "most_recent_tweet_id": "2088637148782289161",
+        "name": "降降火气吧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962893857731084289/1775615864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087961012511346688/j_XagE0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13104,
+          "following_count": 94,
+          "like_count": 8895,
+          "listed_count": 33,
+          "media_count": 488,
+          "tweet_count": 8440
+        },
+        "url": "",
+        "username": "aswdncr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

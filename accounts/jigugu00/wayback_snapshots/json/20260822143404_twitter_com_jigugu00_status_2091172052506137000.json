@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2091068822170337736",
+    "created_at": "2026-08-22T14:34:04.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091172052506137000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049690086623911936",
+          "start": 0,
+          "username": "2hollisshowmore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091172052506137000",
+    "in_reply_to_user_id": "2049690086623911936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091068822170337736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2hollisshowmore 卧槽求链接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2091068814666739712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQT4AgsbsAA_h4_.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091068822170337736",
+        "created_at": "2026-08-22T14:34:04.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091172052506137000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049690086623911936",
+              "start": 0,
+              "username": "2hollisshowmore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091172052506137000",
+        "in_reply_to_user_id": "2049690086623911936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091068822170337736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2hollisshowmore 卧槽求链接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091068814666739712"
+          ]
+        },
+        "author_id": "2049690086623911936",
+        "conversation_id": "2091068822170337736",
+        "created_at": "2026-08-22T07:43:52.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091068822170337736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ys5oPScCYL",
+              "end": 106,
+              "expanded_url": "https://x.com/2hollisshowmore/status/2091068822170337736/photo/1",
+              "media_key": "3_2091068814666739712",
+              "start": 83,
+              "url": "https://t.co/ys5oPScCYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091068822170337736",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091068814666739712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4339,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我他妈也是神了服了我今天穿了个中长裙 就是那种到大腿的裙子然后坐地铁有个男的一直盯着我裆看于是我就把裙子掀起来了 因为我下面穿的是这个短裤。要看就大大方方地看呗！ https://t.co/ys5oPScCYL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091172052506137000",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 795,
+          "like_count": 3381,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-30T03:20:41.000Z",
+        "description": "我只是一只很懵逼的蛋小黄。\n喜欢我的话 请投喂蛋币 这是佛在救你",
+        "id": "2049690086623911936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091164991064019243",
+        "name": "蛋蛋的忧桑≡ω≡",
+        "pinned_tweet_id": "2077932766763864103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049690086623911936/1777570039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058374843717111808/kWEsQxSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 248,
+          "like_count": 1545,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 3080
+        },
+        "url": "",
+        "username": "2hollisshowmore",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

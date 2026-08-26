@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2091275581371588856",
+    "created_at": "2026-08-22T21:28:41.000Z",
+    "display_text_range": [
+      13,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T22:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091276395272114675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1520723251705434112",
+          "start": 0,
+          "username": "shion0_25mg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091276395272114675",
+    "in_reply_to_user_id": "1520723251705434112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091275581371588856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shion0_25mg 姐姐你好可爱。。好喜欢。。希望能和你一样自信。。TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091275577173118976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQW0DrDakAAxvcN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091275581371588856",
+        "created_at": "2026-08-22T21:28:41.000Z",
+        "display_text_range": [
+          13,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T22:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091276395272114675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520723251705434112",
+              "start": 0,
+              "username": "shion0_25mg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091276395272114675",
+        "in_reply_to_user_id": "1520723251705434112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091275581371588856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shion0_25mg 姐姐你好可爱。。好喜欢。。希望能和你一样自信。。TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091275577173118976"
+          ]
+        },
+        "author_id": "1520723251705434112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Samba",
+              "id": "888150456274374656",
+              "name": "Samba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Samba",
+              "id": "888150456274374656",
+              "name": "Samba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286088035373731840",
+              "name": "Music of Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2091275581371588856",
+        "created_at": "2026-08-22T21:25:27.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T22:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091275581371588856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLxVLbqP4H",
+              "end": 73,
+              "expanded_url": "https://x.com/shion0_25mg/status/2091275581371588856/photo/1",
+              "media_key": "3_2091275577173118976",
+              "start": 50,
+              "url": "https://t.co/qLxVLbqP4H"
+            },
+            {
+              "display_url": "x.com/kuzuwa195807/s…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/kuzuwa195807/status/2091214004035424428",
+              "start": 74,
+              "url": "https://t.co/p8dSw2HfWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091275581371588856",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091275577173118976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 669,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091214004035424428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "いやだから生物の差し入れは受け取れないと……\n\n求愛のサンバ！？！？\n\nそれならまぁ、いいでしょう https://t.co/qLxVLbqP4H https://t.co/p8dSw2HfWM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091276395272114675",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 805,
+          "like_count": 3480,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-01T11:14:37.000Z",
+        "description": "2026年始動「大大嬢」のボーカル@DAIOJO_official┆歌、作詞、エッセイ等┆158cm76kg┆総フォロワー11万人┆メディア掲載多数┆サブ@uten_chu_shi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "DAIOJO_official"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "uten_chu_shi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shion025mg",
+                "end": 23,
+                "expanded_url": "https://lit.link/shion025mg",
+                "start": 0,
+                "url": "https://t.co/35z9Aw4AQ2"
+              }
+            ]
+          }
+        },
+        "id": "1520723251705434112",
+        "is_identity_verified": false,
+        "location": "お仕事のご依頼はDMまで(DM運営管理)",
+        "most_recent_tweet_id": "2091275581371588856",
+        "name": "藤田シオン💙Shion Fujita",
+        "pinned_tweet_id": "2087194324178174424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520723251705434112/1757254410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019367085726715904/GVLVq9QL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83193,
+          "following_count": 366,
+          "like_count": 49793,
+          "listed_count": 242,
+          "media_count": 4459,
+          "tweet_count": 14357
+        },
+        "url": "https://t.co/35z9Aw4AQ2",
+        "username": "shion0_25mg",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

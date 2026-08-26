@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090311264048414720"
+      ],
+      "media_source_tweet_id": [
+        "2090311268183982472"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090404117265138145",
+    "created_at": "2026-08-20T11:42:34.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090404117265138145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720798800447713280",
+          "start": 3,
+          "username": "setiekaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iYGhAcHQC2",
+          "end": 50,
+          "expanded_url": "https://x.com/setiekaki/status/2090311268183982472/photo/1",
+          "media_key": "3_2090311264048414720",
+          "start": 27,
+          "url": "https://t.co/iYGhAcHQC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090404117265138145",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090311264048414720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090311268183982472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @setiekaki: ギリかわらん好きなとこ https://t.co/iYGhAcHQC2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_2090311264048414720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJHBQuagAAJsKP.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090311264048414720"
+          ],
+          "media_source_tweet_id": [
+            "2090311268183982472"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090404117265138145",
+        "created_at": "2026-08-20T11:42:34.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090404117265138145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720798800447713280",
+              "start": 3,
+              "username": "setiekaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYGhAcHQC2",
+              "end": 50,
+              "expanded_url": "https://x.com/setiekaki/status/2090311268183982472/photo/1",
+              "media_key": "3_2090311264048414720",
+              "start": 27,
+              "url": "https://t.co/iYGhAcHQC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090404117265138145",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090311264048414720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090311268183982472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @setiekaki: ギリかわらん好きなとこ https://t.co/iYGhAcHQC2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090311264048414720"
+          ]
+        },
+        "author_id": "1720798800447713280",
+        "conversation_id": "2090311268183982472",
+        "created_at": "2026-08-20T05:33:37.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090311268183982472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYGhAcHQC2",
+              "end": 35,
+              "expanded_url": "https://x.com/setiekaki/status/2090311268183982472/photo/1",
+              "media_key": "3_2090311264048414720",
+              "start": 12,
+              "url": "https://t.co/iYGhAcHQC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090311268183982472",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090311264048414720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 536,
+          "impression_count": 197470,
+          "like_count": 5384,
+          "quote_count": 39,
+          "reply_count": 4,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "ギリかわらん好きなとこ https://t.co/iYGhAcHQC2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090404117265138145",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 768,
+          "like_count": 3293,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1625
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-04T13:43:18.000Z",
+        "description": "ここはサブ！￤本垢 @setiT_T ￤フォロバ気になさらず❕￤鍵 @sechi_x_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "setiT_T"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "sechi_x_x"
+              }
+            ]
+          }
+        },
+        "id": "1720798800447713280",
+        "is_identity_verified": false,
+        "location": "ヘッダー⭐️@ama_ekaki_",
+        "most_recent_tweet_id": "2090402678233018735",
+        "name": "せーち",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720798800447713280/1750503820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749473974810198016/wnANS8tP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 230,
+          "like_count": 15156,
+          "listed_count": 1,
+          "media_count": 278,
+          "tweet_count": 3787
+        },
+        "url": "",
+        "username": "setiekaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

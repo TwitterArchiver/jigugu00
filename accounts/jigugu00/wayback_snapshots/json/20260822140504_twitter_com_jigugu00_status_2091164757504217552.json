@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090935655262228864",
+    "created_at": "2026-08-22T14:05:04.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091164757504217552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1520723251705434112",
+          "start": 0,
+          "username": "shion0_25mg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091164757504217552",
+    "in_reply_to_user_id": "1520723251705434112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090935655262228864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shion0_25mg 妈妈级别。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090935649390174208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQR-5RYaIAAIMVd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090935649394470912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQR-5RZbsAAJWyN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090935655262228864",
+        "created_at": "2026-08-22T14:05:04.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091164757504217552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520723251705434112",
+              "start": 0,
+              "username": "shion0_25mg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091164757504217552",
+        "in_reply_to_user_id": "1520723251705434112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090935655262228864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shion0_25mg 妈妈级别。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090935649390174208",
+            "3_2090935649394470912"
+          ]
+        },
+        "author_id": "1520723251705434112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090935655262228864",
+        "created_at": "2026-08-21T22:54:42.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T23:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090935655262228864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qrnxJPehf",
+              "end": 67,
+              "expanded_url": "https://x.com/shion0_25mg/status/2090935655262228864/photo/1",
+              "media_key": "3_2090935649390174208",
+              "start": 44,
+              "url": "https://t.co/0qrnxJPehf"
+            },
+            {
+              "display_url": "pic.x.com/0qrnxJPehf",
+              "end": 67,
+              "expanded_url": "https://x.com/shion0_25mg/status/2090935655262228864/photo/1",
+              "media_key": "3_2090935649394470912",
+              "start": 44,
+              "url": "https://t.co/0qrnxJPehf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090935655262228864",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090935649390174208"
+          },
+          {
+            "media_key": "3_2090935649394470912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9677,
+          "impression_count": 8784561,
+          "like_count": 227311,
+          "quote_count": 3046,
+          "reply_count": 479,
+          "retweet_count": 15071
+        },
+        "reply_settings": "everyone",
+        "text": "体型批判で傷付いた小娘はわたくしのところに来なさい。\n3時間煮込んだ角煮が、あるわよ。 https://t.co/0qrnxJPehf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091164757504217552",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 795,
+          "like_count": 3380,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-01T11:14:37.000Z",
+        "description": "2026年始動「大大嬢」のボーカル@DAIOJO_official┆歌、作詞、エッセイ等┆158cm76kg┆総フォロワー11万人┆メディア掲載多数┆サブ@uten_chu_shi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "DAIOJO_official"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "uten_chu_shi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shion025mg",
+                "end": 23,
+                "expanded_url": "https://lit.link/shion025mg",
+                "start": 0,
+                "url": "https://t.co/35z9Aw4AQ2"
+              }
+            ]
+          }
+        },
+        "id": "1520723251705434112",
+        "is_identity_verified": false,
+        "location": "お仕事のご依頼はDMまで(DM運営管理)",
+        "most_recent_tweet_id": "2091162238275187148",
+        "name": "藤田シオン💙Shion Fujita",
+        "pinned_tweet_id": "2087194324178174424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520723251705434112/1757254410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019367085726715904/GVLVq9QL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81413,
+          "following_count": 366,
+          "like_count": 49777,
+          "listed_count": 243,
+          "media_count": 4458,
+          "tweet_count": 14355
+        },
+        "url": "https://t.co/35z9Aw4AQ2",
+        "username": "shion0_25mg",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

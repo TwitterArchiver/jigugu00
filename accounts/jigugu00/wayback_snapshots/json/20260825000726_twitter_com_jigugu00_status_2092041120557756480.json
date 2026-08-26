@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2092041120557756480",
+    "created_at": "2026-08-25T00:07:26.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092041120557756480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hikikomoriutu/…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/hikikomoriutu/status/2091802820504948979",
+          "start": 148,
+          "url": "https://t.co/eG9wrxh1jj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092041120557756480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091802820504948979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我当时查出来是重郁重焦还有一堆其他的\n第一次吃帕罗西汀,正作用没感觉到,但是副作用给我差点搞粪坑里\n第二次吃舍曲林尼玛作用与淀粉片不相上下.医生还开了其他破药搞得我剧烈变猪.\n呃自从我od之后DXM好像给我重郁干成中郁了 普瑞给我焦虑干死了\n\n说这些可能是希望正视精神活性药物的医疗用途什么的吧 https://t.co/eG9wrxh1jj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2092041120557756480",
+        "created_at": "2026-08-25T00:07:26.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092041120557756480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hikikomoriutu/…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/hikikomoriutu/status/2091802820504948979",
+              "start": 148,
+              "url": "https://t.co/eG9wrxh1jj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092041120557756480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091802820504948979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时查出来是重郁重焦还有一堆其他的\n第一次吃帕罗西汀,正作用没感觉到,但是副作用给我差点搞粪坑里\n第二次吃舍曲林尼玛作用与淀粉片不相上下.医生还开了其他破药搞得我剧烈变猪.\n呃自从我od之后DXM好像给我重郁干成中郁了 普瑞给我焦虑干死了\n\n说这些可能是希望正视精神活性药物的医疗用途什么的吧 https://t.co/eG9wrxh1jj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036097392855007232",
+        "conversation_id": "2091802820504948979",
+        "created_at": "2026-08-24T08:20:30.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091802820504948979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091802820504948979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2082,
+          "impression_count": 1682208,
+          "like_count": 13113,
+          "quote_count": 491,
+          "reply_count": 46,
+          "retweet_count": 860
+        },
+        "reply_settings": "everyone",
+        "text": "統合失調症→一生涯治らない、一生涯服薬が必要\n双極性障害→一生涯治らない、一生涯服薬が必要\n重度うつ病→治る可能性は困難、長期服薬が必要\n中等うつ病→治る可能性は低い、中期服薬が必要\n軽度うつ病→治る可能性は高い、短期服薬が必要\n詐病うつ病→治す可能性は低い、薬はゴミ箱へ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092041120557756480",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 815,
+          "like_count": 3557,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-02T03:44:03.000Z",
+        "description": "うつ病〜双極10年以上、精神科入院10回近くトータル4年、自◯未遂4回 救急搬送3回🏥多くの方々に支えられながら生きられてます #闘病垢自己紹介カード 精神疾患スペースや📻精神疾患に通ずるような社会課題についてや📰ビットコインについて₿ポストしてます。気軽にフォローいいねリポスト歓迎 無言フォロー🙏ENFP-T",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 64,
+                "tag": "闘病垢自己紹介カード"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1OPK0MV9HNGCC?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/TfzM7qHzkG"
+              }
+            ]
+          }
+        },
+        "id": "1036097392855007232",
+        "is_identity_verified": false,
+        "location": "欲しいものリスト→",
+        "most_recent_tweet_id": "2091894009308557429",
+        "name": "めんたん❤️‍🩹うつ病〜双極性障害💊ビットコイン〜仮想通貨💸",
+        "pinned_tweet_id": "1672546467641434113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036097392855007232/1743321089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928256589091536896/-eU0rk8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7977,
+          "following_count": 2546,
+          "like_count": 42657,
+          "listed_count": 32,
+          "media_count": 1730,
+          "tweet_count": 39869
+        },
+        "url": "https://t.co/TfzM7qHzkG",
+        "username": "hikikomoriutu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

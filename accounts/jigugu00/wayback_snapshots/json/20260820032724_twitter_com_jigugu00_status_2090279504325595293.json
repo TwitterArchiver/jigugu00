@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090279504325595293",
+    "created_at": "2026-08-20T03:27:24.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T04:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090279504325595293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ribenseijin/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ribenseijin/status/2090029999588045170",
+          "start": 14,
+          "url": "https://t.co/EA0dZbo7Yc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090279504325595293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090029999588045170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以握拳变成小行星撞死他们 https://t.co/EA0dZbo7Yc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 462,
+        "media_key": "3_2090029996022923264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFHNTrbgAA7Zfj.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090279504325595293",
+        "created_at": "2026-08-20T03:27:24.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T04:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090279504325595293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ribenseijin/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ribenseijin/status/2090029999588045170",
+              "start": 14,
+              "url": "https://t.co/EA0dZbo7Yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090279504325595293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090029999588045170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以握拳变成小行星撞死他们 https://t.co/EA0dZbo7Yc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090029996022923264"
+          ]
+        },
+        "author_id": "2807209837",
+        "conversation_id": "2090029999588045170",
+        "created_at": "2026-08-19T10:55:57.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090029999588045170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54LH0jIW7d",
+              "end": 39,
+              "expanded_url": "https://x.com/ribenseijin/status/2090029999588045170/photo/1",
+              "media_key": "3_2090029996022923264",
+              "start": 16,
+              "url": "https://t.co/54LH0jIW7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090029999588045170",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090029996022923264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 815,
+          "impression_count": 654348,
+          "like_count": 43687,
+          "quote_count": 84,
+          "reply_count": 18,
+          "retweet_count": 999
+        },
+        "reply_settings": "everyone",
+        "text": "ひとりあぶれたので流れ星にした https://t.co/54LH0jIW7d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090279504325595293",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 747,
+          "like_count": 3250,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-13T09:59:11.000Z",
+        "description": "一コママンガ／短編アニメを作っています お仕事依頼・制作相談はDM or メール ribenseijin@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "enraise.net/creators/riben…",
+                "end": 23,
+                "expanded_url": "https://enraise.net/creators/ribenseijin",
+                "start": 0,
+                "url": "https://t.co/J3pUfh9D4q"
+              }
+            ]
+          }
+        },
+        "id": "2807209837",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090278911930478858",
+        "name": "リベンセイ",
+        "pinned_tweet_id": "2086665628010877250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2807209837/1707361963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789432496826040320/x_ULoQEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46237,
+          "following_count": 1722,
+          "like_count": 27628,
+          "listed_count": 271,
+          "media_count": 2950,
+          "tweet_count": 16742
+        },
+        "url": "https://t.co/J3pUfh9D4q",
+        "username": "ribenseijin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

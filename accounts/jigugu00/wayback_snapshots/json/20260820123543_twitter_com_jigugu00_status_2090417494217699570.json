@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090290733219754378",
+    "created_at": "2026-08-20T12:35:43.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090417494217699570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943628759074312192",
+          "start": 0,
+          "username": "k3633455837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090417494217699570",
+    "in_reply_to_user_id": "1943628759074312192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090290733219754378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k3633455837 我要吃，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2090290717969338369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQI0VUnb0AE4zKj.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090290733219754378",
+        "created_at": "2026-08-20T12:35:43.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090417494217699570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943628759074312192",
+              "start": 0,
+              "username": "k3633455837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090417494217699570",
+        "in_reply_to_user_id": "1943628759074312192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090290733219754378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3633455837 我要吃，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090290717969338369"
+          ]
+        },
+        "author_id": "1943628759074312192",
+        "conversation_id": "2090290733219754378",
+        "created_at": "2026-08-20T04:12:01.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090290733219754378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvLQgPUE02",
+              "end": 28,
+              "expanded_url": "https://x.com/k3633455837/status/2090290733219754378/photo/1",
+              "media_key": "3_2090290717969338369",
+              "start": 5,
+              "url": "https://t.co/qvLQgPUE02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090290733219754378",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090290717969338369"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何为大户 https://t.co/qvLQgPUE02"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090417494217699570",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 784,
+          "like_count": 3298,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1628
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-11T11:09:53.000Z",
+        "description": "精神病一个 喜欢另外一个精神病@deauywj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "deauywj"
+              }
+            ]
+          }
+        },
+        "id": "1943628759074312192",
+        "is_identity_verified": false,
+        "location": "理想国",
+        "most_recent_tweet_id": "2090393409303511502",
+        "name": "苦水",
+        "pinned_tweet_id": "2082432830752313780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943628759074312192/1755275364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078889682684030976/mX9zCSEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 117,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2187
+        },
+        "url": "",
+        "username": "k3633455837",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

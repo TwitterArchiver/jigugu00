@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2088555280053514447",
+    "created_at": "2026-08-15T17:16:24.000Z",
+    "display_text_range": [
+      16,
+      161
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T18:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088676192358715653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008829456170065920",
+          "start": 0,
+          "username": "yume_jirai2084"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088676192358715653",
+    "in_reply_to_user_id": "2008829456170065920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088555280053514447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yume_jirai2084 ff外致歉。。TT\n简体中文区这边的话我一般会吃\n右美沙芬也就是DXM（Dextromethorphan）\n金刚烷胺（Amantadine）\n加巴喷丁（Gabapentin）\n普瑞巴林（Pregabalin）\n但是我似乎没看到有日本0D的女生吃后三个，，也许是日本对它们管的比较严什么的。？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2088555280053514447",
+        "created_at": "2026-08-15T17:16:24.000Z",
+        "display_text_range": [
+          16,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088676192358715653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008829456170065920",
+              "start": 0,
+              "username": "yume_jirai2084"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088676192358715653",
+        "in_reply_to_user_id": "2008829456170065920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088555280053514447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yume_jirai2084 ff外致歉。。TT\n简体中文区这边的话我一般会吃\n右美沙芬也就是DXM（Dextromethorphan）\n金刚烷胺（Amantadine）\n加巴喷丁（Gabapentin）\n普瑞巴林（Pregabalin）\n但是我似乎没看到有日本0D的女生吃后三个，，也许是日本对它们管的比较严什么的。？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008829456170065920",
+        "conversation_id": "2088555280053514447",
+        "created_at": "2026-08-15T09:15:56.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088555280053514447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088555280053514447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10948,
+          "like_count": 191,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "みんななんの薬で🅾️Ⓓしてるの！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088676192358715653",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 713,
+          "like_count": 3090,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T09:14:17.000Z",
+        "description": "病み垢￤関西￤12世代￤♀￤自傷￤自発苦手￤🗝️@yume_yami8420\n251      ￤@sweet_hurtS2\n姉　　￤@miyu1111111122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "yume_yami8420"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "sweet_hurtS2"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "miyu1111111122"
+              }
+            ]
+          }
+        },
+        "id": "2008829456170065920",
+        "is_identity_verified": false,
+        "location": "ただうらやみしくて貴方を見た。",
+        "most_recent_tweet_id": "2088662541551743334",
+        "name": "ゆめ",
+        "pinned_tweet_id": "2087907691100598558",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008829456170065920/1784530061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086992314858360833/5t2kklNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 255,
+          "like_count": 12414,
+          "listed_count": 14,
+          "media_count": 69,
+          "tweet_count": 3231
+        },
+        "url": "",
+        "username": "yume_jirai2084",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

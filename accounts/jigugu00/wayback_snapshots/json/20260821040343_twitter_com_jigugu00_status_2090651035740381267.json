@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090622658220294339",
+    "created_at": "2026-08-21T04:03:43.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T05:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090651035740381267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "886817207170224128",
+          "start": 0,
+          "username": "RoninBlazkowicz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090651035740381267",
+    "in_reply_to_user_id": "886817207170224128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090638910854754605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoninBlazkowicz 唉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090622658220294339",
+        "created_at": "2026-08-21T04:03:43.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090651035740381267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "886817207170224128",
+              "start": 0,
+              "username": "RoninBlazkowicz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090651035740381267",
+        "in_reply_to_user_id": "886817207170224128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090638910854754605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoninBlazkowicz 唉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886817207170224128",
+        "conversation_id": "2090622658220294339",
+        "created_at": "2026-08-21T03:15:33.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090638910854754605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090638910854754605",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090622658220294339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 全国都差不多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090651035740381267",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 794,
+          "like_count": 3322,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-17T05:17:53.000Z",
+        "description": "SMOKELORN MERCY",
+        "id": "886817207170224128",
+        "is_identity_verified": false,
+        "location": "Diamond City",
+        "most_recent_tweet_id": "2090638910854754605",
+        "name": "GAS 鹈鹕",
+        "pinned_tweet_id": "1523550037241868288",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886817207170224128/1500269975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402923023032893442/YfurV1FW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 1027,
+          "like_count": 23935,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 6925
+        },
+        "url": "",
+        "username": "RoninBlazkowicz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

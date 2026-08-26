@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2091164385242988756",
+    "created_at": "2026-08-22T18:02:32.000Z",
+    "display_text_range": [
+      17,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T19:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091224517448442024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689988813337362432",
+          "start": 0,
+          "username": "l10906528940841"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091224517448442024",
+    "in_reply_to_user_id": "1689988813337362432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091218013685232008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l10906528940841 对。但是我好害怕成瘾什么的。本来是为了让自己舒服才吃的药，一成瘾就变成不吃就不舒服。。太恐怖了我日。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091164385242988756",
+        "created_at": "2026-08-22T18:02:32.000Z",
+        "display_text_range": [
+          17,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091224517448442024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689988813337362432",
+              "start": 0,
+              "username": "l10906528940841"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091224517448442024",
+        "in_reply_to_user_id": "1689988813337362432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091218013685232008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l10906528940841 对。但是我好害怕成瘾什么的。本来是为了让自己舒服才吃的药，一成瘾就变成不吃就不舒服。。太恐怖了我日。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689988813337362432",
+        "conversation_id": "2091164385242988756",
+        "created_at": "2026-08-22T17:36:42.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091218013685232008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091218013685232008",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091164385242988756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 我也是我感觉其实pr助眠真的好使（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091224517448442024",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 800,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1710
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T13:15:14.000Z",
+        "description": "",
+        "id": "1689988813337362432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091218013685232008",
+        "name": "樣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689988813337362432/1783691528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078767497088757761/PSedNQqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "l10906528940841",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

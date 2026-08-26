@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2088194099379859476",
+    "created_at": "2026-08-14T09:20:44.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088194099379859476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1749798935357767680",
+          "start": 3,
+          "username": "Nameiccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088194099379859476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088080384580071903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nameiccc: 逼是逼，福是福，你们不觉得很可笑吗？如果逼念成福，那男的不就成无福之人了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2088194099379859476",
+        "created_at": "2026-08-14T09:20:44.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088194099379859476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1749798935357767680",
+              "start": 3,
+              "username": "Nameiccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088194099379859476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088080384580071903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nameiccc: 逼是逼，福是福，你们不觉得很可笑吗？如果逼念成福，那男的不就成无福之人了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749798935357767680",
+        "conversation_id": "2088080384580071903",
+        "created_at": "2026-08-14T01:48:52.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088080384580071903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088080384580071903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 43990,
+          "like_count": 799,
+          "quote_count": 5,
+          "reply_count": 288,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "逼是逼，福是福，你们不觉得很可笑吗？如果逼念成福，那男的不就成无福之人了吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088194099379859476",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 711,
+          "like_count": 2984,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-23T14:19:18.000Z",
+        "description": "这个人怪可爱的呢",
+        "id": "1749798935357767680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088080384580071903",
+        "name": "海克斯科技",
+        "pinned_tweet_id": "2037652562296615053",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884611841625890816/fNfl7BWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67482,
+          "following_count": 20,
+          "like_count": 1307,
+          "listed_count": 148,
+          "media_count": 415,
+          "tweet_count": 914
+        },
+        "url": "",
+        "username": "Nameiccc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090610385091211579",
+    "created_at": "2026-08-21T01:22:12.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090610385091211579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiiroGekkaFlan…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2090450020269203916",
+          "start": 123,
+          "url": "https://t.co/TJCeWjnETl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090610385091211579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090450020269203916",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我恨死这群人了。对别人的痛苦无助视而不见，他们往往带着冷漠、或是嘲讽、或是站在高处俯视底层的傲慢、或是视野狭窄地说着看似悲悯的大空话。\n这就是为什么我讨厌家人、医生键政区、孙吧男、健全蛆，甚至□□的原因。\n人与人之间无法真正理解是我最感到悲哀的 https://t.co/TJCeWjnETl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090610385091211579",
+        "created_at": "2026-08-21T01:22:12.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090610385091211579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiiroGekkaFlan…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2090450020269203916",
+              "start": 123,
+              "url": "https://t.co/TJCeWjnETl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090610385091211579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090450020269203916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我恨死这群人了。对别人的痛苦无助视而不见，他们往往带着冷漠、或是嘲讽、或是站在高处俯视底层的傲慢、或是视野狭窄地说着看似悲悯的大空话。\n这就是为什么我讨厌家人、医生键政区、孙吧男、健全蛆，甚至□□的原因。\n人与人之间无法真正理解是我最感到悲哀的 https://t.co/TJCeWjnETl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2090450020269203916",
+        "created_at": "2026-08-20T14:44:58.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090450020269203916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090450020269203916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4513,
+          "like_count": 198,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很讨厌无病呻吟这个词，每个人对世界的感知是不一样的，你感知不到，不代表别人感知不到，而无病呻吟这个词仿佛就是对敏感之人的歧视"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090610385091211579",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 793,
+          "like_count": 3315,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1637
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2090602699784130659",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 881,
+          "like_count": 14333,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 4347
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2087998998049329313",
+    "created_at": "2026-08-13T20:25:28.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T21:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087998998049329313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2034465952830775298",
+          "start": 3,
+          "username": "cutterexicfreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087998998049329313",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087712143126757499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutterexicfreak: i forget that self harm is like not normal"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2087998998049329313",
+        "created_at": "2026-08-13T20:25:28.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087998998049329313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2034465952830775298",
+              "start": 3,
+              "username": "cutterexicfreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087998998049329313",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087712143126757499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutterexicfreak: i forget that self harm is like not normal"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034465952830775298",
+        "conversation_id": "2087712143126757499",
+        "created_at": "2026-08-13T01:25:37.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087712143126757499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087712143126757499",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 48817,
+          "like_count": 7984,
+          "quote_count": 26,
+          "reply_count": 21,
+          "retweet_count": 2202
+        },
+        "reply_settings": "everyone",
+        "text": "i forget that self harm is like not normal"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087998998049329313",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 706,
+          "like_count": 2962,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-19T03:04:58.000Z",
+        "description": "🩸 friendliest degenerate ・・・𑣲 #cannibaltwt × #obslovetwt 𑁤\n⧽ ⧽ ⧽ 💌 https://t.co/1C2PdZHnsf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 30,
+                "tag": "cannibaltwt"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "tag": "obslovetwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cutterexicfreak.straw.page",
+                "end": 90,
+                "expanded_url": "https://cutterexicfreak.straw.page",
+                "start": 67,
+                "url": "https://t.co/1C2PdZHnsf"
+              }
+            ]
+          }
+        },
+        "id": "2034465952830775298",
+        "is_identity_verified": false,
+        "location": "♱ in recovery 🫀",
+        "most_recent_tweet_id": "2087995352876036374",
+        "name": "ｃａｎｎｉｂａｌ : ifb",
+        "pinned_tweet_id": "2086940069420769334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034465952830775298/1784068942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077163286974320640/pYJOOnwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 282,
+          "like_count": 2046,
+          "listed_count": 8,
+          "media_count": 77,
+          "tweet_count": 1295
+        },
+        "url": "",
+        "username": "cutterexicfreak",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

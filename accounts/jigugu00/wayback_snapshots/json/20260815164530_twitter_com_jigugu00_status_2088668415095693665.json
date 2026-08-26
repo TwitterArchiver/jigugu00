@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2056598549660664003",
+    "created_at": "2026-08-15T16:45:30.000Z",
+    "display_text_range": [
+      17,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088668415095693665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088668415095693665",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056598549660664003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming 这个粉黑配色的妹纸太可爱了。。。能画吗。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056598530144542720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqBd4LbIAAoRdA.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1064,
+        "media_key": "3_2056598530136174592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqBd4JbcAAT-NH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1532,
+        "media_key": "3_2056598530132004864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqBd4Ib0AAb_YU.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056598530144571392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqBd4LbkAAap87.jpg",
+        "width": 1460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2056598549660664003",
+        "created_at": "2026-08-15T16:45:30.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088668415095693665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088668415095693665",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056598549660664003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming 这个粉黑配色的妹纸太可爱了。。。能画吗。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056598530144542720",
+            "3_2056598530136174592",
+            "3_2056598530132004864",
+            "3_2056598530144571392"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          }
+        ],
+        "conversation_id": "2056598549660664003",
+        "created_at": "2026-05-19T04:51:18.000Z",
+        "display_text_range": [
+          0,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056598549660664003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 174,
+              "start": 169,
+              "tag": "TRPG"
+            }
+          ],
+          "urls": [
+            {
+              "description": "メンヘラテーマのナラティブ系TRPGの体験版です。 「救済」と「共依存」のあいだで揺れる関係性を、 プレイヤー同士で描いていくことを目的としています。 少人数・短時間でも遊べる構成となっており、 感情の変化や心の状態に焦点を当てたセッション体験が可能です。 --- 【プレイ情報】 ・プレイ人数：2人 ・対象年齢：15歳以上 ・プレイ時間：短時間セッション対応 --- 【イラストレーター情報】 ・カバーバケジイラストレーター:みたう(@mztm_usg)先生 ・サンプルキャラクターデザイナー:葛飾はるの(onigiri_uu)先生 --- 【特徴】 ・感情と関係性の変化を重視したナラティブ設計",
+              "display_url": "kkkyouau.booth.pm/items/8286652",
+              "end": 167,
+              "expanded_url": "http://kkkyouau.booth.pm/items/8286652",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2077908179170824192/zxfiVSYi?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077908179170824192/zxfiVSYi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 144,
+              "status": 200,
+              "title": "メンヘラ救済RPG「絆創幸際」体験版 - kkkyouau - BOOTH",
+              "unwound_url": "https://kkkyouau.booth.pm/items/8286652",
+              "url": "https://t.co/94Jo8G7sUF"
+            },
+            {
+              "display_url": "pic.x.com/EXPQfZQ5x3",
+              "end": 198,
+              "expanded_url": "https://x.com/kyouka_charming/status/2056598549660664003/photo/1",
+              "media_key": "3_2056598530144542720",
+              "start": 175,
+              "url": "https://t.co/EXPQfZQ5x3"
+            },
+            {
+              "display_url": "pic.x.com/EXPQfZQ5x3",
+              "end": 198,
+              "expanded_url": "https://x.com/kyouka_charming/status/2056598549660664003/photo/1",
+              "media_key": "3_2056598530136174592",
+              "start": 175,
+              "url": "https://t.co/EXPQfZQ5x3"
+            },
+            {
+              "display_url": "pic.x.com/EXPQfZQ5x3",
+              "end": 198,
+              "expanded_url": "https://x.com/kyouka_charming/status/2056598549660664003/photo/1",
+              "media_key": "3_2056598530132004864",
+              "start": 175,
+              "url": "https://t.co/EXPQfZQ5x3"
+            },
+            {
+              "display_url": "pic.x.com/EXPQfZQ5x3",
+              "end": 198,
+              "expanded_url": "https://x.com/kyouka_charming/status/2056598549660664003/photo/1",
+              "media_key": "3_2056598530144571392",
+              "start": 175,
+              "url": "https://t.co/EXPQfZQ5x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056598549660664003",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2056598530144542720"
+          },
+          {
+            "media_key": "3_2056598530136174592"
+          },
+          {
+            "media_key": "3_2056598530132004864"
+          },
+          {
+            "media_key": "3_2056598530144571392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4968,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "【再掲】\n\n「メンヘラ結社パステラー」制作  \n病みテーマTRPG\n\n『メンヘラ救済RPG：絆創幸際』  \n体験版公開中です\n\n病みカップルたちの共依存を描く  \nフィクション作品です\n\n※15歳以上推奨  \n※刺激の強い表現あり  \n※危険行為を推奨する意図はありません\n\n▼DL  \nhttps://t.co/94Jo8G7sUF\n\n#TRPG https://t.co/EXPQfZQ5x3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088668415095693665",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 710,
+          "like_count": 3034,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1503
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。\n物知らず悪役令嬢です、🏳️‍⚧️20↑トランスジェンダー女性,ENG/日本語/華语OK。\n元漫画家志望者、TRPG民間通訳。元日本留学不登校児高校生、現在北京在住。\n「メンヘラ」を中国語へ「心病系(誤訳：鬱デレ)」ヘ通訳した者\n現在TRPG「少女漫画RPG芳しい♥ハーデザート」制作中",
+        "id": "1540315386931204098",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088668156558762153",
+        "name": "🪞🌺【メンヘラ救済RPG絆創幸際】体験版ダウンロード可能",
+        "pinned_tweet_id": "2056598549660664003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1540315386931204098/1779872584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080503414472273920/jDvlb9VL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1974,
+          "like_count": 14848,
+          "listed_count": 1,
+          "media_count": 1696,
+          "tweet_count": 11224
+        },
+        "url": "",
+        "username": "kyouka_charming",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

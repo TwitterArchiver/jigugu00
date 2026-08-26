@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045599562",
+          "name": "Frozen"
+        }
+      }
+    ],
+    "conversation_id": "2088990150714097751",
+    "created_at": "2026-08-16T14:03:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088990150714097751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389705528679481345",
+          "start": 3,
+          "username": "13imaginator"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088990150714097751",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4066
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088496407267172549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13imaginator: queria muito entender essa obsessão dos desenhos infantis em inserir namoradas pra garfo de plástico, boneco de neve, até…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599562",
+              "name": "Frozen"
+            }
+          }
+        ],
+        "conversation_id": "2088990150714097751",
+        "created_at": "2026-08-16T14:03:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088990150714097751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389705528679481345",
+              "start": 3,
+              "username": "13imaginator"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088990150714097751",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4066
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088496407267172549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13imaginator: queria muito entender essa obsessão dos desenhos infantis em inserir namoradas pra garfo de plástico, boneco de neve, até…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389705528679481345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599562",
+              "name": "Frozen"
+            }
+          }
+        ],
+        "conversation_id": "2088496407267172549",
+        "created_at": "2026-08-15T05:22:00.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088496407267172549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sboficial/stat…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/sboficial/status/2088488960712483080",
+              "start": 137,
+              "url": "https://t.co/g9LNa5URxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088496407267172549",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 380096,
+          "like_count": 25466,
+          "quote_count": 168,
+          "reply_count": 117,
+          "retweet_count": 4066
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088488960712483080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "queria muito entender essa obsessão dos desenhos infantis em inserir namoradas pra garfo de plástico, boneco de neve, até pra alien azul https://t.co/g9LNa5URxl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088990150714097751",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 725,
+          "like_count": 3150,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1536
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-04T22:16:44.000Z",
+        "description": "faço uns gifs e tweets que algumas pessoas acham engraçado e outras odeiam • swiftie since 2017",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/guysentaway/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/guysentaway/",
+                "start": 0,
+                "url": "https://t.co/3K0eeVk4F7"
+              }
+            ]
+          }
+        },
+        "id": "1389705528679481345",
+        "is_identity_verified": true,
+        "location": "Brasil",
+        "most_recent_tweet_id": "2088847342417895690",
+        "name": "imagy",
+        "pinned_tweet_id": "2045569875830010155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389705528679481345/1778534518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074704112654888961/a01nDqNj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9339,
+          "following_count": 7707,
+          "like_count": 181764,
+          "listed_count": 7,
+          "media_count": 24714,
+          "tweet_count": 76048
+        },
+        "url": "https://t.co/3K0eeVk4F7",
+        "username": "13imaginator",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

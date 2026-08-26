@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089349589589708800",
+        "3_2089349589594001408",
+        "3_2089349589573021696",
+        "3_2089349589568753664"
+      ],
+      "media_source_tweet_id": [
+        "2089350220362678485",
+        "2089350220362678485",
+        "2089350220362678485",
+        "2089350220362678485"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090830446259274112",
+    "created_at": "2026-08-21T15:56:38.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090830446259274112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1386670401422434304",
+          "start": 3,
+          "username": "xx1012000456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H1sdVrDnul",
+          "end": 138,
+          "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+          "media_key": "3_2089349589589708800",
+          "start": 115,
+          "url": "https://t.co/H1sdVrDnul"
+        },
+        {
+          "display_url": "pic.x.com/H1sdVrDnul",
+          "end": 138,
+          "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+          "media_key": "3_2089349589594001408",
+          "start": 115,
+          "url": "https://t.co/H1sdVrDnul"
+        },
+        {
+          "display_url": "pic.x.com/H1sdVrDnul",
+          "end": 138,
+          "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+          "media_key": "3_2089349589573021696",
+          "start": 115,
+          "url": "https://t.co/H1sdVrDnul"
+        },
+        {
+          "display_url": "pic.x.com/H1sdVrDnul",
+          "end": 138,
+          "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+          "media_key": "3_2089349589568753664",
+          "start": 115,
+          "url": "https://t.co/H1sdVrDnul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090830446259274112",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089349589589708800"
+      },
+      {
+        "media_key": "3_2089349589594001408"
+      },
+      {
+        "media_key": "3_2089349589573021696"
+      },
+      {
+        "media_key": "3_2089349589568753664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089350220362678485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx1012000456: 给一位推友写的行政复议书，各位oder可以好好研读一下，关于愈美的相关法律认定问题，被晶了可以以此为由直接反击，强行要处罚你可以私信我拿这个模版和相关材料，帮助到你们了请小手点一点转发谢谢喵😇 https://t.co/H1sdVrDnul"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089349589589708800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7cYcMaUAAoil2.jpg",
+        "width": 2896
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089349589594001408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7cYcNb0AAe0ER.jpg",
+        "width": 2896
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089349589573021696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7cYcIbsAAQoPr.jpg",
+        "width": 2896
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089349589568753664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7cYcHakAAzKjL.jpg",
+        "width": 2896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089349589589708800",
+            "3_2089349589594001408",
+            "3_2089349589573021696",
+            "3_2089349589568753664"
+          ],
+          "media_source_tweet_id": [
+            "2089350220362678485",
+            "2089350220362678485",
+            "2089350220362678485",
+            "2089350220362678485"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090830446259274112",
+        "created_at": "2026-08-21T15:56:38.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090830446259274112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1386670401422434304",
+              "start": 3,
+              "username": "xx1012000456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1sdVrDnul",
+              "end": 138,
+              "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+              "media_key": "3_2089349589589708800",
+              "start": 115,
+              "url": "https://t.co/H1sdVrDnul"
+            },
+            {
+              "display_url": "pic.x.com/H1sdVrDnul",
+              "end": 138,
+              "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+              "media_key": "3_2089349589594001408",
+              "start": 115,
+              "url": "https://t.co/H1sdVrDnul"
+            },
+            {
+              "display_url": "pic.x.com/H1sdVrDnul",
+              "end": 138,
+              "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+              "media_key": "3_2089349589573021696",
+              "start": 115,
+              "url": "https://t.co/H1sdVrDnul"
+            },
+            {
+              "display_url": "pic.x.com/H1sdVrDnul",
+              "end": 138,
+              "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+              "media_key": "3_2089349589568753664",
+              "start": 115,
+              "url": "https://t.co/H1sdVrDnul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090830446259274112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089349589589708800"
+          },
+          {
+            "media_key": "3_2089349589594001408"
+          },
+          {
+            "media_key": "3_2089349589573021696"
+          },
+          {
+            "media_key": "3_2089349589568753664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089350220362678485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx1012000456: 给一位推友写的行政复议书，各位oder可以好好研读一下，关于愈美的相关法律认定问题，被晶了可以以此为由直接反击，强行要处罚你可以私信我拿这个模版和相关材料，帮助到你们了请小手点一点转发谢谢喵😇 https://t.co/H1sdVrDnul"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089349589589708800",
+            "3_2089349589594001408",
+            "3_2089349589573021696",
+            "3_2089349589568753664"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089350220362678485",
+        "created_at": "2026-08-17T13:54:45.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089350220362678485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1sdVrDnul",
+              "end": 120,
+              "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+              "media_key": "3_2089349589589708800",
+              "start": 97,
+              "url": "https://t.co/H1sdVrDnul"
+            },
+            {
+              "display_url": "pic.x.com/H1sdVrDnul",
+              "end": 120,
+              "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+              "media_key": "3_2089349589594001408",
+              "start": 97,
+              "url": "https://t.co/H1sdVrDnul"
+            },
+            {
+              "display_url": "pic.x.com/H1sdVrDnul",
+              "end": 120,
+              "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+              "media_key": "3_2089349589573021696",
+              "start": 97,
+              "url": "https://t.co/H1sdVrDnul"
+            },
+            {
+              "display_url": "pic.x.com/H1sdVrDnul",
+              "end": 120,
+              "expanded_url": "https://x.com/xx1012000456/status/2089350220362678485/photo/1",
+              "media_key": "3_2089349589568753664",
+              "start": 97,
+              "url": "https://t.co/H1sdVrDnul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089350220362678485",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089349589589708800"
+          },
+          {
+            "media_key": "3_2089349589594001408"
+          },
+          {
+            "media_key": "3_2089349589573021696"
+          },
+          {
+            "media_key": "3_2089349589568753664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 12408,
+          "like_count": 184,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "给一位推友写的行政复议书，各位oder可以好好研读一下，关于愈美的相关法律认定问题，被晶了可以以此为由直接反击，强行要处罚你可以私信我拿这个模版和相关材料，帮助到你们了请小手点一点转发谢谢喵😇 https://t.co/H1sdVrDnul"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090830446259274112",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 816,
+          "like_count": 3350,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090778422071136436",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 777,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 2231
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

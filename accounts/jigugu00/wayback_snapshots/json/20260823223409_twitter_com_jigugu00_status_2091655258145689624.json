@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091362298149625856"
+      ],
+      "media_source_tweet_id": [
+        "2091362302608146726"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2091655258145689624",
+    "created_at": "2026-08-23T22:34:09.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T23:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091655258145689624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1122288207884742656",
+          "start": 3,
+          "username": "Julia_hamham"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n9DSNifn7s",
+          "end": 50,
+          "expanded_url": "https://x.com/Julia_hamham/status/2091362302608146726/photo/1",
+          "media_key": "3_2091362298149625856",
+          "start": 27,
+          "url": "https://t.co/n9DSNifn7s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091655258145689624",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091362298149625856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091362302608146726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Julia_hamham: 本日のマニア向け https://t.co/n9DSNifn7s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091362298149625856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYC7f3aYAAZ-lb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091362298149625856"
+          ],
+          "media_source_tweet_id": [
+            "2091362302608146726"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091655258145689624",
+        "created_at": "2026-08-23T22:34:09.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T23:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091655258145689624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1122288207884742656",
+              "start": 3,
+              "username": "Julia_hamham"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9DSNifn7s",
+              "end": 50,
+              "expanded_url": "https://x.com/Julia_hamham/status/2091362302608146726/photo/1",
+              "media_key": "3_2091362298149625856",
+              "start": 27,
+              "url": "https://t.co/n9DSNifn7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091655258145689624",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091362298149625856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091362302608146726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Julia_hamham: 本日のマニア向け https://t.co/n9DSNifn7s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091362298149625856"
+          ]
+        },
+        "author_id": "1122288207884742656",
+        "conversation_id": "2091362302608146726",
+        "created_at": "2026-08-23T03:10:03.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091362302608146726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9DSNifn7s",
+              "end": 32,
+              "expanded_url": "https://x.com/Julia_hamham/status/2091362302608146726/photo/1",
+              "media_key": "3_2091362298149625856",
+              "start": 9,
+              "url": "https://t.co/n9DSNifn7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091362302608146726",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091362298149625856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 9381,
+          "like_count": 672,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "本日のマニア向け https://t.co/n9DSNifn7s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091655258145689624",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 818,
+          "like_count": 3528,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-27T23:55:34.000Z",
+        "description": "ただひたすらに自分の #ロボロフスキー/ #ジャンガリアン について親バカを呟く垢。\n無言O.K. フォロバは一言くださーい。\nリア友以外の鍵垢はブロ解！！！\n無断転載、リスト、業者、エロ、詐欺NO！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 11,
+                "tag": "ロボロフスキー"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "tag": "ジャンガリアン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/hz/wishlist/dl…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/hz/wishlist/dl/invite/cRYeQqC?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/1AbZF9DBO0"
+              }
+            ]
+          }
+        },
+        "id": "1122288207884742656",
+        "is_identity_verified": false,
+        "location": "愛知 名古屋の横",
+        "most_recent_tweet_id": "2091651051619537191",
+        "name": "紫愛(じゅりあ)",
+        "pinned_tweet_id": "1957048800142676042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122288207884742656/1746377368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1122288494850629633/CQ1yC_ut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 230,
+          "like_count": 141419,
+          "listed_count": 13,
+          "media_count": 8553,
+          "tweet_count": 64681
+        },
+        "url": "https://t.co/1AbZF9DBO0",
+        "username": "Julia_hamham",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

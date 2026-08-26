@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2088870221411131423",
+    "created_at": "2026-08-16T06:13:53.000Z",
+    "display_text_range": [
+      10,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088871853293211859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025768212328255488",
+          "start": 0,
+          "username": "satou_lk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088871853293211859",
+    "in_reply_to_user_id": "2025768212328255488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088870221411131423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satou_lk 是谁让我的女孩这么生气！！\n我去弄死它。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2088870221411131423",
+        "created_at": "2026-08-16T06:13:53.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088871853293211859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025768212328255488",
+              "start": 0,
+              "username": "satou_lk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088871853293211859",
+        "in_reply_to_user_id": "2025768212328255488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088870221411131423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satou_lk 是谁让我的女孩这么生气！！\n我去弄死它。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025768212328255488",
+        "conversation_id": "2088870221411131423",
+        "created_at": "2026-08-16T06:07:24.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088870221411131423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088870221411131423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私がいらいらすると永遠にクソがって言い続けている気がする。あと自分を殴る。あと大量のため息"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088871853293211859",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 730,
+          "like_count": 3116,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1520
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T03:02:50.000Z",
+        "description": "08┊︎︎︎♀",
+        "id": "2025768212328255488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088871352770183528",
+        "name": "佐藤",
+        "pinned_tweet_id": "2076102411794764167",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025768212328255488/1771816177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025769424817651712/ATcbLkCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 224,
+          "like_count": 10350,
+          "listed_count": 15,
+          "media_count": 17,
+          "tweet_count": 7473
+        },
+        "url": "",
+        "username": "satou_lk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

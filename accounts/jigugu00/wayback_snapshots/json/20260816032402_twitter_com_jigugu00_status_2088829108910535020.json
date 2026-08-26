@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088253978039717888",
+        "3_2088253988320030720",
+        "3_2088254000928010242",
+        "16_2088254021853433856"
+      ],
+      "media_source_tweet_id": [
+        "2088254173741764743",
+        "2088254173741764743",
+        "2088254173741764743",
+        "2088254173741764743"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2088829108910535020",
+    "created_at": "2026-08-16T03:24:02.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088829108910535020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2041028626397937665",
+          "start": 3,
+          "username": "_1haru_oxo"
+        },
+        {
+          "end": 80,
+          "id": "2082842023049216000",
+          "start": 69,
+          "username": "2_haru_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WkGAYAslOL",
+          "end": 132,
+          "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+          "media_key": "3_2088253978039717888",
+          "start": 109,
+          "url": "https://t.co/WkGAYAslOL"
+        },
+        {
+          "display_url": "pic.x.com/WkGAYAslOL",
+          "end": 132,
+          "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+          "media_key": "3_2088253988320030720",
+          "start": 109,
+          "url": "https://t.co/WkGAYAslOL"
+        },
+        {
+          "display_url": "pic.x.com/WkGAYAslOL",
+          "end": 132,
+          "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+          "media_key": "3_2088254000928010242",
+          "start": 109,
+          "url": "https://t.co/WkGAYAslOL"
+        },
+        {
+          "display_url": "pic.x.com/WkGAYAslOL",
+          "end": 132,
+          "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+          "media_key": "16_2088254021853433856",
+          "start": 109,
+          "url": "https://t.co/WkGAYAslOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088829108910535020",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088253978039717888"
+      },
+      {
+        "media_key": "3_2088253988320030720"
+      },
+      {
+        "media_key": "3_2088254000928010242"
+      },
+      {
+        "media_key": "16_2088254021853433856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088254173741764743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_1haru_oxo: 新置顶2.0\n我是haru未成椿 叫我小椿也可以\n互fo互转大欢迎 目前是苦命高三生\n不定时在线中 邪恶版@2_haru_ovo\n喜欢我可以支持我的塔罗¯꒳¯\n不喜欢健全人 请自行离开 https://t.co/WkGAYAslOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2088253978039717888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr37dHakAAgQnv.jpg",
+        "width": 1037
+      },
+      {
+        "height": 2318,
+        "media_key": "3_2088253988320030720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr38DabsAA3eli.jpg",
+        "width": 936
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2088254000928010242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr38yYaMAIa2if.jpg",
+        "width": 873
+      },
+      {
+        "height": 540,
+        "media_key": "16_2088254021853433856",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPr3-AVa0AApX16.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPr3-AVa0AApX16.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088253978039717888",
+            "3_2088253988320030720",
+            "3_2088254000928010242",
+            "16_2088254021853433856"
+          ],
+          "media_source_tweet_id": [
+            "2088254173741764743",
+            "2088254173741764743",
+            "2088254173741764743",
+            "2088254173741764743"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2088829108910535020",
+        "created_at": "2026-08-16T03:24:02.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088829108910535020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2041028626397937665",
+              "start": 3,
+              "username": "_1haru_oxo"
+            },
+            {
+              "end": 80,
+              "id": "2082842023049216000",
+              "start": 69,
+              "username": "2_haru_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WkGAYAslOL",
+              "end": 132,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+              "media_key": "3_2088253978039717888",
+              "start": 109,
+              "url": "https://t.co/WkGAYAslOL"
+            },
+            {
+              "display_url": "pic.x.com/WkGAYAslOL",
+              "end": 132,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+              "media_key": "3_2088253988320030720",
+              "start": 109,
+              "url": "https://t.co/WkGAYAslOL"
+            },
+            {
+              "display_url": "pic.x.com/WkGAYAslOL",
+              "end": 132,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+              "media_key": "3_2088254000928010242",
+              "start": 109,
+              "url": "https://t.co/WkGAYAslOL"
+            },
+            {
+              "display_url": "pic.x.com/WkGAYAslOL",
+              "end": 132,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+              "media_key": "16_2088254021853433856",
+              "start": 109,
+              "url": "https://t.co/WkGAYAslOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088829108910535020",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088253978039717888"
+          },
+          {
+            "media_key": "3_2088253988320030720"
+          },
+          {
+            "media_key": "3_2088254000928010242"
+          },
+          {
+            "media_key": "16_2088254021853433856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088254173741764743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_1haru_oxo: 新置顶2.0\n我是haru未成椿 叫我小椿也可以\n互fo互转大欢迎 目前是苦命高三生\n不定时在线中 邪恶版@2_haru_ovo\n喜欢我可以支持我的塔罗¯꒳¯\n不喜欢健全人 请自行离开 https://t.co/WkGAYAslOL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088253978039717888",
+            "3_2088253988320030720",
+            "3_2088254000928010242",
+            "16_2088254021853433856"
+          ]
+        },
+        "author_id": "2041028626397937665",
+        "conversation_id": "2088254173741764743",
+        "created_at": "2026-08-14T13:19:27.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088254173741764743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "2082842023049216000",
+              "start": 53,
+              "username": "2_haru_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WkGAYAslOL",
+              "end": 116,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+              "media_key": "3_2088253978039717888",
+              "start": 93,
+              "url": "https://t.co/WkGAYAslOL"
+            },
+            {
+              "display_url": "pic.x.com/WkGAYAslOL",
+              "end": 116,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+              "media_key": "3_2088253988320030720",
+              "start": 93,
+              "url": "https://t.co/WkGAYAslOL"
+            },
+            {
+              "display_url": "pic.x.com/WkGAYAslOL",
+              "end": 116,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+              "media_key": "3_2088254000928010242",
+              "start": 93,
+              "url": "https://t.co/WkGAYAslOL"
+            },
+            {
+              "display_url": "pic.x.com/WkGAYAslOL",
+              "end": 116,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2088254173741764743/photo/1",
+              "media_key": "16_2088254021853433856",
+              "start": 93,
+              "url": "https://t.co/WkGAYAslOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088254173741764743",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088253978039717888"
+          },
+          {
+            "media_key": "3_2088253988320030720"
+          },
+          {
+            "media_key": "3_2088254000928010242"
+          },
+          {
+            "media_key": "16_2088254021853433856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 972,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶2.0\n我是haru未成椿 叫我小椿也可以\n互fo互转大欢迎 目前是苦命高三生\n不定时在线中 邪恶版@2_haru_ovo\n喜欢我可以支持我的塔罗¯꒳¯\n不喜欢健全人 请自行离开 https://t.co/WkGAYAslOL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088829108910535020",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 724,
+          "like_count": 3106,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T05:42:36.000Z",
+        "description": "haru 兔椿椿/未成椿｜08｜♀｜非健全｜清水推\n真正的我@2_haru_ovo 我不喜欢争议内容\n喜欢我请支持我的塔罗/画画业务 互fo互转大欢迎\n家有侏儒兔的凭小兔照片可以领取无偿占卜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "2_haru_ovo"
+              }
+            ]
+          }
+        },
+        "id": "2041028626397937665",
+        "is_identity_verified": false,
+        "location": "塔罗15一问 40三问 200包月20问",
+        "most_recent_tweet_id": "2088707012305829991",
+        "name": "兔椿椿大王",
+        "pinned_tweet_id": "2088254173741764743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041028626397937665/1786355618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088465311733624833/ridzBOP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 102,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "_1haru_oxo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T14:54:13.000Z",
+        "description": "メンヘラ｜暴言 nsfw有｜半纯良时@_1haru_oxo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_1haru_oxo"
+              }
+            ]
+          }
+        },
+        "id": "2082842023049216000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088144617975742786",
+        "name": "🍓moe",
+        "pinned_tweet_id": "2088305123143655474",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082842023049216000/1785777450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088256647546421248/doq1_qJc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 33,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "2_haru_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

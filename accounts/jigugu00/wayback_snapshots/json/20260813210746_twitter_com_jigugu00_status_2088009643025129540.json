@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087914185745465344",
+        "3_2087914185728671744"
+      ],
+      "media_source_tweet_id": [
+        "2087914190044533115",
+        "2087914190044533115"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2088009643025129540",
+    "created_at": "2026-08-13T21:07:46.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088009643025129540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1215453921428197377",
+          "start": 3,
+          "username": "0000_uno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sG8pvxQM1E",
+          "end": 37,
+          "expanded_url": "https://x.com/0000_uno/status/2087914190044533115/photo/1",
+          "media_key": "3_2087914185745465344",
+          "start": 14,
+          "url": "https://t.co/sG8pvxQM1E"
+        },
+        {
+          "display_url": "pic.x.com/sG8pvxQM1E",
+          "end": 37,
+          "expanded_url": "https://x.com/0000_uno/status/2087914190044533115/photo/1",
+          "media_key": "3_2087914185728671744",
+          "start": 14,
+          "url": "https://t.co/sG8pvxQM1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088009643025129540",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087914185745465344"
+      },
+      {
+        "media_key": "3_2087914185728671744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087914190044533115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0000_uno: https://t.co/sG8pvxQM1E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087914185745465344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnC48LbgAAzuCT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087914185728671744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnC48HbQAAZa2z.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087914185745465344",
+            "3_2087914185728671744"
+          ]
+        },
+        "author_id": "1215453921428197377",
+        "conversation_id": "2087914190044533115",
+        "created_at": "2026-08-13T14:48:29.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087914190044533115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sG8pvxQM1E",
+              "end": 23,
+              "expanded_url": "https://x.com/0000_uno/status/2087914190044533115/photo/1",
+              "media_key": "3_2087914185745465344",
+              "start": 0,
+              "url": "https://t.co/sG8pvxQM1E"
+            },
+            {
+              "display_url": "pic.x.com/sG8pvxQM1E",
+              "end": 23,
+              "expanded_url": "https://x.com/0000_uno/status/2087914190044533115/photo/1",
+              "media_key": "3_2087914185728671744",
+              "start": 0,
+              "url": "https://t.co/sG8pvxQM1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087914190044533115",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087914185745465344"
+          },
+          {
+            "media_key": "3_2087914185728671744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 8562,
+          "like_count": 993,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sG8pvxQM1E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087914185745465344",
+            "3_2087914185728671744"
+          ],
+          "media_source_tweet_id": [
+            "2087914190044533115",
+            "2087914190044533115"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2088009643025129540",
+        "created_at": "2026-08-13T21:07:46.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088009643025129540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1215453921428197377",
+              "start": 3,
+              "username": "0000_uno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sG8pvxQM1E",
+              "end": 37,
+              "expanded_url": "https://x.com/0000_uno/status/2087914190044533115/photo/1",
+              "media_key": "3_2087914185745465344",
+              "start": 14,
+              "url": "https://t.co/sG8pvxQM1E"
+            },
+            {
+              "display_url": "pic.x.com/sG8pvxQM1E",
+              "end": 37,
+              "expanded_url": "https://x.com/0000_uno/status/2087914190044533115/photo/1",
+              "media_key": "3_2087914185728671744",
+              "start": 14,
+              "url": "https://t.co/sG8pvxQM1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088009643025129540",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087914185745465344"
+          },
+          {
+            "media_key": "3_2087914185728671744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087914190044533115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0000_uno: https://t.co/sG8pvxQM1E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088009643025129540",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 710,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1488
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-10T02:03:08.000Z",
+        "description": "ハムすけ (𝒃𝒐𝒚)、 まめきち (𝒈𝒊𝒓𝒍)、 むぎまる (𝒈𝒊𝒓𝒍)。 *. 求) ハムちゃんと飼い主の寿命を均等にする方法。",
+        "id": "1215453921428197377",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087914190044533115",
+        "name": "うの",
+        "pinned_tweet_id": "1963284587662196975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1215453921428197377/1763335835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971277775345680384/A9MKPkpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 202,
+          "like_count": 6156,
+          "listed_count": 17,
+          "media_count": 461,
+          "tweet_count": 1664
+        },
+        "url": "",
+        "username": "0000_uno",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

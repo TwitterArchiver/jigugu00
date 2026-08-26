@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2088606282576187648",
+    "created_at": "2026-08-15T16:18:11.000Z",
+    "display_text_range": [
+      17,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088661539373167046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088661539373167046",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088614928244777145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming ？！萌萌！？\n这么说来我应该偏向狭义的心病系诶。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_2088614918824312832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxAM-UawAAWfDc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2088606282576187648",
+        "created_at": "2026-08-15T16:18:11.000Z",
+        "display_text_range": [
+          17,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088661539373167046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088661539373167046",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088614928244777145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming ？！萌萌！？\n这么说来我应该偏向狭义的心病系诶。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088614918824312832"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "conversation_id": "2088606282576187648",
+        "created_at": "2026-08-15T13:12:58.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088614928244777145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDCzegkUkW",
+              "end": 33,
+              "expanded_url": "https://x.com/kyouka_charming/status/2088614928244777145/photo/1",
+              "media_key": "3_2088614918824312832",
+              "start": 10,
+              "url": "https://t.co/eDCzegkUkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088614928244777145",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088614918824312832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088606282576187648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 https://t.co/eDCzegkUkW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088661539373167046",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 710,
+          "like_count": 3032,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。\n物知らず悪役令嬢です、🏳️‍⚧️20↑トランスジェンダー女性,ENG/日本語/華语OK。\n元漫画家志望者、TRPG民間通訳。元日本留学不登校児高校生、現在北京在住。\n「メンヘラ」を中国語へ「心病系(誤訳：鬱デレ)」ヘ通訳した者\n現在TRPG「少女漫画RPG芳しい♥ハーデザート」制作中",
+        "id": "1540315386931204098",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088660564541403566",
+        "name": "🪞🌺【メンヘラ救済RPG絆創幸際】体験版ダウンロード可能",
+        "pinned_tweet_id": "2056598549660664003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1540315386931204098/1779872584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080503414472273920/jDvlb9VL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1974,
+          "like_count": 14847,
+          "listed_count": 1,
+          "media_count": 1696,
+          "tweet_count": 11222
+        },
+        "url": "",
+        "username": "kyouka_charming",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

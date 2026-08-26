@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2088954671696421139",
+    "created_at": "2026-08-16T11:42:59.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088954671696421139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013866507793793024",
+          "start": 3,
+          "username": "Nakg1Lovely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088954671696421139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088523297978003724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakg1Lovely: 堕落好舒服哟 烂起好安逸哦 好爽哟我的人生大概就这样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2088954671696421139",
+        "created_at": "2026-08-16T11:42:59.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088954671696421139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013866507793793024",
+              "start": 3,
+              "username": "Nakg1Lovely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088954671696421139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088523297978003724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakg1Lovely: 堕落好舒服哟 烂起好安逸哦 好爽哟我的人生大概就这样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013866507793793024",
+        "conversation_id": "2088523297978003724",
+        "created_at": "2026-08-15T07:08:51.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088523297978003724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088523297978003724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12034,
+          "like_count": 224,
+          "quote_count": 2,
+          "reply_count": 123,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "堕落好舒服哟 烂起好安逸哦 好爽哟我的人生大概就这样了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088954671696421139",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 725,
+          "like_count": 3144,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-21T06:50:06.000Z",
+        "description": "不是黄推 请不要对我说奇怪的话\n评论没回就是被吞了，私信没回就是没看到\n感谢喜欢感谢关注o(^▽^)o",
+        "id": "2013866507793793024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088949678356512979",
+        "name": "成嶋亮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013866507793793024/1786521078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088717781651054592/lxm0NtNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 21,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "Nakg1Lovely",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

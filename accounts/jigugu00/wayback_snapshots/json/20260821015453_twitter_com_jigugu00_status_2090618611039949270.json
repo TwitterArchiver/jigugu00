@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090191079781871616"
+      ],
+      "media_source_tweet_id": [
+        "2090191084827681073"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2090618611039949270",
+    "created_at": "2026-08-21T01:54:53.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090618611039949270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014666888677109760",
+          "start": 3,
+          "username": "Qinjianbo1984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8PFHdqtcWZ",
+          "end": 42,
+          "expanded_url": "https://x.com/Qinjianbo1984/status/2090191084827681073/photo/1",
+          "media_key": "3_2090191079781871616",
+          "start": 19,
+          "url": "https://t.co/8PFHdqtcWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090618611039949270",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090191079781871616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090191084827681073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qinjianbo1984: https://t.co/8PFHdqtcWZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 643,
+        "media_key": "3_2090191079781871616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHZtncWsAArD05.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090191079781871616"
+          ],
+          "media_source_tweet_id": [
+            "2090191084827681073"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2090618611039949270",
+        "created_at": "2026-08-21T01:54:53.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090618611039949270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014666888677109760",
+              "start": 3,
+              "username": "Qinjianbo1984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PFHdqtcWZ",
+              "end": 42,
+              "expanded_url": "https://x.com/Qinjianbo1984/status/2090191084827681073/photo/1",
+              "media_key": "3_2090191079781871616",
+              "start": 19,
+              "url": "https://t.co/8PFHdqtcWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090618611039949270",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090191079781871616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090191084827681073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qinjianbo1984: https://t.co/8PFHdqtcWZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090191079781871616"
+          ]
+        },
+        "author_id": "2014666888677109760",
+        "conversation_id": "2090191084827681073",
+        "created_at": "2026-08-19T21:36:03.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090191084827681073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PFHdqtcWZ",
+              "end": 23,
+              "expanded_url": "https://x.com/Qinjianbo1984/status/2090191084827681073/photo/1",
+              "media_key": "3_2090191079781871616",
+              "start": 0,
+              "url": "https://t.co/8PFHdqtcWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090191084827681073",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090191079781871616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 72280,
+          "like_count": 1638,
+          "quote_count": 4,
+          "reply_count": 24,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8PFHdqtcWZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090618611039949270",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 793,
+          "like_count": 3320,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1637
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T11:51:23.000Z",
+        "description": "共产党是全人类公敌\n中国人是亡国奴，\n共产党是共产国际境外势力支持的邪教组织\n中国是共产国际的殖民地。",
+        "id": "2014666888677109760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090611413769187726",
+        "name": "Qin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014666888677109760/1771362012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087154822600433664/fMdjUNtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 180,
+          "like_count": 8928,
+          "listed_count": 1,
+          "media_count": 515,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "Qinjianbo1984",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
