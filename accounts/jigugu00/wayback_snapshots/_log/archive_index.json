@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T17:56:13",
+  "last_updated": "2026-08-26T17:57:18",
   "html": {
     "https://web.archive.org/web/20260813205635if_/https://twitter.com/jigugu00/status/2088006826508128757": {
       "status": "done",
@@ -2725,9 +2725,9 @@
       "referenced_by": [
         "20260816104427_twitter_com_jigugu00_status_2088939942026305618.json"
       ],
-      "last_updated": "2026-08-26T17:18:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260816104427if_/https://pbs.twimg.com/profile_images/2087446735694270464/m2k4R-fA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fda20d40500>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T17:57:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260816104427im_/https://pbs.twimg.com/profile_images/2087446735694270464/m2k4R-fA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f624f3a41d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2084165006313312256/0J-b49QJ_normal.jpg": {
       "status": "done",
@@ -3206,12 +3206,12 @@
       "last_updated": "2026-08-26T17:18:52"
     },
     "https://pbs.twimg.com/profile_images/2074179082129186816/43hYZ2-p_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260821175653_twitter_com_jigugu00_status_2090860707835490455.json",
         "20260821181025_twitter_com_jigugu00_status_2090864114235285557.json"
       ],
-      "last_updated": "2026-08-26T17:19:03",
+      "last_updated": "2026-08-26T17:57:01",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260821181025if_/https://pbs.twimg.com/profile_images/2074179082129186816/43hYZ2-p_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fda20d27020>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 1
     },
@@ -3256,9 +3256,9 @@
         "20260822171900_twitter_com_jigugu00_status_2091213560601039038.json",
         "20260822173822_twitter_com_jigugu00_status_2091218432880693432.json"
       ],
-      "last_updated": "2026-08-26T17:19:03",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260822173822if_/https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fda20d24410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T17:57:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260822173822im_/https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f624f34ae10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg": {
       "status": "done",
@@ -5918,7 +5918,7 @@
       "last_updated": "2026-08-26T17:18:52"
     },
     "20260821175653_twitter_com_jigugu00_status_2090860707835490455.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -5927,11 +5927,11 @@
           "https://pbs.twimg.com/profile_images/2074179082129186816/43hYZ2-p_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:56:13",
+      "last_updated": "2026-08-26T17:57:01",
       "miss_count": 2
     },
     "20260821181025_twitter_com_jigugu00_status_2090864114235285557.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -5940,7 +5940,7 @@
           "https://pbs.twimg.com/profile_images/2074179082129186816/43hYZ2-p_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:56:13",
+      "last_updated": "2026-08-26T17:57:01",
       "miss_count": 2
     },
     "20260822035012_twitter_com_jigugu00_status_2091010021857562965.json": {
