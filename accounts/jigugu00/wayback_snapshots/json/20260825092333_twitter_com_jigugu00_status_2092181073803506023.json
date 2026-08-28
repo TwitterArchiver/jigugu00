@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2092181073803506023",
+    "created_at": "2026-08-25T09:23:33.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092181073803506023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1941852047592284160",
+          "start": 3,
+          "username": "haamgu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092181073803506023",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 352
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092058600252616840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haamgu: 햄쥬터들 세수하기 직전에 눈 \\  .  / 이렇게 감고 시동거는 거 너무 웃기고 귀여움"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2092181073803506023",
+        "created_at": "2026-08-25T09:23:33.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092181073803506023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1941852047592284160",
+              "start": 3,
+              "username": "haamgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092181073803506023",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 352
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092058600252616840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haamgu: 햄쥬터들 세수하기 직전에 눈 \\  .  / 이렇게 감고 시동거는 거 너무 웃기고 귀여움"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941852047592284160",
+        "conversation_id": "2092058600252616840",
+        "created_at": "2026-08-25T01:16:53.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092058600252616840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092058600252616840",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 14423,
+          "like_count": 580,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 352
+        },
+        "reply_settings": "everyone",
+        "text": "햄쥬터들 세수하기 직전에 눈 \\  .  / 이렇게 감고 시동거는 거 너무 웃기고 귀여움"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092181073803506023",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 815,
+          "like_count": 3576,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-06T13:29:46.000Z",
+        "description": "🐹햄구(🏠260523~)",
+        "id": "1941852047592284160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092058600252616840",
+        "name": "햄구",
+        "pinned_tweet_id": "2077386228123795666",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941852047592284160/1784382310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060490200015630336/UPWIADUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 38,
+          "like_count": 349,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "haamgu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

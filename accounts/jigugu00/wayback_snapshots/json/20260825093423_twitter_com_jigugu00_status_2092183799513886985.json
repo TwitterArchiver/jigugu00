@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2092183799513886985",
+    "created_at": "2026-08-25T09:34:23.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092183799513886985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jigugu00/statu…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/jigugu00/status/2091825148521505162",
+          "start": 77,
+          "url": "https://t.co/8WK97xyPj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092183799513886985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091825148521505162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我忘记录了\n可能是有点耐药，也可能是没吃对，外幻反正是没有我第一次吃sns激烈。\n就是看手机键盘毛绒绒的那种轻度的幻。sns你太牛逼了妈妈般温柔的效果。 https://t.co/8WK97xyPj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2091824749471252480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQenhtSawAA0uLu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2092183799513886985",
+        "created_at": "2026-08-25T09:34:23.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092183799513886985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jigugu00/statu…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/jigugu00/status/2091825148521505162",
+              "start": 77,
+              "url": "https://t.co/8WK97xyPj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092183799513886985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091825148521505162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我忘记录了\n可能是有点耐药，也可能是没吃对，外幻反正是没有我第一次吃sns激烈。\n就是看手机键盘毛绒绒的那种轻度的幻。sns你太牛逼了妈妈般温柔的效果。 https://t.co/8WK97xyPj2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091824749471252480"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091825148521505162",
+        "created_at": "2026-08-24T09:49:14.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091825148521505162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpO1il63E2",
+              "end": 65,
+              "expanded_url": "https://x.com/jigugu00/status/2091825148521505162/photo/1",
+              "media_key": "3_2091824749471252480",
+              "start": 42,
+              "url": "https://t.co/GpO1il63E2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091825148521505162",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091824749471252480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 878,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唑吡坦pr。测试。\n我学乖了我开始打码了呵呵。因为就这一个号没了你们就见不到我了。 https://t.co/GpO1il63E2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092183799513886985",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 815,
+          "like_count": 3576,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

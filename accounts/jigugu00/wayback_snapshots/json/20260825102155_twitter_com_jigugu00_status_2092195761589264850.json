@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2092195761589264850",
+    "created_at": "2026-08-25T10:21:55.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092195761589264850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Moningmeng/sta…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/Moningmeng/status/2091706418042945696",
+          "start": 64,
+          "url": "https://t.co/OcySZrfu4H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092195761589264850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091706418042945696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "杀掉她们的是现实而不是盐。\n盐没了她们比起不紫沙更可能去找其他致死物质。。\n。。我觉得对真正想斯的人来说紫沙反而是一种解脱。。 https://t.co/OcySZrfu4H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2092195761589264850",
+        "created_at": "2026-08-25T10:21:55.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092195761589264850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Moningmeng/status/2091706418042945696",
+              "start": 64,
+              "url": "https://t.co/OcySZrfu4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092195761589264850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091706418042945696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杀掉她们的是现实而不是盐。\n盐没了她们比起不紫沙更可能去找其他致死物质。。\n。。我觉得对真正想斯的人来说紫沙反而是一种解脱。。 https://t.co/OcySZrfu4H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2091706418042945696",
+        "created_at": "2026-08-24T01:57:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T02:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091706418042945696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091706418042945696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "应该完善亚盐购买的审核制度，并加大审核力度。直接彻底禁止非机构和企业购买都不为过，我不了解这个，可能我说的他们已经做了，但如果这样那就说明他们做的太烂了。我不想再在我的主页刷到自杀的了，动不动就死一个，然后发个讣告，从此以后这个人就石沉大海了，有多少人会像亲人一样闭上眼就能想到你？有多少人会在看过讣告之后就意难平？我不清楚，发出来的目的总是这么模糊，就是单纯的告诉大家她死了，然后没了，什么都没了……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9673,
+          "like_count": 116,
+          "quote_count": 7,
+          "reply_count": 44,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "应该完善亚盐购买的审核制度，并加大审核力度。直接彻底禁止非机构和企业购买都不为过，我不了解这个，可能我说的他们已经做了，但如果这样那就说明他们做的太烂了。我不想再在我的主页刷到自杀的了，动不动就死一个，然后发个讣告，从此以后这个人就石沉大海了，有多少人会像亲人一样闭上眼就能想到你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092195761589264850",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 815,
+          "like_count": 3582,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2092172094868193786",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2090048700722847934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29699,
+          "following_count": 12201,
+          "like_count": 98679,
+          "listed_count": 105,
+          "media_count": 5753,
+          "tweet_count": 20481
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

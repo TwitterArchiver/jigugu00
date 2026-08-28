@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091927037179310082"
+      ],
+      "media_source_tweet_id": [
+        "2092030191719612924"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2092223305558413424",
+    "created_at": "2026-08-25T12:11:22.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092223305558413424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FSTz04kPRo",
+          "end": 71,
+          "expanded_url": "https://x.com/Meguminsama2009/status/2092030191719612924/photo/1",
+          "media_key": "3_2091927037179310082",
+          "start": 48,
+          "url": "https://t.co/FSTz04kPRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092223305558413424",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091927037179310082"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092030191719612924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 不懂就问，窗外的天上为什么突然出现了这个奇怪的红泡泡 https://t.co/FSTz04kPRo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2091927037179310082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgEjosbsAIVocn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091927037179310082"
+          ],
+          "media_source_tweet_id": [
+            "2092030191719612924"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2092223305558413424",
+        "created_at": "2026-08-25T12:11:22.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092223305558413424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557846379736666113",
+              "start": 3,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSTz04kPRo",
+              "end": 71,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2092030191719612924/photo/1",
+              "media_key": "3_2091927037179310082",
+              "start": 48,
+              "url": "https://t.co/FSTz04kPRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092223305558413424",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091927037179310082"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092030191719612924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meguminsama2009: 不懂就问，窗外的天上为什么突然出现了这个奇怪的红泡泡 https://t.co/FSTz04kPRo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091927037179310082"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2092030191719612924",
+        "created_at": "2026-08-24T23:24:00.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092030191719612924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSTz04kPRo",
+              "end": 50,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2092030191719612924/photo/1",
+              "media_key": "3_2091927037179310082",
+              "start": 27,
+              "url": "https://t.co/FSTz04kPRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092030191719612924",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091927037179310082"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6342,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问，窗外的天上为什么突然出现了这个奇怪的红泡泡 https://t.co/FSTz04kPRo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092223305558413424",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 816,
+          "like_count": 3604,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1801
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "🟨⬜🟪⬛",
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2092212897468322129",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2090133381858422966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 1925,
+          "like_count": 3425,
+          "listed_count": 2,
+          "media_count": 1356,
+          "tweet_count": 8856
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

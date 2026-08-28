@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092057071822987264"
+      ],
+      "media_source_tweet_id": [
+        "2092057080081596805"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092221690428456977",
+    "created_at": "2026-08-25T12:04:57.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092221690428456977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1829502489227575296",
+          "start": 3,
+          "username": "C103ofsixteen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yI57xYFR1d",
+          "end": 42,
+          "expanded_url": "https://x.com/C103ofsixteen/status/2092057080081596805/photo/1",
+          "media_key": "3_2092057071822987264",
+          "start": 19,
+          "url": "https://t.co/yI57xYFR1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092221690428456977",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2092057071822987264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092057080081596805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C103ofsixteen: https://t.co/yI57xYFR1d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1689,
+        "media_key": "3_2092057071822987264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQh60pfaYAAe5c5.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092057071822987264"
+          ],
+          "media_source_tweet_id": [
+            "2092057080081596805"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092221690428456977",
+        "created_at": "2026-08-25T12:04:57.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092221690428456977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1829502489227575296",
+              "start": 3,
+              "username": "C103ofsixteen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yI57xYFR1d",
+              "end": 42,
+              "expanded_url": "https://x.com/C103ofsixteen/status/2092057080081596805/photo/1",
+              "media_key": "3_2092057071822987264",
+              "start": 19,
+              "url": "https://t.co/yI57xYFR1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092221690428456977",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092057071822987264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092057080081596805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C103ofsixteen: https://t.co/yI57xYFR1d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092057071822987264"
+          ]
+        },
+        "author_id": "1829502489227575296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092057080081596805",
+        "created_at": "2026-08-25T01:10:51.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092057080081596805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yI57xYFR1d",
+              "end": 23,
+              "expanded_url": "https://x.com/C103ofsixteen/status/2092057080081596805/photo/1",
+              "media_key": "3_2092057071822987264",
+              "start": 0,
+              "url": "https://t.co/yI57xYFR1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092057080081596805",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092057071822987264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2297,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yI57xYFR1d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092221690428456977",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 816,
+          "like_count": 3599,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1798
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阿拉僧本地猫娘｜？｜🏳️‍⚧️（疑｜男｜可能线下｜波奇｜双性恋｜♥️@aruannie512｜宠物@S34sonSt ｜各方面都不健全｜各方面都史上最倒霉的人 | 蓝v互fo | 老人|30解锁好友位，丢包40%ping670导致的思考延迟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "aruannie512"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "S34sonSt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c103ofsixteen1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/c103ofsixteen1",
+                "start": 0,
+                "url": "https://t.co/ZeFZXlKNBF"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092216417613648346",
+        "name": "僧夏猫修🦐🍥",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1785055211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090422992421752832/dsc38c36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 729,
+          "like_count": 6184,
+          "listed_count": 5,
+          "media_count": 1913,
+          "tweet_count": 5074
+        },
+        "url": "https://t.co/ZeFZXlKNBF",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

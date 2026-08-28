@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2092185192781988138",
+    "created_at": "2026-08-25T09:39:55.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092185192781988138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090485992373497856",
+          "start": 3,
+          "username": "Demonnn77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092185192781988138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092107521955901635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Demonnn77: 母狗或者母猪这种称呼我都能理解，但是叫母驴到底是为啥？我每次听见这个词都感觉自己要去拉磨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2092185192781988138",
+        "created_at": "2026-08-25T09:39:55.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092185192781988138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090485992373497856",
+              "start": 3,
+              "username": "Demonnn77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092185192781988138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092107521955901635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Demonnn77: 母狗或者母猪这种称呼我都能理解，但是叫母驴到底是为啥？我每次听见这个词都感觉自己要去拉磨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090485992373497856",
+        "conversation_id": "2092107521955901635",
+        "created_at": "2026-08-25T04:31:17.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092107521955901635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092107521955901635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 135670,
+          "like_count": 1516,
+          "quote_count": 10,
+          "reply_count": 344,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "母狗或者母猪这种称呼我都能理解，但是叫母驴到底是为啥？我每次听见这个词都感觉自己要去拉磨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092185192781988138",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 815,
+          "like_count": 3579,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "🌈♀双相 老公奴 pr80梦女 阴间引路人\n通过我的邀请链接下载https://t.co/EsemuDCOeK 即可获得24小时免费高速vpn哦↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "iPoW.ai",
+                "end": 55,
+                "expanded_url": "http://iPoW.ai",
+                "start": 32,
+                "url": "https://t.co/EsemuDCOeK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ipow.ai/invite?ref=5ea…",
+                "end": 23,
+                "expanded_url": "http://ipow.ai/invite?ref=5eae52",
+                "start": 0,
+                "url": "https://t.co/hxPGdHTAuo"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": ":3",
+        "most_recent_tweet_id": "2092183344771707197",
+        "name": "三清剑",
+        "pinned_tweet_id": "2090524626824863835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091955819143462913/4omDxaX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 127,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/hxPGdHTAuo",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

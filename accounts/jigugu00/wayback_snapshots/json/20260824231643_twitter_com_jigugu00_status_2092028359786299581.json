@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2091997917796339817",
+    "created_at": "2026-08-24T23:16:43.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T00:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092028359786299581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092028359786299581",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091997917796339817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 我去怎么买的。外卖吗还是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2091997917796339817",
+        "created_at": "2026-08-24T23:16:43.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092028359786299581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092028359786299581",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091997917796339817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 我去怎么买的。外卖吗还是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2091997917796339817",
+        "created_at": "2026-08-24T21:15:45.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T22:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091997917796339817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091997917796339817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 267,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "nb我买了几罐N2O  10分钟就到了 \n我果茶还没到"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092028359786299581",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 816,
+          "like_count": 3549,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1775
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092018519718367471",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 1061,
+          "like_count": 9172,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
