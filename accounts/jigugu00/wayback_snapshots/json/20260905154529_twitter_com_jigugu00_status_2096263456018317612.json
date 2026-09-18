@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095835236018122752",
+        "3_2095835266183479296",
+        "3_2095835302787162112"
+      ],
+      "media_source_tweet_id": [
+        "2095835347439763537",
+        "2095835347439763537",
+        "2095835347439763537"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2096263456018317612",
+    "created_at": "2026-09-05T15:45:29.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096263456018317612"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 53,
+          "tag": "DELTARUNE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1226926150175182849",
+          "start": 3,
+          "username": "KioUsagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JjqHnQdsn1",
+          "end": 87,
+          "expanded_url": "https://x.com/KioUsagi/status/2095835347439763537/photo/1",
+          "media_key": "3_2095835236018122752",
+          "start": 64,
+          "url": "https://t.co/JjqHnQdsn1"
+        },
+        {
+          "display_url": "pic.x.com/JjqHnQdsn1",
+          "end": 87,
+          "expanded_url": "https://x.com/KioUsagi/status/2095835347439763537/photo/1",
+          "media_key": "3_2095835266183479296",
+          "start": 64,
+          "url": "https://t.co/JjqHnQdsn1"
+        },
+        {
+          "display_url": "pic.x.com/JjqHnQdsn1",
+          "end": 87,
+          "expanded_url": "https://x.com/KioUsagi/status/2095835347439763537/photo/1",
+          "media_key": "3_2095835302787162112",
+          "start": 64,
+          "url": "https://t.co/JjqHnQdsn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096263456018317612",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095835236018122752"
+      },
+      {
+        "media_key": "3_2095835266183479296"
+      },
+      {
+        "media_key": "3_2095835302787162112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 683
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095835347439763537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KioUsagi: Susie,you can't use Kris's controller!\n#DELTARUNE https://t.co/JjqHnQdsn1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2404,
+        "media_key": "3_2095835236018122752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXnCv6bcAAGcT-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2404,
+        "media_key": "3_2095835266183479296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXnEgSaQAAg0AY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2404,
+        "media_key": "3_2095835302787162112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXnGopaIAAv4fe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095835236018122752",
+            "3_2095835266183479296",
+            "3_2095835302787162112"
+          ],
+          "media_source_tweet_id": [
+            "2095835347439763537",
+            "2095835347439763537",
+            "2095835347439763537"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2096263456018317612",
+        "created_at": "2026-09-05T15:45:29.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096263456018317612"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 53,
+              "tag": "DELTARUNE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1226926150175182849",
+              "start": 3,
+              "username": "KioUsagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjqHnQdsn1",
+              "end": 87,
+              "expanded_url": "https://x.com/KioUsagi/status/2095835347439763537/photo/1",
+              "media_key": "3_2095835236018122752",
+              "start": 64,
+              "url": "https://t.co/JjqHnQdsn1"
+            },
+            {
+              "display_url": "pic.x.com/JjqHnQdsn1",
+              "end": 87,
+              "expanded_url": "https://x.com/KioUsagi/status/2095835347439763537/photo/1",
+              "media_key": "3_2095835266183479296",
+              "start": 64,
+              "url": "https://t.co/JjqHnQdsn1"
+            },
+            {
+              "display_url": "pic.x.com/JjqHnQdsn1",
+              "end": 87,
+              "expanded_url": "https://x.com/KioUsagi/status/2095835347439763537/photo/1",
+              "media_key": "3_2095835302787162112",
+              "start": 64,
+              "url": "https://t.co/JjqHnQdsn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096263456018317612",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095835236018122752"
+          },
+          {
+            "media_key": "3_2095835266183479296"
+          },
+          {
+            "media_key": "3_2095835302787162112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 683
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095835347439763537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KioUsagi: Susie,you can't use Kris's controller!\n#DELTARUNE https://t.co/JjqHnQdsn1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095835236018122752",
+            "3_2095835266183479296",
+            "3_2095835302787162112"
+          ]
+        },
+        "author_id": "1226926150175182849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2095835347439763537",
+        "created_at": "2026-09-04T11:24:20.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095835347439763537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "DELTARUNE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjqHnQdsn1",
+              "end": 73,
+              "expanded_url": "https://x.com/KioUsagi/status/2095835347439763537/photo/1",
+              "media_key": "3_2095835236018122752",
+              "start": 50,
+              "url": "https://t.co/JjqHnQdsn1"
+            },
+            {
+              "display_url": "pic.x.com/JjqHnQdsn1",
+              "end": 73,
+              "expanded_url": "https://x.com/KioUsagi/status/2095835347439763537/photo/1",
+              "media_key": "3_2095835266183479296",
+              "start": 50,
+              "url": "https://t.co/JjqHnQdsn1"
+            },
+            {
+              "display_url": "pic.x.com/JjqHnQdsn1",
+              "end": 73,
+              "expanded_url": "https://x.com/KioUsagi/status/2095835347439763537/photo/1",
+              "media_key": "3_2095835302787162112",
+              "start": 50,
+              "url": "https://t.co/JjqHnQdsn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095835347439763537",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095835236018122752"
+          },
+          {
+            "media_key": "3_2095835266183479296"
+          },
+          {
+            "media_key": "3_2095835302787162112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 28186,
+          "like_count": 4181,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 683
+        },
+        "reply_settings": "everyone",
+        "text": "Susie,you can't use Kris's controller!\n#DELTARUNE https://t.co/JjqHnQdsn1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096263456018317612",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 800,
+          "like_count": 3689,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-10T17:49:44.000Z",
+        "description": "＝芝岚，也可以叫我Kio，畫自己喜歡的東西🌸一段時間不在就是去玩遊戲了",
+        "id": "1226926150175182849",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096200472118091926",
+        "name": "芝士松岚",
+        "pinned_tweet_id": "2091862407962652970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226926150175182849/1741718605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794395391699591168/fdCwFK5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1819,
+          "like_count": 10222,
+          "listed_count": 11,
+          "media_count": 78,
+          "tweet_count": 3392
+        },
+        "url": "",
+        "username": "KioUsagi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

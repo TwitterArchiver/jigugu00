@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096209280877907987",
+    "created_at": "2026-09-05T14:32:41.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096245137303363956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906899134382272512",
+          "start": 0,
+          "username": "fngyun216085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096245137303363956",
+    "in_reply_to_user_id": "1906899134382272512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096233288801382835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngyun216085 可以。可以。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096209280877907987",
+        "created_at": "2026-09-05T14:32:41.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096245137303363956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906899134382272512",
+              "start": 0,
+              "username": "fngyun216085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096245137303363956",
+        "in_reply_to_user_id": "1906899134382272512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096233288801382835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngyun216085 可以。可以。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906899134382272512",
+        "conversation_id": "2096209280877907987",
+        "created_at": "2026-09-05T13:45:36.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096233288801382835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096233288801382835",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096209280877907987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 已严肃关注"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096245137303363956",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 799,
+          "like_count": 3673,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1841
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T02:39:32.000Z",
+        "description": "男生 喜欢xnn或者大姐姐 4i 178/65",
+        "id": "1906899134382272512",
+        "is_identity_verified": false,
+        "location": "我在青茅山很想你",
+        "most_recent_tweet_id": "2096244449651335315",
+        "name": "painber",
+        "pinned_tweet_id": "2095072823538553343",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906899134382272512/1743504795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907023440076582912/juyJ0_65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 194,
+          "like_count": 23852,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "fngyun216085",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096236102990651823",
+    "created_at": "2026-09-05T20:28:27.000Z",
+    "display_text_range": [
+      11,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096334668690076116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2082562851903041536",
+          "start": 0,
+          "username": "ihateu_xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096334668690076116",
+    "in_reply_to_user_id": "2082562851903041536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096236102990651823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ihateu_xi 分药的。不同药物的效果是不一样的。\n。。我最初过量是三四年前想自杀吃了一板帕罗西汀睡了3天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096236102990651823",
+        "created_at": "2026-09-05T20:28:27.000Z",
+        "display_text_range": [
+          11,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096334668690076116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2082562851903041536",
+              "start": 0,
+              "username": "ihateu_xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096334668690076116",
+        "in_reply_to_user_id": "2082562851903041536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096236102990651823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ihateu_xi 分药的。不同药物的效果是不一样的。\n。。我最初过量是三四年前想自杀吃了一板帕罗西汀睡了3天。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082562851903041536",
+        "conversation_id": "2096236102990651823",
+        "created_at": "2026-09-05T13:56:47.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096236102990651823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096236102990651823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od为什么会有快感，前两年以为吞十几片舍曲林就会死的时候只是被折磨了一整天，一直在吐一直在抖，好绝望"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096334668690076116",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 819,
+          "like_count": 3787,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T20:28:04.000Z",
+        "description": "不聊黄也不约任何\n女孩子可以来找我ouo",
+        "id": "2082562851903041536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096328714594431124",
+        "name": "错误",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082562851903041536/1785359146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082573203780845568/y0cFAcF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 2,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "ihateu_xi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

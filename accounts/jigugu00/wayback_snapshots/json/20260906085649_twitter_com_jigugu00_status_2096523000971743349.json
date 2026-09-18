@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096492891724267520"
+      ],
+      "media_source_tweet_id": [
+        "2096492930349592716"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096523000971743349",
+    "created_at": "2026-09-06T08:56:49.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096523000971743349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781510736000274432",
+          "start": 3,
+          "username": "huantim7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4OcyaAvA82",
+          "end": 50,
+          "expanded_url": "https://x.com/huantim7/status/2096492930349592716/photo/1",
+          "media_key": "3_2096492891724267520",
+          "start": 27,
+          "url": "https://t.co/4OcyaAvA82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096523000971743349",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096492891724267520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096492930349592716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @huantim7: 完全不会，混了一个上午😭 https://t.co/4OcyaAvA82"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2096492891724267520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg9LWVbQAAzb6x.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096492891724267520"
+          ],
+          "media_source_tweet_id": [
+            "2096492930349592716"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096523000971743349",
+        "created_at": "2026-09-06T08:56:49.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096523000971743349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781510736000274432",
+              "start": 3,
+              "username": "huantim7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OcyaAvA82",
+              "end": 50,
+              "expanded_url": "https://x.com/huantim7/status/2096492930349592716/photo/1",
+              "media_key": "3_2096492891724267520",
+              "start": 27,
+              "url": "https://t.co/4OcyaAvA82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096523000971743349",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096492891724267520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096492930349592716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @huantim7: 完全不会，混了一个上午😭 https://t.co/4OcyaAvA82"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096492891724267520"
+          ]
+        },
+        "author_id": "1781510736000274432",
+        "conversation_id": "2096492930349592716",
+        "created_at": "2026-09-06T06:57:20.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096492930349592716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OcyaAvA82",
+              "end": 36,
+              "expanded_url": "https://x.com/huantim7/status/2096492930349592716/photo/1",
+              "media_key": "3_2096492891724267520",
+              "start": 13,
+              "url": "https://t.co/4OcyaAvA82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096492930349592716",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096492891724267520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "完全不会，混了一个上午😭 https://t.co/4OcyaAvA82"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2096523009465188541",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 838,
+          "like_count": 3847,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1939
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "is_identity_verified": true,
+        "location": "南门二",
+        "most_recent_tweet_id": "2096497809013043287",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781510736000274432/1773542916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 834,
+          "like_count": 115354,
+          "listed_count": 3,
+          "media_count": 624,
+          "tweet_count": 7012
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

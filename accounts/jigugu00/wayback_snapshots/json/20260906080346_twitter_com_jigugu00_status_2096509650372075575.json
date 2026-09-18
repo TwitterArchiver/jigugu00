@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096412956020166656"
+      ],
+      "media_source_tweet_id": [
+        "2096412961388782074"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096509650372075575",
+    "created_at": "2026-09-06T08:03:46.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096509650372075575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990096740889022464",
+          "start": 3,
+          "username": "hokke195"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ac1TpcdaXo",
+          "end": 95,
+          "expanded_url": "https://x.com/hokke195/status/2096412961388782074/photo/1",
+          "media_key": "3_2096412956020166656",
+          "start": 72,
+          "url": "https://t.co/ac1TpcdaXo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096509650372075575",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2096412956020166656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096412961388782074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hokke195: 챕터4 컨셉아트 찾다 발견한건데\n이미 깨어있을때 크리스깨우기쓰면 그냥 등짝후려팸공룡되는게 너무귀여워미쳐 https://t.co/ac1TpcdaXo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 443,
+        "media_key": "3_2096412956020166656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRf0eeob0AAiLWM.jpg",
+        "width": 593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096412956020166656"
+          ],
+          "media_source_tweet_id": [
+            "2096412961388782074"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096509650372075575",
+        "created_at": "2026-09-06T08:03:46.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096509650372075575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990096740889022464",
+              "start": 3,
+              "username": "hokke195"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ac1TpcdaXo",
+              "end": 95,
+              "expanded_url": "https://x.com/hokke195/status/2096412961388782074/photo/1",
+              "media_key": "3_2096412956020166656",
+              "start": 72,
+              "url": "https://t.co/ac1TpcdaXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096509650372075575",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2096412956020166656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096412961388782074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hokke195: 챕터4 컨셉아트 찾다 발견한건데\n이미 깨어있을때 크리스깨우기쓰면 그냥 등짝후려팸공룡되는게 너무귀여워미쳐 https://t.co/ac1TpcdaXo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096412956020166656"
+          ]
+        },
+        "author_id": "1990096740889022464",
+        "conversation_id": "2096412961388782074",
+        "created_at": "2026-09-06T01:39:34.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096412961388782074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ac1TpcdaXo",
+              "end": 81,
+              "expanded_url": "https://x.com/hokke195/status/2096412961388782074/photo/1",
+              "media_key": "3_2096412956020166656",
+              "start": 58,
+              "url": "https://t.co/ac1TpcdaXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096412961388782074",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2096412956020166656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 2852,
+          "like_count": 247,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "챕터4 컨셉아트 찾다 발견한건데\n이미 깨어있을때 크리스깨우기쓰면 그냥 등짝후려팸공룡되는게 너무귀여워미쳐 https://t.co/ac1TpcdaXo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2096509650372075575",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 836,
+          "like_count": 3833,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1930
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-16T16:37:00.000Z",
+        "description": "17↓",
+        "id": "1990096740889022464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096412961388782074",
+        "name": "홋깨",
+        "pinned_tweet_id": "2080619054528925720",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075099765294161920/VBgv6zwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 85,
+          "like_count": 1283,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "hokke195",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

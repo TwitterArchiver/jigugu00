@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2096319518507458959",
+    "created_at": "2026-09-05T19:54:11.000Z",
+    "display_text_range": [
+      13,
+      157
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096326046169870755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833529472953487360",
+          "start": 0,
+          "username": "Zmzy_A7Ssy6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096326046169870755",
+    "in_reply_to_user_id": "1833529472953487360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096320434488950927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zmzy_A7Ssy6 音乐电影动画。新出的对我根本没有什么吸引力。音乐我还是喜欢2020年以前的术力口。\n太阳很晴朗。很晒，不喜欢\n食物没有什么很喜欢的，很平常\n我算是喜欢学校的那类人，但是心理阴影太严重了对场景的切换还是感觉好难受\n我养的两只鼠鼠死掉了。虽然算是自然死亡我还是好想她们\n我已经什么都不想干了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2096319518507458959",
+        "created_at": "2026-09-05T19:54:11.000Z",
+        "display_text_range": [
+          13,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096326046169870755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833529472953487360",
+              "start": 0,
+              "username": "Zmzy_A7Ssy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096326046169870755",
+        "in_reply_to_user_id": "1833529472953487360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096320434488950927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zmzy_A7Ssy6 音乐电影动画。新出的对我根本没有什么吸引力。音乐我还是喜欢2020年以前的术力口。\n太阳很晴朗。很晒，不喜欢\n食物没有什么很喜欢的，很平常\n我算是喜欢学校的那类人，但是心理阴影太严重了对场景的切换还是感觉好难受\n我养的两只鼠鼠死掉了。虽然算是自然死亡我还是好想她们\n我已经什么都不想干了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833529472953487360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2096319518507458959",
+        "created_at": "2026-09-05T19:31:53.000Z",
+        "display_text_range": [
+          10,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096320434488950927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096320434488950927",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096319518507458959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 最近喜欢听什么类型的音乐？有看想看的电影吗？最近的新作动画有在意的吗？今天天气如何呢？有吃到美味的食物吗？吐槽今天不想上班上学的心情吧？家里的宠物还是依旧吗？是不是又偷懒没有洗脸洗澡？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096326046169870755",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 814,
+          "like_count": 3768,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-10T15:34:36.000Z",
+        "description": "何もない\n一顆土豆\n關注必回",
+        "id": "1833529472953487360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096322964425937008",
+        "name": "椎名真一",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833529472953487360/1788120640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095196867005206528/UwLVh72j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 23,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Zmzy_A7Ssy6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

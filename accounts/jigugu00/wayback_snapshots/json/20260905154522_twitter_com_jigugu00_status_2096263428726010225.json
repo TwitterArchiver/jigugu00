@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096263428726010225",
+    "created_at": "2026-09-05T15:45:22.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096263428726010225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SerenaSerenaai…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/SerenaSerenaai7/status/2095917524047307140",
+          "start": 33,
+          "url": "https://t.co/XQ6yaeuOwP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096263428726010225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095917524047307140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只能接受二次元的萝莉正太本。三次元有小孩的片是真死爹死妈死全家 https://t.co/XQ6yaeuOwP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096263428726010225",
+        "created_at": "2026-09-05T15:45:22.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096263428726010225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SerenaSerenaai…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/SerenaSerenaai7/status/2095917524047307140",
+              "start": 33,
+              "url": "https://t.co/XQ6yaeuOwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096263428726010225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095917524047307140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只能接受二次元的萝莉正太本。三次元有小孩的片是真死爹死妈死全家 https://t.co/XQ6yaeuOwP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086823353818439680",
+        "conversation_id": "2095917524047307140",
+        "created_at": "2026-09-04T16:50:52.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095917524047307140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095917524047307140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 1093088,
+          "like_count": 11281,
+          "quote_count": 6,
+          "reply_count": 941,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "看片归看片，我是真受不了那些操小孩的畜牲啊，他妈的妈飞天上去了吧，对小孩下手简直就是性压抑到极致了，脑子里过的不是血是精虫吧，妈死完了这群畜牲们"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096263428726010225",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 800,
+          "like_count": 3688,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T14:34:56.000Z",
+        "description": "— I miss you♡‧ ₊˚✰💬",
+        "id": "2086823353818439680",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2096213010872410397",
+        "name": "Serena",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086823353818439680/1788610681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096211024206876672/MZsaXv02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 61,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "SerenaSerenaai7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

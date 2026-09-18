@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096331423166951670",
+    "created_at": "2026-09-05T20:17:40.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096331953930989976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047051072703733760",
+          "start": 0,
+          "username": "Nivaousmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096331953930989976",
+    "in_reply_to_user_id": "2047051072703733760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096331423166951670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nivaousmin 这医生有点死妈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096331423166951670",
+        "created_at": "2026-09-05T20:17:40.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096331953930989976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047051072703733760",
+              "start": 0,
+              "username": "Nivaousmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096331953930989976",
+        "in_reply_to_user_id": "2047051072703733760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096331423166951670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nivaousmin 这医生有点死妈。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047051072703733760",
+        "conversation_id": "2096331423166951670",
+        "created_at": "2026-09-05T20:15:33.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096331423166951670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jigugu00/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/jigugu00/status/2096306155815628822",
+              "start": 55,
+              "url": "https://t.co/wBhgRpKDtO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096331423166951670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096306155815628822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起之前自杀 医院让一个医生来问我为什么想死 和他说了之后 出门转头说“这孩子有点缺点”我不配感到痛苦 妈的 https://t.co/wBhgRpKDtO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096331953930989976",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 818,
+          "like_count": 3778,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-22T20:36:03.000Z",
+        "description": "碎碎念",
+        "id": "2047051072703733760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096331423166951670",
+        "name": "Nivaous",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047051926542471168/Uwnrdr2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "Nivaousmin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2099840637097201728",
+    "created_at": "2026-09-15T12:39:55.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099840637097201728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jigugu01/statu…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/jigugu01/status/2099837844344975866",
+          "start": 128,
+          "url": "https://t.co/mpNXBWSeDe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099840637097201728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099837844344975866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兄弟们这个是我画的。老子新开了个号专门发画，名字头像和内网用的一样，紧急情况当小号用。真舒服。\n因为我在抖音发了这个图，我如果在这个号发万一有人看到要么说我自己盗自己要么发现我去这个画手居然是个大毒枭我就没法搁内网混了。如果不发又感觉不得劲所以你懂的🤪🤪 https://t.co/mpNXBWSeDe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_2099837831829192704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQfYfQbAAAenLu.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2099840637097201728",
+        "created_at": "2026-09-15T12:39:55.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099840637097201728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jigugu01/statu…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/jigugu01/status/2099837844344975866",
+              "start": 128,
+              "url": "https://t.co/mpNXBWSeDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099840637097201728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099837844344975866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兄弟们这个是我画的。老子新开了个号专门发画，名字头像和内网用的一样，紧急情况当小号用。真舒服。\n因为我在抖音发了这个图，我如果在这个号发万一有人看到要么说我自己盗自己要么发现我去这个画手居然是个大毒枭我就没法搁内网混了。如果不发又感觉不得劲所以你懂的🤪🤪 https://t.co/mpNXBWSeDe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099837831829192704"
+          ]
+        },
+        "author_id": "2055992664290668544",
+        "conversation_id": "2099837844344975866",
+        "created_at": "2026-09-15T12:28:49.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099837844344975866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCCuPxHfCU",
+              "end": 31,
+              "expanded_url": "https://x.com/jigugu01/status/2099837844344975866/photo/1",
+              "media_key": "3_2099837831829192704",
+              "start": 8,
+              "url": "https://t.co/ZCCuPxHfCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099837844344975866",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2099837831829192704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "11th🎈🎉🎊 https://t.co/ZCCuPxHfCU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2099840637097201728",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 831,
+          "like_count": 3851,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T12:44:46.000Z",
+        "description": "🎨。",
+        "id": "2055992664290668544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099837844344975866",
+        "name": "禾花鱼鱼鱼森",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055992664290668544/1789475172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099837181732995072/wnd79gUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "jigugu01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

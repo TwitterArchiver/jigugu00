@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096187345183879168",
+        "3_2096187345183883265"
+      ],
+      "media_source_tweet_id": [
+        "2096187356705702352",
+        "2096187356705702352"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096313361101357456",
+    "created_at": "2026-09-05T19:03:47.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096313361101357456"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 63,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 90,
+          "start": 76,
+          "tag": "病み垢女子さんと繋がりたい"
+        },
+        {
+          "end": 106,
+          "start": 92,
+          "tag": "病み垢男子さんと繋がりたい"
+        },
+        {
+          "end": 113,
+          "start": 108,
+          "tag": "絡み募集"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028737886909325312",
+          "start": 3,
+          "username": "_0oq9ox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Mtm1rQVM5",
+          "end": 137,
+          "expanded_url": "https://x.com/_0oq9ox/status/2096187356705702352/photo/1",
+          "media_key": "3_2096187345183879168",
+          "start": 114,
+          "url": "https://t.co/1Mtm1rQVM5"
+        },
+        {
+          "display_url": "pic.x.com/1Mtm1rQVM5",
+          "end": 137,
+          "expanded_url": "https://x.com/_0oq9ox/status/2096187356705702352/photo/1",
+          "media_key": "3_2096187345183883265",
+          "start": 114,
+          "url": "https://t.co/1Mtm1rQVM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096313361101357456",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096187345183879168"
+      },
+      {
+        "media_key": "3_2096187345183883265"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096187356705702352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_0oq9ox: 🏷️𓈒𓏸︎\n09 ￤病み￤愚痴￤雑多￤絡み\n\nたくさんからも♡♡\n\n全反応気になり様おむかえ🤍\n\n #病み垢さんと繋がりたい #病み垢女子さんと繋がりたい  #病み垢男子さんと繋がりたい  #絡み募集 https://t.co/1Mtm1rQVM5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2096187345183879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcnSMxasAAYw_V.jpg",
+        "width": 1080
+      },
+      {
+        "height": 500,
+        "media_key": "3_2096187345183883265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcnSMxawAElzGt.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096187345183879168",
+            "3_2096187345183883265"
+          ],
+          "media_source_tweet_id": [
+            "2096187356705702352",
+            "2096187356705702352"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096313361101357456",
+        "created_at": "2026-09-05T19:03:47.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096313361101357456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 63,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 90,
+              "start": 76,
+              "tag": "病み垢女子さんと繋がりたい"
+            },
+            {
+              "end": 106,
+              "start": 92,
+              "tag": "病み垢男子さんと繋がりたい"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "絡み募集"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028737886909325312",
+              "start": 3,
+              "username": "_0oq9ox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Mtm1rQVM5",
+              "end": 137,
+              "expanded_url": "https://x.com/_0oq9ox/status/2096187356705702352/photo/1",
+              "media_key": "3_2096187345183879168",
+              "start": 114,
+              "url": "https://t.co/1Mtm1rQVM5"
+            },
+            {
+              "display_url": "pic.x.com/1Mtm1rQVM5",
+              "end": 137,
+              "expanded_url": "https://x.com/_0oq9ox/status/2096187356705702352/photo/1",
+              "media_key": "3_2096187345183883265",
+              "start": 114,
+              "url": "https://t.co/1Mtm1rQVM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096313361101357456",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096187345183879168"
+          },
+          {
+            "media_key": "3_2096187345183883265"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096187356705702352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_0oq9ox: 🏷️𓈒𓏸︎\n09 ￤病み￤愚痴￤雑多￤絡み\n\nたくさんからも♡♡\n\n全反応気になり様おむかえ🤍\n\n #病み垢さんと繋がりたい #病み垢女子さんと繋がりたい  #病み垢男子さんと繋がりたい  #絡み募集 https://t.co/1Mtm1rQVM5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096187345183879168",
+            "3_2096187345183883265"
+          ]
+        },
+        "author_id": "2028737886909325312",
+        "conversation_id": "2096187356705702352",
+        "created_at": "2026-09-05T10:43:05.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096187356705702352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 77,
+              "start": 63,
+              "tag": "病み垢女子さんと繋がりたい"
+            },
+            {
+              "end": 93,
+              "start": 79,
+              "tag": "病み垢男子さんと繋がりたい"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "絡み募集"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Mtm1rQVM5",
+              "end": 124,
+              "expanded_url": "https://x.com/_0oq9ox/status/2096187356705702352/photo/1",
+              "media_key": "3_2096187345183879168",
+              "start": 101,
+              "url": "https://t.co/1Mtm1rQVM5"
+            },
+            {
+              "display_url": "pic.x.com/1Mtm1rQVM5",
+              "end": 124,
+              "expanded_url": "https://x.com/_0oq9ox/status/2096187356705702352/photo/1",
+              "media_key": "3_2096187345183883265",
+              "start": 101,
+              "url": "https://t.co/1Mtm1rQVM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096187356705702352",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096187345183879168"
+          },
+          {
+            "media_key": "3_2096187345183883265"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2812,
+          "like_count": 147,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "🏷️𓈒𓏸︎\n09 ￤病み￤愚痴￤雑多￤絡み\n\nたくさんからも♡♡\n\n全反応気になり様おむかえ🤍\n\n #病み垢さんと繋がりたい #病み垢女子さんと繋がりたい  #病み垢男子さんと繋がりたい  #絡み募集 https://t.co/1Mtm1rQVM5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096313361101357456",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 812,
+          "like_count": 3747,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-03T07:43:20.000Z",
+        "description": "251 @plsx06 /両想い︎｡. ʚ ❤︎ ɞ .｡ @lvxhvp /💞@__ynlxq\n🗝@0oq9ox_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "plsx06"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "lvxhvp"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "__ynlxq"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "0oq9ox_"
+              }
+            ]
+          }
+        },
+        "id": "2028737886909325312",
+        "is_identity_verified": false,
+        "location": "他sns❌dm🔺",
+        "most_recent_tweet_id": "2096233539754946791",
+        "name": "もちょ‎🤍ᩚ",
+        "pinned_tweet_id": "2096187356705702352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028737886909325312/1772538393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090087753346322432/o32anUoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 281,
+          "like_count": 32207,
+          "listed_count": 45,
+          "media_count": 32,
+          "tweet_count": 11224
+        },
+        "url": "",
+        "username": "_0oq9ox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

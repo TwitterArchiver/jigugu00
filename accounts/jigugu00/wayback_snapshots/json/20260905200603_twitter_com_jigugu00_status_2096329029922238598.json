@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096306155815628822",
+    "created_at": "2026-09-05T20:06:03.000Z",
+    "display_text_range": [
+      13,
+      157
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096329029922238598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801122071025504256",
+          "start": 0,
+          "username": "seven_L3672"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096329029922238598",
+    "in_reply_to_user_id": "1801122071025504256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096321712795115936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seven_L3672 我精神科医生是我爸同学\n总有一种我爸把我的病当成耻辱当成污点的感觉..他根本不在意我是我是怎么想的只想托关系赶紧把我变成“正常人”\n因为医生是我爸同学我根本不敢说我真实情况。我根本不敢说我爸对我态度跟我说话的语气多恶劣，我爹是那种对外对内两个样的人，我就算说他对我态度不好别人也不会信.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096306155815628822",
+        "created_at": "2026-09-05T20:06:03.000Z",
+        "display_text_range": [
+          13,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096329029922238598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801122071025504256",
+              "start": 0,
+              "username": "seven_L3672"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096329029922238598",
+        "in_reply_to_user_id": "1801122071025504256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096321712795115936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seven_L3672 我精神科医生是我爸同学\n总有一种我爸把我的病当成耻辱当成污点的感觉..他根本不在意我是我是怎么想的只想托关系赶紧把我变成“正常人”\n因为医生是我爸同学我根本不敢说我真实情况。我根本不敢说我爸对我态度跟我说话的语气多恶劣，我爹是那种对外对内两个样的人，我就算说他对我态度不好别人也不会信.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801122071025504256",
+        "conversation_id": "2096306155815628822",
+        "created_at": "2026-09-05T19:36:58.000Z",
+        "display_text_range": [
+          10,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096321712795115936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096321712795115936",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096306155815628822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 还真是，心理医生问我最近怎么样即使他根本不知道我家里人的联系方式我仍然选择撒点小慌，可能是撒谎撒习惯了吧比较害怕说实话被责怪什么的，只能说原生家庭的痛楚还是太痛了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096329029922238598",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 814,
+          "like_count": 3768,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-13T05:19:21.000Z",
+        "description": "哇塞x上的煞笔我看不比墙内少啊",
+        "id": "1801122071025504256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096327675895816291",
+        "name": "seven_L3672",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801127190441971712/64gwm2mI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 52,
+          "like_count": 2228,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "seven_L3672",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

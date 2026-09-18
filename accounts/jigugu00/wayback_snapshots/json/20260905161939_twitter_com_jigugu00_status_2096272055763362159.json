@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096258125603246500",
+    "created_at": "2026-09-05T16:19:39.000Z",
+    "display_text_range": [
+      14,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096272055763362159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906899134382272512",
+          "start": 0,
+          "username": "fngyun216085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096272055763362159",
+    "in_reply_to_user_id": "1906899134382272512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096266674613911744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngyun216085 呃啊我想也是，假装自沙一下吓吓他估计就好。。我估计我当时是气懵逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096258125603246500",
+        "created_at": "2026-09-05T16:19:39.000Z",
+        "display_text_range": [
+          14,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096272055763362159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906899134382272512",
+              "start": 0,
+              "username": "fngyun216085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096272055763362159",
+        "in_reply_to_user_id": "1906899134382272512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096266674613911744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngyun216085 呃啊我想也是，假装自沙一下吓吓他估计就好。。我估计我当时是气懵逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906899134382272512",
+        "conversation_id": "2096258125603246500",
+        "created_at": "2026-09-05T15:58:16.000Z",
+        "display_text_range": [
+          10,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096266674613911744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096266674613911744",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096258125603246500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 虽然你很痛苦，但是不要尝试这个东西呀，很危险的，不然试着假装要自杀呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096272055763362159",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 801,
+          "like_count": 3699,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1854
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T02:39:32.000Z",
+        "description": "男生 喜欢xnn或者大姐姐 4i 178/65",
+        "id": "1906899134382272512",
+        "is_identity_verified": false,
+        "location": "我在青茅山很想你",
+        "most_recent_tweet_id": "2096270434845286793",
+        "name": "painber",
+        "pinned_tweet_id": "2095072823538553343",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906899134382272512/1743504795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907023440076582912/juyJ0_65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 198,
+          "like_count": 23899,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 2457
+        },
+        "url": "",
+        "username": "fngyun216085",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096242628069405184",
+    "created_at": "2026-09-05T14:22:43.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096242628069405184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jigugu00/statu…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/jigugu00/status/2096240022366327118",
+          "start": 116,
+          "url": "https://t.co/WCFQ0hA9aB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096242628069405184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096240022366327118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得我高中住校心理上特别舒服，比在家好多了，虽然累但是特别幸福，幸福程度甚至堪比我暑假在家嗑药。\n很大的一个原因就是我爹那一家子太傻逼了，声音大脾气倔还爱说方言，没听过陕西方言多恶心人的可以去搜。老子得精神病绝对跟他脱不了关系。 https://t.co/WCFQ0hA9aB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096242628069405184",
+        "created_at": "2026-09-05T14:22:43.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096242628069405184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jigugu00/statu…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/jigugu00/status/2096240022366327118",
+              "start": 116,
+              "url": "https://t.co/WCFQ0hA9aB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096242628069405184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096240022366327118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得我高中住校心理上特别舒服，比在家好多了，虽然累但是特别幸福，幸福程度甚至堪比我暑假在家嗑药。\n很大的一个原因就是我爹那一家子太傻逼了，声音大脾气倔还爱说方言，没听过陕西方言多恶心人的可以去搜。老子得精神病绝对跟他脱不了关系。 https://t.co/WCFQ0hA9aB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096240022366327118",
+        "created_at": "2026-09-05T14:12:22.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096240022366327118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096240022366327118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候真想叫我爸生物爹。看我情绪崩溃是不是很好玩啊。是不是老子自杀了你就舒服了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096242628069405184",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 799,
+          "like_count": 3671,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

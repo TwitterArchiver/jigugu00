@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096320136693367217",
+    "created_at": "2026-09-05T19:30:42.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096320136693367217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2070179375174352897",
+          "start": 3,
+          "username": "icczoefgko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096320136693367217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096159940771463424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @icczoefgko: 我现在的心情就跟吃了屎一样难受唯一的区别就是我没真的吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096320136693367217",
+        "created_at": "2026-09-05T19:30:42.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096320136693367217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2070179375174352897",
+              "start": 3,
+              "username": "icczoefgko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096320136693367217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096159940771463424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @icczoefgko: 我现在的心情就跟吃了屎一样难受唯一的区别就是我没真的吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070179375174352897",
+        "conversation_id": "2096159940771463424",
+        "created_at": "2026-09-05T08:54:09.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096159940771463424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096159940771463424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1985,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我现在的心情就跟吃了屎一样难受唯一的区别就是我没真的吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096320136693367217",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 814,
+          "like_count": 3762,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-25T16:17:44.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子/可以叫我咬咬  / 没有门槛不加v不想和你认识，喜欢我可以给我发口令红包",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaoyao79953",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaoyao79953",
+                "start": 0,
+                "url": "https://t.co/iQkdIgZAnA"
+              }
+            ]
+          }
+        },
+        "id": "2070179375174352897",
+        "is_identity_verified": false,
+        "location": "我想发啥就发啥🧚🏻‍♀️",
+        "most_recent_tweet_id": "2096261781916151960",
+        "name": "拭尽天下少女泪",
+        "pinned_tweet_id": "2082888025571573880",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070179375174352897/1786007357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088528414726848512/KYPBVW-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 103,
+          "like_count": 1746,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 2648
+        },
+        "url": "https://t.co/iQkdIgZAnA",
+        "username": "icczoefgko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

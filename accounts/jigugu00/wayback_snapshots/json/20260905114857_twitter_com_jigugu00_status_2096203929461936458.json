@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096203929461936458",
+    "created_at": "2026-09-05T11:48:57.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096203929461936458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2055822314969665536",
+          "start": 3,
+          "username": "GrievousPotato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096203929461936458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096064476856414469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GrievousPotato1: 人是一颗洋葱，剥到最后啥都没有，但其实剥下来的每片都是洋葱的一部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096203929461936458",
+        "created_at": "2026-09-05T11:48:57.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096203929461936458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2055822314969665536",
+              "start": 3,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096203929461936458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096064476856414469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GrievousPotato1: 人是一颗洋葱，剥到最后啥都没有，但其实剥下来的每片都是洋葱的一部分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2096064476856414469",
+        "created_at": "2026-09-05T02:34:48.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096064476856414469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h9qz6y/status/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/h9qz6y/status/2095662150845075623",
+              "start": 34,
+              "url": "https://t.co/FqoYQDzLrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096064476856414469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1079,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095662150845075623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人是一颗洋葱，剥到最后啥都没有，但其实剥下来的每片都是洋葱的一部分 https://t.co/FqoYQDzLrU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096203929461936458",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 797,
+          "like_count": 3656,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096202380165390659",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 462,
+          "like_count": 20694,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1632
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

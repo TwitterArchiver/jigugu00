@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099798629259395072"
+      ],
+      "media_source_tweet_id": [
+        "2099799036580831686"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2099838282372940271",
+    "created_at": "2026-09-15T12:30:34.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099838282372940271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2087636528633982976",
+          "start": 3,
+          "username": "67De_dian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AfXbVmheAy",
+          "end": 136,
+          "expanded_url": "https://x.com/67De_dian/status/2099799036580831686/photo/1",
+          "media_key": "3_2099798629259395072",
+          "start": 113,
+          "url": "https://t.co/AfXbVmheAy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099838282372940271",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099798629259395072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099799036580831686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @67De_dian: 急报：\n各类化工网上普瑞巴林相关内容\n工业级/试剂级/医药级均已禁售\n\n也许之后更多人的获取会更加难呢😔\n让我们为普瑞巴林默哀\nR.I.P\n\n图片来源：我弟弟小煜刚刚拍的\n昨天还是可以询价购买的 https://t.co/AfXbVmheAy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2099798629259395072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSP7umTbwAAZKsc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099798629259395072"
+          ],
+          "media_source_tweet_id": [
+            "2099799036580831686"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2099838282372940271",
+        "created_at": "2026-09-15T12:30:34.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099838282372940271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2087636528633982976",
+              "start": 3,
+              "username": "67De_dian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfXbVmheAy",
+              "end": 136,
+              "expanded_url": "https://x.com/67De_dian/status/2099799036580831686/photo/1",
+              "media_key": "3_2099798629259395072",
+              "start": 113,
+              "url": "https://t.co/AfXbVmheAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099838282372940271",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099798629259395072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099799036580831686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @67De_dian: 急报：\n各类化工网上普瑞巴林相关内容\n工业级/试剂级/医药级均已禁售\n\n也许之后更多人的获取会更加难呢😔\n让我们为普瑞巴林默哀\nR.I.P\n\n图片来源：我弟弟小煜刚刚拍的\n昨天还是可以询价购买的 https://t.co/AfXbVmheAy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099798629259395072"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "conversation_id": "2099799036580831686",
+        "created_at": "2026-09-15T09:54:37.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099799036580831686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfXbVmheAy",
+              "end": 121,
+              "expanded_url": "https://x.com/67De_dian/status/2099799036580831686/photo/1",
+              "media_key": "3_2099798629259395072",
+              "start": 98,
+              "url": "https://t.co/AfXbVmheAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099799036580831686",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099798629259395072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1317,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "急报：\n各类化工网上普瑞巴林相关内容\n工业级/试剂级/医药级均已禁售\n\n也许之后更多人的获取会更加难呢😔\n让我们为普瑞巴林默哀\nR.I.P\n\n图片来源：我弟弟小煜刚刚拍的\n昨天还是可以询价购买的 https://t.co/AfXbVmheAy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2099838282372940271",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 829,
+          "like_count": 3850,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2099821436563341517",
+        "name": "绝望_6De点（pr有售）",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 457,
+          "like_count": 4347,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1090
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096320111816937556",
+    "created_at": "2026-09-05T19:30:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096320111816937556"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 82,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 108,
+          "start": 96,
+          "tag": "病み垢女子と繋がりたい"
+        },
+        {
+          "end": 122,
+          "start": 110,
+          "tag": "病み垢男子と繋がりたい"
+        },
+        {
+          "end": 139,
+          "start": 125,
+          "tag": "絡んでくれないと追いかける"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2084964185516154880",
+          "start": 3,
+          "username": "nonty0__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096320111816937556",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096004536553124185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nonty0__: Tag🐈‍⬛🎀\n\n離れない保証をして\n\n08 | ♀︎ | 嫉妬魔| 監視|独占|ノリ\n\n全反応気になりさんお迎え〜❤︎._.❤︎\n\n #病み垢さんと繋がりたい\n #病み垢女子と繋がりたい\n #病み垢男子と繋がりたい \n #絡んでくれないと追いかける…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2096004530995703808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRaBBA2bsAANpL6.jpg",
+        "width": 1200
+      },
+      {
+        "height": 951,
+        "media_key": "3_2096004530978869248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRaBBAya0AAxIqn.jpg",
+        "width": 750
+      },
+      {
+        "height": 966,
+        "media_key": "3_2096004530983096320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRaBBAzbUAAu9qw.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096320111816937556",
+        "created_at": "2026-09-05T19:30:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096320111816937556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 82,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 108,
+              "start": 96,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 122,
+              "start": 110,
+              "tag": "病み垢男子と繋がりたい"
+            },
+            {
+              "end": 139,
+              "start": 125,
+              "tag": "絡んでくれないと追いかける"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2084964185516154880",
+              "start": 3,
+              "username": "nonty0__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096320111816937556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096004536553124185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nonty0__: Tag🐈‍⬛🎀\n\n離れない保証をして\n\n08 | ♀︎ | 嫉妬魔| 監視|独占|ノリ\n\n全反応気になりさんお迎え〜❤︎._.❤︎\n\n #病み垢さんと繋がりたい\n #病み垢女子と繋がりたい\n #病み垢男子と繋がりたい \n #絡んでくれないと追いかける…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096004530995703808",
+            "3_2096004530978869248",
+            "3_2096004530983096320"
+          ]
+        },
+        "author_id": "2084964185516154880",
+        "conversation_id": "2096004536553124185",
+        "created_at": "2026-09-04T22:36:38.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T23:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096004536553124185"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 68,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 94,
+              "start": 82,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 108,
+              "start": 96,
+              "tag": "病み垢男子と繋がりたい"
+            },
+            {
+              "end": 125,
+              "start": 111,
+              "tag": "絡んでくれないと追いかける"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOUq598H0a",
+              "end": 149,
+              "expanded_url": "https://x.com/nonty0__/status/2096004536553124185/photo/1",
+              "media_key": "3_2096004530995703808",
+              "start": 126,
+              "url": "https://t.co/hOUq598H0a"
+            },
+            {
+              "display_url": "pic.x.com/hOUq598H0a",
+              "end": 149,
+              "expanded_url": "https://x.com/nonty0__/status/2096004536553124185/photo/1",
+              "media_key": "3_2096004530978869248",
+              "start": 126,
+              "url": "https://t.co/hOUq598H0a"
+            },
+            {
+              "display_url": "pic.x.com/hOUq598H0a",
+              "end": 149,
+              "expanded_url": "https://x.com/nonty0__/status/2096004536553124185/photo/1",
+              "media_key": "3_2096004530983096320",
+              "start": 126,
+              "url": "https://t.co/hOUq598H0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096004536553124185",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096004530995703808"
+          },
+          {
+            "media_key": "3_2096004530978869248"
+          },
+          {
+            "media_key": "3_2096004530983096320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4116,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Tag🐈‍⬛🎀\n\n離れない保証をして\n\n08 | ♀︎ | 嫉妬魔| 監視|独占|ノリ\n\n全反応気になりさんお迎え〜❤︎._.❤︎\n\n #病み垢さんと繋がりたい\n #病み垢女子と繋がりたい\n #病み垢男子と繋がりたい \n #絡んでくれないと追いかける https://t.co/hOUq598H0a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096320111816937556",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 814,
+          "like_count": 3762,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T11:27:43.000Z",
+        "description": "ゆっくりフォロー返してくね💦\n永遠@1uv1y__ /妹@37se_dazo /BF @5z6wmk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "1uv1y__"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "37se_dazo"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "username": "5z6wmk"
+              }
+            ]
+          }
+        },
+        "id": "2084964185516154880",
+        "is_identity_verified": false,
+        "location": "可愛くて何がわりぃ",
+        "most_recent_tweet_id": "2096292271872491550",
+        "name": "のんちゃ.",
+        "pinned_tweet_id": "2096004536553124185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084964185516154880/1788558066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095989585251868672/nzbDNDdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 280,
+          "like_count": 2288,
+          "listed_count": 10,
+          "media_count": 3,
+          "tweet_count": 498
+        },
+        "url": "",
+        "username": "nonty0__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

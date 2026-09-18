@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096351971582316544"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096352035843244452",
+    "created_at": "2026-09-05T21:37:28.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T22:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096352035843244452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zwJU99fklw",
+          "end": 153,
+          "expanded_url": "https://x.com/jigugu00/status/2096352035843244452/photo/1",
+          "media_key": "3_2096351971582316544",
+          "start": 130,
+          "url": "https://t.co/zwJU99fklw"
+        },
+        {
+          "display_url": "x.com/jigugu00/statu…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/jigugu00/status/2096258125603246500",
+          "start": 154,
+          "url": "https://t.co/6JyKCpSU16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096352035843244452",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096351971582316544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096258125603246500",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "事情经过就是我爹让我去接水我说等一下，过程中一直催催催。\n他说水卡在抽屉里结果我看到抽屉里只有一张跟水有关系的“取水卡”，我就拿走去楼下接水。结果刷不上，我打电话问我妈，说是水卡拿错了真正的水卡在角落的缝隙里里，那个卡是取自来水的，他在旁边一直说废话说我不↓ https://t.co/zwJU99fklw https://t.co/6JyKCpSU16"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2096351971582316544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRe9At5akAA9Dan.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096351971582316544"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096352035843244452",
+        "created_at": "2026-09-05T21:37:28.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T22:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096352035843244452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwJU99fklw",
+              "end": 153,
+              "expanded_url": "https://x.com/jigugu00/status/2096352035843244452/photo/1",
+              "media_key": "3_2096351971582316544",
+              "start": 130,
+              "url": "https://t.co/zwJU99fklw"
+            },
+            {
+              "display_url": "x.com/jigugu00/statu…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/jigugu00/status/2096258125603246500",
+              "start": 154,
+              "url": "https://t.co/6JyKCpSU16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096352035843244452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096351971582316544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096258125603246500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事情经过就是我爹让我去接水我说等一下，过程中一直催催催。\n他说水卡在抽屉里结果我看到抽屉里只有一张跟水有关系的“取水卡”，我就拿走去楼下接水。结果刷不上，我打电话问我妈，说是水卡拿错了真正的水卡在角落的缝隙里里，那个卡是取自来水的，他在旁边一直说废话说我不↓ https://t.co/zwJU99fklw https://t.co/6JyKCpSU16"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096258125603246500",
+        "created_at": "2026-09-05T15:24:18.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096258125603246500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096258125603246500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 642,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉真的得试着自杀一次了。不然我爸这个傻逼只会觉得我说想死是在挑衅他。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2096352035843244452",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 828,
+          "like_count": 3804,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

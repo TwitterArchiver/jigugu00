@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2092238670569033904",
+    "created_at": "2026-08-27T04:35:49.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092833440781812040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "ysawa325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092833440781812040",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092276675933520213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysawa325 😱😱😱😱。你猜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2092238670569033904",
+        "created_at": "2026-08-27T04:35:49.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092833440781812040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "ysawa325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092833440781812040",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092276675933520213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysawa325 😱😱😱😱。你猜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "2092238670569033904",
+        "created_at": "2026-08-25T15:43:26.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092276675933520213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092276675933520213",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092238670569033904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 晶哥昨天登门拜访说我买🧊，是不是你干的😡！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092833440781812040",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 813,
+          "like_count": 3629,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "🚹，想和正常人Fo。\n我的帖子有时候不显示评论owo\n可随时私信我，做大家的情绪垃圾桶\n私聊天天上限，傻逼软件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcaea.lowiro.com/zh",
+                "end": 23,
+                "expanded_url": "https://arcaea.lowiro.com/zh",
+                "start": 0,
+                "url": "https://t.co/T15QFpyjlZ"
+              }
+            ]
+          }
+        },
+        "id": "1758428820045189120",
+        "is_identity_verified": false,
+        "location": "距离你1m",
+        "most_recent_tweet_id": "2092814871754916210",
+        "name": "励志的单细胞",
+        "pinned_tweet_id": "2091979195161440706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758428820045189120/1782060571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080262547744387072/xnszDUW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 537,
+          "like_count": 17228,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 14542
+        },
+        "url": "https://t.co/T15QFpyjlZ",
+        "username": "ysawa325",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

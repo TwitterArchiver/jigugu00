@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096344174270570545",
+    "created_at": "2026-09-05T21:06:13.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T22:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096344174270570545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088884586503942144",
+          "start": 3,
+          "username": "b1a0q1a0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096344174270570545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096342963756675217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @b1a0q1a0: 我现在更恨山东男的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096344174270570545",
+        "created_at": "2026-09-05T21:06:13.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T22:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096344174270570545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088884586503942144",
+              "start": 3,
+              "username": "b1a0q1a0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096344174270570545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096342963756675217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @b1a0q1a0: 我现在更恨山东男的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088884586503942144",
+        "conversation_id": "2096342963756675217",
+        "created_at": "2026-09-05T21:01:25.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T22:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096342963756675217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096342963756675217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我现在更恨山东男的了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2096344174270570545",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 828,
+          "like_count": 3803,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T07:05:40.000Z",
+        "description": "爱人@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "2088884586503942144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096343663710531587",
+        "name": "乍玉5.0",
+        "pinned_tweet_id": "2088886963730567560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088884586503942144/1786864173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088885133382389760/dcM5q8EX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 210,
+          "like_count": 772,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "b1a0q1a0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

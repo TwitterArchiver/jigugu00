@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096314528569213134",
+    "created_at": "2026-09-05T19:08:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096314528569213134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035263763402883072",
+          "start": 3,
+          "username": "yuzuki3371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096314528569213134",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096207241364062420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzuki3371: Tag🏷𓈒𓏸︎\n\nイロハ┆͓̽🚺┆͓̽学生┆͓̽関西┆͓̽\n\nDM◎┆͓̽通話△┆͓̽スペ〇┆͓̽\n\n「手を繋いで歩きたい」\n\n気軽に絡んで話しかけてくださいm(._.)m\n♡で気になりさんお迎えします\nALTも呼んでくれると助かります。\n\n#病…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2096207217305505792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc5W6Ma0AASd6t.jpg",
+        "width": 768
+      },
+      {
+        "height": 1006,
+        "media_key": "3_2096207217280368640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc5W6GbQAAOgny.jpg",
+        "width": 750
+      },
+      {
+        "height": 414,
+        "media_key": "3_2096207217292980224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc5W6JbsAAdxOX.jpg",
+        "width": 245
+      },
+      {
+        "duration_ms": 15000,
+        "height": 826,
+        "media_key": "13_2096207217288695808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096207217288695808/img/fjU-7ArSN0W_IlgL.jpg",
+        "public_metrics": {
+          "view_count": 171
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096207217288695808/vid/avc1/320x560/Gs7RJBmg5PTPZc9y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096207217288695808/vid/avc1/472x826/KOgUkkGuRfKDrSn9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096207217288695808/pl/o2fjxiPcoz5G4JxY.m3u8"
+          }
+        ],
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096314528569213134",
+        "created_at": "2026-09-05T19:08:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096314528569213134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035263763402883072",
+              "start": 3,
+              "username": "yuzuki3371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096314528569213134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096207241364062420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzuki3371: Tag🏷𓈒𓏸︎\n\nイロハ┆͓̽🚺┆͓̽学生┆͓̽関西┆͓̽\n\nDM◎┆͓̽通話△┆͓̽スペ〇┆͓̽\n\n「手を繋いで歩きたい」\n\n気軽に絡んで話しかけてくださいm(._.)m\n♡で気になりさんお迎えします\nALTも呼んでくれると助かります。\n\n#病…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096207217305505792",
+            "3_2096207217280368640",
+            "3_2096207217292980224",
+            "13_2096207217288695808"
+          ]
+        },
+        "author_id": "2035263763402883072",
+        "conversation_id": "2096207241364062420",
+        "created_at": "2026-09-05T12:02:06.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096207241364062420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 121,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 148,
+              "start": 134,
+              "tag": "病み垢女子さんと繋がりたい"
+            },
+            {
+              "end": 163,
+              "start": 149,
+              "tag": "病み垢男子さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4FNG54vdB",
+              "end": 187,
+              "expanded_url": "https://x.com/yuzuki3371/status/2096207241364062420/video/1",
+              "media_key": "3_2096207217305505792",
+              "start": 164,
+              "url": "https://t.co/e4FNG54vdB"
+            },
+            {
+              "display_url": "pic.x.com/e4FNG54vdB",
+              "end": 187,
+              "expanded_url": "https://x.com/yuzuki3371/status/2096207241364062420/video/1",
+              "media_key": "3_2096207217280368640",
+              "start": 164,
+              "url": "https://t.co/e4FNG54vdB"
+            },
+            {
+              "display_url": "pic.x.com/e4FNG54vdB",
+              "end": 187,
+              "expanded_url": "https://x.com/yuzuki3371/status/2096207241364062420/video/1",
+              "media_key": "3_2096207217292980224",
+              "start": 164,
+              "url": "https://t.co/e4FNG54vdB"
+            },
+            {
+              "display_url": "pic.x.com/e4FNG54vdB",
+              "end": 187,
+              "expanded_url": "https://x.com/yuzuki3371/status/2096207241364062420/video/1",
+              "media_key": "13_2096207217288695808",
+              "start": 164,
+              "url": "https://t.co/e4FNG54vdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096207241364062420",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096207217305505792"
+          },
+          {
+            "media_key": "3_2096207217280368640"
+          },
+          {
+            "media_key": "3_2096207217292980224"
+          },
+          {
+            "media_key": "13_2096207217288695808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3017,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Tag🏷𓈒𓏸︎\n\nイロハ┆͓̽🚺┆͓̽学生┆͓̽関西┆͓̽\n\nDM◎┆͓̽通話△┆͓̽スペ〇┆͓̽\n\n「手を繋いで歩きたい」\n\n気軽に絡んで話しかけてくださいm(._.)m\n♡で気になりさんお迎えします\nALTも呼んでくれると助かります。\n\n#病み垢さんと繋がりたい\n#病み垢女子さんと繋がりたい\n#病み垢男子さんと繋がりたい https://t.co/e4FNG54vdB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096314528569213134",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 813,
+          "like_count": 3755,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-21T07:54:46.000Z",
+        "description": "🚺/学生/DM◎ /通話△/病み垢\nのんびりぼちぼち生きてます\n社会不適合者･陰キャ･シスコン･要領悪い･無能･クズ\n双子の妹（実）♡(*´꒳`*)(*´˘`*)♡→@smrsumire015\n鍵🗝➞@yuzuki0168\n※妹とイロハは違う人間です。同じだと思 わないでください。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "smrsumire015"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "yuzuki0168"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/yuzuki3371/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/yuzuki3371/",
+                "start": 0,
+                "url": "https://t.co/YtE5keYgwr"
+              }
+            ]
+          }
+        },
+        "id": "2035263763402883072",
+        "is_identity_verified": false,
+        "location": "ブランケット",
+        "most_recent_tweet_id": "2096220557381615669",
+        "name": "花園イロハ☆",
+        "pinned_tweet_id": "2096207241364062420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035263763402883072/1786104669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085693810013831168/Ov071FvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 802,
+          "like_count": 48283,
+          "listed_count": 20,
+          "media_count": 72,
+          "tweet_count": 3155
+        },
+        "url": "https://t.co/YtE5keYgwr",
+        "username": "yuzuki3371",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

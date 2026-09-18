@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096151443195711488"
+      ],
+      "media_source_tweet_id": [
+        "2096151484169863484"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096272817524547606",
+    "created_at": "2026-09-05T16:22:41.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096272817524547606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1760576770670309376",
+          "start": 3,
+          "username": "chodae3333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RP72YNBifO",
+          "end": 69,
+          "expanded_url": "https://x.com/TweetsOfHamster/status/2096151484169863484/video/1",
+          "media_key": "13_2096151443195711488",
+          "start": 46,
+          "url": "https://t.co/RP72YNBifO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096272817524547606",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2096151443195711488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 635
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096205979226661108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chodae3333: 생쥐, 쥐덩이, 생쥐덩어리, 쥐덩어리, 휴대용 돈가스 https://t.co/RP72YNBifO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30333,
+        "height": 848,
+        "media_key": "13_2096151443195711488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096151443195711488/img/deotY3WJ10ZlqiH-.jpg",
+        "public_metrics": {
+          "view_count": 30014
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096151443195711488/vid/avc1/320x376/ZfSCisilJAV9wsEj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096151443195711488/vid/avc1/480x564/3SWF6aQpZQ2VT39t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096151443195711488/vid/avc1/720x848/6wXJqwpaGsVmBFCF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096151443195711488/pl/86cBijTqfOgsvpp_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096151443195711488"
+          ],
+          "media_source_tweet_id": [
+            "2096151484169863484"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096272817524547606",
+        "created_at": "2026-09-05T16:22:41.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096272817524547606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1760576770670309376",
+              "start": 3,
+              "username": "chodae3333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RP72YNBifO",
+              "end": 69,
+              "expanded_url": "https://x.com/TweetsOfHamster/status/2096151484169863484/video/1",
+              "media_key": "13_2096151443195711488",
+              "start": 46,
+              "url": "https://t.co/RP72YNBifO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096272817524547606",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2096151443195711488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 635
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096205979226661108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chodae3333: 생쥐, 쥐덩이, 생쥐덩어리, 쥐덩어리, 휴대용 돈가스 https://t.co/RP72YNBifO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096151443195711488"
+          ],
+          "media_source_tweet_id": [
+            "2096151484169863484"
+          ]
+        },
+        "author_id": "1760576770670309376",
+        "conversation_id": "2096205979226661108",
+        "created_at": "2026-09-05T11:57:05.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096205979226661108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RP72YNBifO",
+              "end": 53,
+              "expanded_url": "https://x.com/TweetsOfHamster/status/2096151484169863484/video/1",
+              "media_key": "13_2096151443195711488",
+              "start": 30,
+              "url": "https://t.co/RP72YNBifO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096205979226661108",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2096151443195711488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 46266,
+          "like_count": 1409,
+          "quote_count": 75,
+          "reply_count": 0,
+          "retweet_count": 635
+        },
+        "reply_settings": "following",
+        "text": "생쥐, 쥐덩이, 생쥐덩어리, 쥐덩어리, 휴대용 돈가스 https://t.co/RP72YNBifO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096151443195711488"
+          ]
+        },
+        "author_id": "1756337790760124416",
+        "conversation_id": "2096151484169863484",
+        "created_at": "2026-09-05T08:20:33.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096151484169863484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YzbZwlEkSq",
+              "end": 23,
+              "expanded_url": "https://x.com/TweetsOfHamster/status/2096151484169863484/video/1",
+              "media_key": "13_2096151443195711488",
+              "start": 0,
+              "url": "https://t.co/YzbZwlEkSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096151484169863484",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2096151443195711488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 61739,
+          "like_count": 2473,
+          "quote_count": 89,
+          "reply_count": 1,
+          "retweet_count": 434
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YzbZwlEkSq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096272817524547606",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 801,
+          "like_count": 3704,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1857
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-22T08:06:52.000Z",
+        "description": "씹덕계오타쿠덕질계정아카이빙계아님팔로비추",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/chodae3333",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/chodae3333",
+                "start": 0,
+                "url": "https://t.co/5zfuYhI0g1"
+              }
+            ]
+          }
+        },
+        "id": "1760576770670309376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096272585927647491",
+        "name": "두바이쫀득도치",
+        "pinned_tweet_id": "2095808828944326919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760576770670309376/1780557070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088808863575449600/LvoHVvao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 114,
+          "like_count": 10786,
+          "listed_count": 7,
+          "media_count": 1018,
+          "tweet_count": 21696
+        },
+        "url": "https://t.co/5zfuYhI0g1",
+        "username": "chodae3333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

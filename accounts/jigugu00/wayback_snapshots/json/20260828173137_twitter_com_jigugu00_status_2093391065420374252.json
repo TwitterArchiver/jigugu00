@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2093391065420374252",
+    "created_at": "2026-08-28T17:31:37.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T18:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093391065420374252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tumblr/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/tumblr/status/2079607905938981055",
+          "start": 12,
+          "url": "https://t.co/Gz0rt7qmd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093391065420374252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079607905938981055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "tenna笑转之拆拆臂 https://t.co/Gz0rt7qmd6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2079607902692671488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxAXogXgAAXHNo.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2093391065420374252",
+        "created_at": "2026-08-28T17:31:37.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093391065420374252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tumblr/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/tumblr/status/2079607905938981055",
+              "start": 12,
+              "url": "https://t.co/Gz0rt7qmd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093391065420374252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079607905938981055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tenna笑转之拆拆臂 https://t.co/Gz0rt7qmd6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079607902692671488"
+          ]
+        },
+        "author_id": "52484614",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1534297166239240192",
+              "name": "Tumblr"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534297166239240192",
+              "name": "Tumblr"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2079607905938981055",
+        "created_at": "2026-07-21T16:42:16.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079607905938981055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmD2pu9nyq",
+              "end": 54,
+              "expanded_url": "https://x.com/tumblr/status/2079607905938981055/photo/1",
+              "media_key": "3_2079607902692671488",
+              "start": 31,
+              "url": "https://t.co/qmD2pu9nyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079607905938981055",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2079607902692671488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5996,
+          "impression_count": 972218,
+          "like_count": 87955,
+          "quote_count": 731,
+          "reply_count": 233,
+          "retweet_count": 12841
+        },
+        "reply_settings": "everyone",
+        "text": "a new sexyman has been crowned https://t.co/qmD2pu9nyq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093391065420374252",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 801,
+          "like_count": 3631,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1813
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-30T19:01:39.000Z",
+        "description": "community. art. fandom. culture.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tumblr.at/links",
+                "end": 23,
+                "expanded_url": "https://tumblr.at/links",
+                "start": 0,
+                "url": "https://t.co/vXSbSNGzQG"
+              }
+            ]
+          }
+        },
+        "id": "52484614",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093039412120629316",
+        "name": "tumblr",
+        "pinned_tweet_id": "2083269024004100454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52484614/1775833588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042620671029649408/C1GSucRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928459,
+          "following_count": 478,
+          "like_count": 48287,
+          "listed_count": 8848,
+          "media_count": 15808,
+          "tweet_count": 42017
+        },
+        "url": "https://t.co/vXSbSNGzQG",
+        "username": "tumblr",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

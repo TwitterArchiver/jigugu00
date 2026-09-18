@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2096275162757017757",
+    "created_at": "2026-09-05T16:32:00.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096275162757017757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1871356900563881984",
+          "start": 3,
+          "username": "daxhaunts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096275162757017757",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096058845147615366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daxhaunts: deltarune chapter six"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2096275162757017757",
+        "created_at": "2026-09-05T16:32:00.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096275162757017757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1871356900563881984",
+              "start": 3,
+              "username": "daxhaunts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096275162757017757",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096058845147615366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daxhaunts: deltarune chapter six"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871356900563881984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2096058845147615366",
+        "created_at": "2026-09-05T02:12:26.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096058845147615366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizaxem/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/mizaxem/status/2095869348816822354",
+              "start": 22,
+              "url": "https://t.co/Bt97eW7TXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096058845147615366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6667,
+          "like_count": 716,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095869348816822354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "deltarune chapter six https://t.co/Bt97eW7TXP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096275162757017757",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 801,
+          "like_count": 3706,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1858
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-24T00:47:25.000Z",
+        "description": "as above, so below | he/they | 24 | occasional writer | proship dni",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "daxhaunts.straw.page",
+                "end": 23,
+                "expanded_url": "https://daxhaunts.straw.page",
+                "start": 0,
+                "url": "https://t.co/K27w0sbKQ0"
+              }
+            ]
+          }
+        },
+        "id": "1871356900563881984",
+        "is_identity_verified": false,
+        "location": "ic: sugarlover1225",
+        "most_recent_tweet_id": "2096272319765168384",
+        "name": "reese",
+        "pinned_tweet_id": "1955455239492080120",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871356900563881984/1788395558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095308871799574529/HBLrPuPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4128,
+          "following_count": 390,
+          "like_count": 39295,
+          "listed_count": 8,
+          "media_count": 3599,
+          "tweet_count": 22671
+        },
+        "url": "https://t.co/K27w0sbKQ0",
+        "username": "daxhaunts",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

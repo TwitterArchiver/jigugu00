@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095931517310795776",
+        "3_2095931517285634048"
+      ],
+      "media_source_tweet_id": [
+        "2095931527402246448",
+        "2095931527402246448"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096290100875608328",
+    "created_at": "2026-09-05T17:31:21.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096290100875608328"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 14,
+          "tag": "deltaruneㅤㅤㅤ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2084013910617899009",
+          "start": 3,
+          "username": "Orukubii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eDWPjeGuqK",
+          "end": 62,
+          "expanded_url": "https://x.com/Orukubii/status/2095931527402246448/photo/1",
+          "media_key": "3_2095931517310795776",
+          "start": 39,
+          "url": "https://t.co/eDWPjeGuqK"
+        },
+        {
+          "display_url": "pic.x.com/eDWPjeGuqK",
+          "end": 62,
+          "expanded_url": "https://x.com/Orukubii/status/2095931527402246448/photo/1",
+          "media_key": "3_2095931517285634048",
+          "start": 39,
+          "url": "https://t.co/eDWPjeGuqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096290100875608328",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095931517310795776"
+      },
+      {
+        "media_key": "3_2095931517285634048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095931527402246448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Orukubii: #deltaruneㅤㅤㅤ \n转头开始画日式校园 https://t.co/eDWPjeGuqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095931517310795776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRY-nDrbAAAvIPN.jpg",
+        "width": 1726
+      },
+      {
+        "height": 1505,
+        "media_key": "3_2095931517285634048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRY-nDlbEAA_6o_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095931517310795776",
+            "3_2095931517285634048"
+          ],
+          "media_source_tweet_id": [
+            "2095931527402246448",
+            "2095931527402246448"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096290100875608328",
+        "created_at": "2026-09-05T17:31:21.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096290100875608328"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 14,
+              "tag": "deltaruneㅤㅤㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2084013910617899009",
+              "start": 3,
+              "username": "Orukubii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDWPjeGuqK",
+              "end": 62,
+              "expanded_url": "https://x.com/Orukubii/status/2095931527402246448/photo/1",
+              "media_key": "3_2095931517310795776",
+              "start": 39,
+              "url": "https://t.co/eDWPjeGuqK"
+            },
+            {
+              "display_url": "pic.x.com/eDWPjeGuqK",
+              "end": 62,
+              "expanded_url": "https://x.com/Orukubii/status/2095931527402246448/photo/1",
+              "media_key": "3_2095931517285634048",
+              "start": 39,
+              "url": "https://t.co/eDWPjeGuqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096290100875608328",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095931517310795776"
+          },
+          {
+            "media_key": "3_2095931517285634048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095931527402246448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Orukubii: #deltaruneㅤㅤㅤ \n转头开始画日式校园 https://t.co/eDWPjeGuqK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095931517310795776",
+            "3_2095931517285634048"
+          ]
+        },
+        "author_id": "2084013910617899009",
+        "conversation_id": "2095931527402246448",
+        "created_at": "2026-09-04T17:46:31.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095931527402246448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "deltaruneㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDWPjeGuqK",
+              "end": 48,
+              "expanded_url": "https://x.com/Orukubii/status/2095931527402246448/photo/1",
+              "media_key": "3_2095931517310795776",
+              "start": 25,
+              "url": "https://t.co/eDWPjeGuqK"
+            },
+            {
+              "display_url": "pic.x.com/eDWPjeGuqK",
+              "end": 48,
+              "expanded_url": "https://x.com/Orukubii/status/2095931527402246448/photo/1",
+              "media_key": "3_2095931517285634048",
+              "start": 25,
+              "url": "https://t.co/eDWPjeGuqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095931527402246448",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095931517310795776"
+          },
+          {
+            "media_key": "3_2095931517285634048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 19636,
+          "like_count": 2405,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "#deltaruneㅤㅤㅤ \n转头开始画日式校园 https://t.co/eDWPjeGuqK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096290100875608328",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 803,
+          "like_count": 3724,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1864
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T20:30:43.000Z",
+        "description": "ibukuro/ibk/イブクロ\n\n🧡🩵💜💚💙💛🩷🌼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibukuro.straw.page",
+                "end": 23,
+                "expanded_url": "https://ibukuro.straw.page",
+                "start": 0,
+                "url": "https://t.co/gOriv7t8Ck"
+              }
+            ]
+          }
+        },
+        "id": "2084013910617899009",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096211517452824808",
+        "name": "Orukubi",
+        "pinned_tweet_id": "2093719308878873079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084013910617899009/1785702891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086203777993031682/uv9O78WG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 57,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/gOriv7t8Ck",
+        "username": "Orukubii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

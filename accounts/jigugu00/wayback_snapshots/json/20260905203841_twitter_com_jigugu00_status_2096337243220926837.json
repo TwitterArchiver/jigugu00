@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096250868677120001",
+        "3_2096250868693893120"
+      ],
+      "media_source_tweet_id": [
+        "2096250874138108067",
+        "2096250874138108067"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096337243220926837",
+    "created_at": "2026-09-05T20:38:41.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096337243220926837"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "病み垢"
+        },
+        {
+          "end": 83,
+          "start": 71,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 95,
+          "start": 85,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 108,
+          "start": 98,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "地雷系"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674707438313041920",
+          "start": 3,
+          "username": "9ai_sei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SoyYt8hJ7u",
+          "end": 139,
+          "expanded_url": "https://x.com/9ai_sei/status/2096250874138108067/photo/1",
+          "media_key": "3_2096250868677120001",
+          "start": 116,
+          "url": "https://t.co/SoyYt8hJ7u"
+        },
+        {
+          "display_url": "pic.x.com/SoyYt8hJ7u",
+          "end": 139,
+          "expanded_url": "https://x.com/9ai_sei/status/2096250874138108067/photo/1",
+          "media_key": "3_2096250868693893120",
+          "start": 116,
+          "url": "https://t.co/SoyYt8hJ7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096337243220926837",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096250868677120001"
+      },
+      {
+        "media_key": "3_2096250868693893120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096250874138108067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9ai_sei: Tag🏷𓈒𓏸︎\n\n暇電できる子募集\n\n10￤︎︎ ♀￤地雷￤通話￤サブカル\n\n神様なんて居ないよ\n\n #病み垢 \n #病み垢さんと繋がりたい\n #地雷系と繋がりたい \n #地雷系と繋がりたい \n #地雷系 https://t.co/SoyYt8hJ7u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2096250868677120001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdhDwOakAECRc0.jpg",
+        "width": 1162
+      },
+      {
+        "height": 736,
+        "media_key": "3_2096250868693893120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdhDwSagAAss9p.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096250868677120001",
+            "3_2096250868693893120"
+          ],
+          "media_source_tweet_id": [
+            "2096250874138108067",
+            "2096250874138108067"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096337243220926837",
+        "created_at": "2026-09-05T20:38:41.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096337243220926837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "病み垢"
+            },
+            {
+              "end": 83,
+              "start": 71,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 95,
+              "start": 85,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 108,
+              "start": 98,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "地雷系"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674707438313041920",
+              "start": 3,
+              "username": "9ai_sei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoyYt8hJ7u",
+              "end": 139,
+              "expanded_url": "https://x.com/9ai_sei/status/2096250874138108067/photo/1",
+              "media_key": "3_2096250868677120001",
+              "start": 116,
+              "url": "https://t.co/SoyYt8hJ7u"
+            },
+            {
+              "display_url": "pic.x.com/SoyYt8hJ7u",
+              "end": 139,
+              "expanded_url": "https://x.com/9ai_sei/status/2096250874138108067/photo/1",
+              "media_key": "3_2096250868693893120",
+              "start": 116,
+              "url": "https://t.co/SoyYt8hJ7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096337243220926837",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096250868677120001"
+          },
+          {
+            "media_key": "3_2096250868693893120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096250874138108067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9ai_sei: Tag🏷𓈒𓏸︎\n\n暇電できる子募集\n\n10￤︎︎ ♀￤地雷￤通話￤サブカル\n\n神様なんて居ないよ\n\n #病み垢 \n #病み垢さんと繋がりたい\n #地雷系と繋がりたい \n #地雷系と繋がりたい \n #地雷系 https://t.co/SoyYt8hJ7u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096250868677120001",
+            "3_2096250868693893120"
+          ]
+        },
+        "author_id": "1674707438313041920",
+        "conversation_id": "2096250874138108067",
+        "created_at": "2026-09-05T14:55:29.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096250874138108067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "病み垢"
+            },
+            {
+              "end": 70,
+              "start": 58,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 82,
+              "start": 72,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 95,
+              "start": 85,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoyYt8hJ7u",
+              "end": 126,
+              "expanded_url": "https://x.com/9ai_sei/status/2096250874138108067/photo/1",
+              "media_key": "3_2096250868677120001",
+              "start": 103,
+              "url": "https://t.co/SoyYt8hJ7u"
+            },
+            {
+              "display_url": "pic.x.com/SoyYt8hJ7u",
+              "end": 126,
+              "expanded_url": "https://x.com/9ai_sei/status/2096250874138108067/photo/1",
+              "media_key": "3_2096250868693893120",
+              "start": 103,
+              "url": "https://t.co/SoyYt8hJ7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096250874138108067",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096250868677120001"
+          },
+          {
+            "media_key": "3_2096250868693893120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1277,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Tag🏷𓈒𓏸︎\n\n暇電できる子募集\n\n10￤︎︎ ♀￤地雷￤通話￤サブカル\n\n神様なんて居ないよ\n\n #病み垢 \n #病み垢さんと繋がりたい\n #地雷系と繋がりたい \n #地雷系と繋がりたい \n #地雷系 https://t.co/SoyYt8hJ7u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096337243220926837",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 821,
+          "like_count": 3793,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-30T09:12:35.000Z",
+        "description": "インターネット堕天使♀にしなちゃんです‼️‼️‼️‼️\nASDと愛着持ってます😭😭😭😭",
+        "id": "1674707438313041920",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2096251674365227505",
+        "name": "いんたーねっと依存꒰𑁬堕天使ちゃん໒꒱",
+        "pinned_tweet_id": "2094739767279899029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674707438313041920/1788258312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094834181864042496/9E8dzlGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 80,
+          "like_count": 138,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "9ai_sei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

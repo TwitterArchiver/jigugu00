@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2099819132460155244",
+    "created_at": "2026-09-15T11:14:28.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099819132460155244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964331185590718464",
+          "start": 3,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099819132460155244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099048012907680068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @breakcoreWTF: 你们有没有一种感觉就是在滥用这方面阳痿了药都不想磕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2099819132460155244",
+        "created_at": "2026-09-15T11:14:28.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099819132460155244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964331185590718464",
+              "start": 3,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099819132460155244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099048012907680068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @breakcoreWTF: 你们有没有一种感觉就是在滥用这方面阳痿了药都不想磕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2099048012907680068",
+        "created_at": "2026-09-13T08:10:19.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099048012907680068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099048012907680068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6431,
+          "like_count": 108,
+          "quote_count": 8,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你们有没有一种感觉就是在滥用这方面阳痿了药都不想磕了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2099819132460155244",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 829,
+          "like_count": 3849,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2099798016173748621",
+        "name": "箸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099251823081299968/v8sxOZsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 792,
+          "like_count": 47995,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 8517
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

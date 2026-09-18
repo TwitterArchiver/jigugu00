@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096266150535704726",
+    "created_at": "2026-09-05T15:56:11.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096266150535704726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063957681984225280",
+          "start": 3,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096266150535704726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096126263572451554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuwenMewo: 在中国这个学习氛围窒息的地方\n上吊和自残割大腿都有人觉得你是\n“头悬梁，锥刺股”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096266150535704726",
+        "created_at": "2026-09-05T15:56:11.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096266150535704726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063957681984225280",
+              "start": 3,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096266150535704726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096126263572451554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuwenMewo: 在中国这个学习氛围窒息的地方\n上吊和自残割大腿都有人觉得你是\n“头悬梁，锥刺股”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2096126263572451554",
+        "created_at": "2026-09-05T06:40:20.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096126263572451554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096126263572451554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1897,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "在中国这个学习氛围窒息的地方\n上吊和自残割大腿都有人觉得你是\n“头悬梁，锥刺股”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096266150535704726",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 801,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己\n我的telegram群：https://t.co/7n12aPlryP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UFtO_LPe9vA0O…",
+                "end": 101,
+                "expanded_url": "https://t.me/+UFtO_LPe9vA0OTJk",
+                "start": 78,
+                "url": "https://t.co/7n12aPlryP"
+              }
+            ]
+          }
+        },
+        "id": "2063957681984225280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096193580637495798",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2095906692458586171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063957681984225280/1781144220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 91,
+          "like_count": 207,
+          "listed_count": 8,
+          "media_count": 793,
+          "tweet_count": 3056
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096255230858203136",
+        "3_2096255235824254976"
+      ],
+      "media_source_tweet_id": [
+        "2096255240232443912",
+        "2096255240232443912"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2096510688701427726",
+    "created_at": "2026-09-06T08:07:54.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096510688701427726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "97417972",
+          "start": 3,
+          "username": "T_koeru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AhjcBGZkKs",
+          "end": 69,
+          "expanded_url": "https://x.com/T_koeru/status/2096255240232443912/photo/1",
+          "media_key": "3_2096255230858203136",
+          "start": 46,
+          "url": "https://t.co/AhjcBGZkKs"
+        },
+        {
+          "display_url": "pic.x.com/AhjcBGZkKs",
+          "end": 69,
+          "expanded_url": "https://x.com/T_koeru/status/2096255240232443912/photo/1",
+          "media_key": "3_2096255235824254976",
+          "start": 46,
+          "url": "https://t.co/AhjcBGZkKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096510688701427726",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096255230858203136"
+      },
+      {
+        "media_key": "3_2096255235824254976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096255240232443912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T_koeru: べり子さんの絵チャで不穏な大人ノエルと大人ラルセイ描いてきました https://t.co/AhjcBGZkKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2096255230858203136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdlBqnbkAAxT2p.jpg",
+        "width": 989
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2096255235824254976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdlB9HbgAALGsN.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096255230858203136",
+            "3_2096255235824254976"
+          ],
+          "media_source_tweet_id": [
+            "2096255240232443912",
+            "2096255240232443912"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2096510688701427726",
+        "created_at": "2026-09-06T08:07:54.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096510688701427726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "97417972",
+              "start": 3,
+              "username": "T_koeru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhjcBGZkKs",
+              "end": 69,
+              "expanded_url": "https://x.com/T_koeru/status/2096255240232443912/photo/1",
+              "media_key": "3_2096255230858203136",
+              "start": 46,
+              "url": "https://t.co/AhjcBGZkKs"
+            },
+            {
+              "display_url": "pic.x.com/AhjcBGZkKs",
+              "end": 69,
+              "expanded_url": "https://x.com/T_koeru/status/2096255240232443912/photo/1",
+              "media_key": "3_2096255235824254976",
+              "start": 46,
+              "url": "https://t.co/AhjcBGZkKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096510688701427726",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096255230858203136"
+          },
+          {
+            "media_key": "3_2096255235824254976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096255240232443912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @T_koeru: べり子さんの絵チャで不穏な大人ノエルと大人ラルセイ描いてきました https://t.co/AhjcBGZkKs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096255230858203136",
+            "3_2096255235824254976"
+          ]
+        },
+        "author_id": "97417972",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2096255240232443912",
+        "created_at": "2026-09-05T15:12:50.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096255240232443912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhjcBGZkKs",
+              "end": 56,
+              "expanded_url": "https://x.com/T_koeru/status/2096255240232443912/photo/1",
+              "media_key": "3_2096255230858203136",
+              "start": 33,
+              "url": "https://t.co/AhjcBGZkKs"
+            },
+            {
+              "display_url": "pic.x.com/AhjcBGZkKs",
+              "end": 56,
+              "expanded_url": "https://x.com/T_koeru/status/2096255240232443912/photo/1",
+              "media_key": "3_2096255235824254976",
+              "start": 33,
+              "url": "https://t.co/AhjcBGZkKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096255240232443912",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096255230858203136"
+          },
+          {
+            "media_key": "3_2096255235824254976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 9558,
+          "like_count": 1189,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "べり子さんの絵チャで不穏な大人ノエルと大人ラルセイ描いてきました https://t.co/AhjcBGZkKs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2096510688701427726",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 837,
+          "like_count": 3839,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-17T11:04:31.000Z",
+        "description": "体調不良な成人(たまに)落書きまん。ほぼ雑多と日常。フォロー非推奨。\n一読【https://t.co/H15sO7I38m 】✉️【https://t.co/DsH6uMObm4】\n♥Reupload/edits/redistribution/AI use of my work is prohibited.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/T_koeru",
+                "end": 61,
+                "expanded_url": "http://twpf.jp/T_koeru",
+                "start": 38,
+                "url": "https://t.co/H15sO7I38m"
+              },
+              {
+                "display_url": "odaibako.net/u/T_koeru",
+                "end": 89,
+                "expanded_url": "https://odaibako.net/u/T_koeru",
+                "start": 66,
+                "url": "https://t.co/DsH6uMObm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=1522696",
+                "start": 0,
+                "url": "https://t.co/5RLS0LBsIn"
+              }
+            ]
+          }
+        },
+        "id": "97417972",
+        "is_identity_verified": false,
+        "location": "活動はTwitterとpixivと青空！",
+        "most_recent_tweet_id": "2096501726350324015",
+        "name": "こえる",
+        "pinned_tweet_id": "2061058098073346070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97417972/1788262204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006611073148006404/A-6604G3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3248,
+          "following_count": 211,
+          "like_count": 4002,
+          "listed_count": 23,
+          "media_count": 9918,
+          "tweet_count": 394891
+        },
+        "url": "https://t.co/5RLS0LBsIn",
+        "username": "T_koeru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

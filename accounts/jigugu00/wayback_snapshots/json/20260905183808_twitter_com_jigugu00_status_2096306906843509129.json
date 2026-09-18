@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096306906843509129",
+    "created_at": "2026-09-05T18:38:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T19:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096306906843509129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816256392195612672",
+          "start": 3,
+          "username": "Leviannatho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096306906843509129",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095969039784808530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leviannatho: One part of me wants to just end everything, stop it all, the other part is hoping that something will come out of this al…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2095969034223190025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZgu1EXgAkh1VY.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2095969034227585024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZgu1FakAAKhIu.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096306906843509129",
+        "created_at": "2026-09-05T18:38:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096306906843509129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816256392195612672",
+              "start": 3,
+              "username": "Leviannatho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096306906843509129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095969039784808530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leviannatho: One part of me wants to just end everything, stop it all, the other part is hoping that something will come out of this al…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095969034223190025",
+            "3_2095969034227585024"
+          ]
+        },
+        "author_id": "1816256392195612672",
+        "conversation_id": "2095969039784808530",
+        "created_at": "2026-09-04T20:15:34.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095969039784808530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kfqMZdPYYj",
+              "end": 188,
+              "expanded_url": "https://x.com/Leviannatho/status/2095969039784808530/photo/1",
+              "media_key": "3_2095969034223190025",
+              "start": 165,
+              "url": "https://t.co/kfqMZdPYYj"
+            },
+            {
+              "display_url": "pic.x.com/kfqMZdPYYj",
+              "end": 188,
+              "expanded_url": "https://x.com/Leviannatho/status/2095969039784808530/photo/1",
+              "media_key": "3_2095969034227585024",
+              "start": 165,
+              "url": "https://t.co/kfqMZdPYYj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095969039784808530",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095969034223190025"
+          },
+          {
+            "media_key": "3_2095969034227585024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 2886,
+          "like_count": 412,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "One part of me wants to just end everything, stop it all, the other part is hoping that something will come out of this all of this and maybe one day I will be okay https://t.co/kfqMZdPYYj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096306906843509129",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 810,
+          "like_count": 3734,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T23:37:39.000Z",
+        "description": "humble enjoyer of nso & alst #ilovemybf {Sua, Sayori, Kangel, Mizuki, Miku, Aiko, Aubrey #1 fan ❤️‍🩹!!} @tictactoechamp\n🧬\nhttps://t.co/2iex9VAgex",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 29,
+                "tag": "ilovemybf"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "tictactoechamp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "walloftext.co/ughqhaarrr",
+                "end": 145,
+                "expanded_url": "http://walloftext.co/ughqhaarrr",
+                "start": 122,
+                "url": "https://t.co/2iex9VAgex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "raincandysimpu.straw.page",
+                "end": 23,
+                "expanded_url": "https://raincandysimpu.straw.page",
+                "start": 0,
+                "url": "https://t.co/58blDXOPC4"
+              }
+            ]
+          }
+        },
+        "id": "1816256392195612672",
+        "is_identity_verified": false,
+        "location": "I love my hubby (18) BLESS 🙏",
+        "most_recent_tweet_id": "2096303730798866813",
+        "name": "Ame",
+        "pinned_tweet_id": "2092081282121355408",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816256392195612672/1786136926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085835517199777792/2ojjMN1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2743,
+          "following_count": 1558,
+          "like_count": 21117,
+          "listed_count": 10,
+          "media_count": 2042,
+          "tweet_count": 12921
+        },
+        "url": "https://t.co/58blDXOPC4",
+        "username": "Leviannatho",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

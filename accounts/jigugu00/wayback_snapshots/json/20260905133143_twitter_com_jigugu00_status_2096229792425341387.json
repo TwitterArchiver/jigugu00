@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096229792425341387",
+    "created_at": "2026-09-05T13:31:43.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096229792425341387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2091219590038843392",
+          "start": 3,
+          "username": "saturnine357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096229792425341387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096160617308832194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saturnine357: 好羡慕又瘦又美的女生啊，被绳子绑着特别有美感特别艺术，我被绑只会像一个五芳斋粽子，一名米其林轮胎人，一只阳澄湖大闸蟹，一方肥五花东坡肉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096229792425341387",
+        "created_at": "2026-09-05T13:31:43.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096229792425341387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2091219590038843392",
+              "start": 3,
+              "username": "saturnine357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096229792425341387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096160617308832194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saturnine357: 好羡慕又瘦又美的女生啊，被绳子绑着特别有美感特别艺术，我被绑只会像一个五芳斋粽子，一名米其林轮胎人，一只阳澄湖大闸蟹，一方肥五花东坡肉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091219590038843392",
+        "conversation_id": "2096160617308832194",
+        "created_at": "2026-09-05T08:56:50.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096160617308832194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096160617308832194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 21561,
+          "like_count": 466,
+          "quote_count": 6,
+          "reply_count": 84,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "好羡慕又瘦又美的女生啊，被绳子绑着特别有美感特别艺术，我被绑只会像一个五芳斋粽子，一名米其林轮胎人，一只阳澄湖大闸蟹，一方肥五花东坡肉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096229792425341387",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 798,
+          "like_count": 3666,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1834
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T17:45:10.000Z",
+        "description": "文字自留地  ✉️提问箱https://t.co/qi8xbvFhI3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sture13431",
+                "end": 35,
+                "expanded_url": "https://ngl.link/sture13431",
+                "start": 12,
+                "url": "https://t.co/qi8xbvFhI3"
+              }
+            ]
+          }
+        },
+        "id": "2091219590038843392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096211514718056926",
+        "name": "Cynin因因",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091220537498558464/XJpCfp4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 7,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "saturnine357",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

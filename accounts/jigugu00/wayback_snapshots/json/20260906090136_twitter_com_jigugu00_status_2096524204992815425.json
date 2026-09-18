@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096524204992815425",
+    "created_at": "2026-09-06T09:01:36.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096524204992815425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/safrerkv/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/safrerkv/status/2096399466568024173",
+          "start": 14,
+          "url": "https://t.co/JisVCzOiKr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096524204992815425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096399466568024173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子们我还有一个小时返校。 https://t.co/JisVCzOiKr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096524204992815425",
+        "created_at": "2026-09-06T09:01:36.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096524204992815425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/safrerkv/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/safrerkv/status/2096399466568024173",
+              "start": 14,
+              "url": "https://t.co/JisVCzOiKr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096524204992815425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096399466568024173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们我还有一个小时返校。 https://t.co/JisVCzOiKr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2096399466568024173",
+        "created_at": "2026-09-06T00:45:56.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096399466568024173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096399466568024173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这下尴尬了 忘记有作业要写了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2096524204992815425",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 838,
+          "like_count": 3854,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "zc/中国人/心理疾病/女/od/音游/vocaloid/gal吃/泛性恋 我叫相融 会发梗图or大份    提问箱↓ 诡秘@kris_dreammer 想和我扩qq/微信可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2096523814507106326",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089691475328315395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 892,
+          "like_count": 2913,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 1120
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

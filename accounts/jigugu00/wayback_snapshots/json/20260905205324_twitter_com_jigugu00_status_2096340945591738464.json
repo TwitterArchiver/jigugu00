@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094951639719501824",
+        "3_2094951639346286593"
+      ],
+      "media_source_tweet_id": [
+        "2094951650473767304",
+        "2094951650473767304"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096340945591738464",
+    "created_at": "2026-09-05T20:53:24.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096340945591738464"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 66,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 93,
+          "start": 81,
+          "tag": "病み垢女子と繋がりたい"
+        },
+        {
+          "end": 102,
+          "start": 96,
+          "tag": "病み垢女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1593231285644062721",
+          "start": 3,
+          "username": "non61010604"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/76L98TkOiC",
+          "end": 126,
+          "expanded_url": "https://x.com/non61010604/status/2094951650473767304/photo/1",
+          "media_key": "3_2094951639719501824",
+          "start": 103,
+          "url": "https://t.co/76L98TkOiC"
+        },
+        {
+          "display_url": "pic.x.com/76L98TkOiC",
+          "end": 126,
+          "expanded_url": "https://x.com/non61010604/status/2094951650473767304/photo/1",
+          "media_key": "3_2094951639346286593",
+          "start": 103,
+          "url": "https://t.co/76L98TkOiC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096340945591738464",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094951639719501824"
+      },
+      {
+        "media_key": "3_2094951639346286593"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094951650473767304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @non61010604: Tag\n\n15/女/地雷系/メンヘラ/依存\n \nおんなのこだけの募集です(&gt;_&lt;)\n #病み垢さんと繋がりたい \n #病み垢女子と繋がりたい \n #病み垢女子 https://t.co/76L98TkOiC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094951639719501824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLDarMaYAALRVC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2094951639346286593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLDapzbkAEtS3D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094951639719501824",
+            "3_2094951639346286593"
+          ],
+          "media_source_tweet_id": [
+            "2094951650473767304",
+            "2094951650473767304"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096340945591738464",
+        "created_at": "2026-09-05T20:53:24.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096340945591738464"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 66,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 93,
+              "start": 81,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 102,
+              "start": 96,
+              "tag": "病み垢女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1593231285644062721",
+              "start": 3,
+              "username": "non61010604"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/76L98TkOiC",
+              "end": 126,
+              "expanded_url": "https://x.com/non61010604/status/2094951650473767304/photo/1",
+              "media_key": "3_2094951639719501824",
+              "start": 103,
+              "url": "https://t.co/76L98TkOiC"
+            },
+            {
+              "display_url": "pic.x.com/76L98TkOiC",
+              "end": 126,
+              "expanded_url": "https://x.com/non61010604/status/2094951650473767304/photo/1",
+              "media_key": "3_2094951639346286593",
+              "start": 103,
+              "url": "https://t.co/76L98TkOiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096340945591738464",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094951639719501824"
+          },
+          {
+            "media_key": "3_2094951639346286593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094951650473767304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @non61010604: Tag\n\n15/女/地雷系/メンヘラ/依存\n \nおんなのこだけの募集です(&gt;_&lt;)\n #病み垢さんと繋がりたい \n #病み垢女子と繋がりたい \n #病み垢女子 https://t.co/76L98TkOiC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094951639719501824",
+            "3_2094951639346286593"
+          ]
+        },
+        "author_id": "1593231285644062721",
+        "conversation_id": "2094951650473767304",
+        "created_at": "2026-09-02T00:52:50.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094951650473767304"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 49,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 85,
+              "start": 79,
+              "tag": "病み垢女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/76L98TkOiC",
+              "end": 109,
+              "expanded_url": "https://x.com/non61010604/status/2094951650473767304/photo/1",
+              "media_key": "3_2094951639719501824",
+              "start": 86,
+              "url": "https://t.co/76L98TkOiC"
+            },
+            {
+              "display_url": "pic.x.com/76L98TkOiC",
+              "end": 109,
+              "expanded_url": "https://x.com/non61010604/status/2094951650473767304/photo/1",
+              "media_key": "3_2094951639346286593",
+              "start": 86,
+              "url": "https://t.co/76L98TkOiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094951650473767304",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094951639719501824"
+          },
+          {
+            "media_key": "3_2094951639346286593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5313,
+          "like_count": 242,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "Tag\n\n15/女/地雷系/メンヘラ/依存\n \nおんなのこだけの募集です(&gt;_&lt;)\n #病み垢さんと繋がりたい \n #病み垢女子と繋がりたい \n #病み垢女子 https://t.co/76L98TkOiC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2096340945591738464",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 826,
+          "like_count": 3798,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-17T13:15:37.000Z",
+        "description": "リトリンでLINEあるからよかったら追加してね\nおんなのこだけ\n💍𓈒𓏸  @men_bow_1610\nかわいいかわいい251 @__rllqx99\nペア画相手♡ @kagetusuzu\n15歳女地雷系栃木住み\n凍結されたメイン垢 @nonmdx\n避難用 @non_61010604\nてきとーに好きな人フォローしてる",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "men_bow_1610"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "__rllqx99"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "kagetusuzu"
+              },
+              {
+                "end": 122,
+                "start": 115,
+                "username": "nonmdx"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "non_61010604"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aiai6101",
+                "end": 23,
+                "expanded_url": "https://lit.link/aiai6101",
+                "start": 0,
+                "url": "https://t.co/0D6yQU2vFm"
+              }
+            ]
+          }
+        },
+        "id": "1593231285644062721",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096244380017594599",
+        "name": "のんㄘｬんෆ⃛💗",
+        "pinned_tweet_id": "2094951650473767304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593231285644062721/1788018535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096208926195036160/cLuxDkC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 232,
+          "like_count": 768,
+          "listed_count": 4,
+          "media_count": 10,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/0D6yQU2vFm",
+        "username": "non61010604",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

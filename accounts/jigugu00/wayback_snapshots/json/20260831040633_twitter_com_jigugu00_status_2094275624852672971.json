@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093930472401465344"
+      ],
+      "media_source_tweet_id": [
+        "2093930478130864578"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2094275624852672971",
+    "created_at": "2026-08-31T04:06:33.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T05:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094275624852672971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978428582100938752",
+          "start": 3,
+          "username": "q1anzhuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7j4LwsgvMP",
+          "end": 47,
+          "expanded_url": "https://x.com/q1anzhuo/status/2093930478130864578/photo/1",
+          "media_key": "3_2093930472401465344",
+          "start": 24,
+          "url": "https://t.co/7j4LwsgvMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094275624852672971",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093930472401465344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093930478130864578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q1anzhuo: 美国人怎么这么坏啊 https://t.co/7j4LwsgvMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 315,
+        "media_key": "3_2093930472401465344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8iq6fa8AAEEa7.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093930472401465344"
+          ],
+          "media_source_tweet_id": [
+            "2093930478130864578"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2094275624852672971",
+        "created_at": "2026-08-31T04:06:33.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094275624852672971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978428582100938752",
+              "start": 3,
+              "username": "q1anzhuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7j4LwsgvMP",
+              "end": 47,
+              "expanded_url": "https://x.com/q1anzhuo/status/2093930478130864578/photo/1",
+              "media_key": "3_2093930472401465344",
+              "start": 24,
+              "url": "https://t.co/7j4LwsgvMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094275624852672971",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093930472401465344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093930478130864578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @q1anzhuo: 美国人怎么这么坏啊 https://t.co/7j4LwsgvMP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093930472401465344"
+          ]
+        },
+        "author_id": "1978428582100938752",
+        "conversation_id": "2093930478130864578",
+        "created_at": "2026-08-30T05:15:03.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093930478130864578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7j4LwsgvMP",
+              "end": 33,
+              "expanded_url": "https://x.com/q1anzhuo/status/2093930478130864578/photo/1",
+              "media_key": "3_2093930472401465344",
+              "start": 10,
+              "url": "https://t.co/7j4LwsgvMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093930478130864578",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093930472401465344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6386,
+          "like_count": 170,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "美国人怎么这么坏啊 https://t.co/7j4LwsgvMP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094275624852672971",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 805,
+          "like_count": 3645,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1822
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T11:52:30.000Z",
+        "description": "这里什么都没有，只有一个精神病，一个呆傻的孩子",
+        "id": "1978428582100938752",
+        "is_identity_verified": false,
+        "location": "密涅瓦的猫头鹰在黄昏时分起飞",
+        "most_recent_tweet_id": "2094113153340838048",
+        "name": "翻越比利牛斯山8964",
+        "pinned_tweet_id": "2093689509678657568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978428582100938752/1785985961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081159168669745152/4Iw5I1TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 421,
+          "like_count": 4785,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "q1anzhuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

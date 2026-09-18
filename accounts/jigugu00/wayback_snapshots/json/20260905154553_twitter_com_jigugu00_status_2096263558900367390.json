@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096197724140118017"
+      ],
+      "media_source_tweet_id": [
+        "2096197738283282754"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096263558900367390",
+    "created_at": "2026-09-05T15:45:53.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096263558900367390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1365944667741675524",
+          "start": 3,
+          "username": "1204nabob"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bF5pVCJs3M",
+          "end": 74,
+          "expanded_url": "https://x.com/1204nabob/status/2096197738283282754/photo/1",
+          "media_key": "3_2096197724140118017",
+          "start": 51,
+          "url": "https://t.co/bF5pVCJs3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096263558900367390",
+    "lang": "th",
+    "media_metadata": [
+      {
+        "media_key": "3_2096197724140118017"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096197738283282754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1204nabob: เป็นไงล่ะ ได้รับมือกับตัวเองตอนเด็ก https://t.co/bF5pVCJs3M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_2096197724140118017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcwuVZaoAEsLCE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096197724140118017"
+          ],
+          "media_source_tweet_id": [
+            "2096197738283282754"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096263558900367390",
+        "created_at": "2026-09-05T15:45:53.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096263558900367390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1365944667741675524",
+              "start": 3,
+              "username": "1204nabob"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bF5pVCJs3M",
+              "end": 74,
+              "expanded_url": "https://x.com/1204nabob/status/2096197738283282754/photo/1",
+              "media_key": "3_2096197724140118017",
+              "start": 51,
+              "url": "https://t.co/bF5pVCJs3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096263558900367390",
+        "lang": "th",
+        "media_metadata": [
+          {
+            "media_key": "3_2096197724140118017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096197738283282754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1204nabob: เป็นไงล่ะ ได้รับมือกับตัวเองตอนเด็ก https://t.co/bF5pVCJs3M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096197724140118017"
+          ]
+        },
+        "author_id": "1365944667741675524",
+        "conversation_id": "2096197738283282754",
+        "created_at": "2026-09-05T11:24:20.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096197738283282754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bF5pVCJs3M",
+              "end": 59,
+              "expanded_url": "https://x.com/1204nabob/status/2096197738283282754/photo/1",
+              "media_key": "3_2096197724140118017",
+              "start": 36,
+              "url": "https://t.co/bF5pVCJs3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096197738283282754",
+        "lang": "th",
+        "media_metadata": [
+          {
+            "media_key": "3_2096197724140118017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 4481,
+          "like_count": 638,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "เป็นไงล่ะ ได้รับมือกับตัวเองตอนเด็ก https://t.co/bF5pVCJs3M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096263558900367390",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 800,
+          "like_count": 3690,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-28T08:39:30.000Z",
+        "description": "Vincharles is my lifw Frei is my gosd Ori is my precious son Lecter is my cat Rene is my doc\n\nI love krismas dreemurr sm\n\n@nabob1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "nabob1204"
+              }
+            ]
+          }
+        },
+        "id": "1365944667741675524",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096246240539484527",
+        "name": "ʙᴏʙ 🍎",
+        "pinned_tweet_id": "1998666705032417678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365944667741675524/1764611721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087784808030392320/bipRW3Qn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 58,
+          "like_count": 12829,
+          "listed_count": 12,
+          "media_count": 1998,
+          "tweet_count": 19748
+        },
+        "url": "",
+        "username": "1204nabob",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096356012114726912"
+      ],
+      "media_source_tweet_id": [
+        "2096356019798442231"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096475613095923885",
+    "created_at": "2026-09-06T05:48:31.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096475613095923885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011809072308527104",
+          "start": 3,
+          "username": "ichewthings"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RDxAlcUfo2",
+          "end": 83,
+          "expanded_url": "https://x.com/ichewthings/status/2096356019798442231/photo/1",
+          "media_key": "3_2096356012114726912",
+          "start": 60,
+          "url": "https://t.co/RDxAlcUfo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096475613095923885",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096356012114726912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096356019798442231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ichewthings: love this rat from sims. he’s such a cutie https://t.co/RDxAlcUfo2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_2096356012114726912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfAr6DaUAAAvda.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096356012114726912"
+          ],
+          "media_source_tweet_id": [
+            "2096356019798442231"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096475613095923885",
+        "created_at": "2026-09-06T05:48:31.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096475613095923885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011809072308527104",
+              "start": 3,
+              "username": "ichewthings"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDxAlcUfo2",
+              "end": 83,
+              "expanded_url": "https://x.com/ichewthings/status/2096356019798442231/photo/1",
+              "media_key": "3_2096356012114726912",
+              "start": 60,
+              "url": "https://t.co/RDxAlcUfo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096475613095923885",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096356012114726912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096356019798442231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ichewthings: love this rat from sims. he’s such a cutie https://t.co/RDxAlcUfo2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096356012114726912"
+          ]
+        },
+        "author_id": "2011809072308527104",
+        "conversation_id": "2096356019798442231",
+        "created_at": "2026-09-05T21:53:18.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T22:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096356019798442231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDxAlcUfo2",
+              "end": 66,
+              "expanded_url": "https://x.com/ichewthings/status/2096356019798442231/photo/1",
+              "media_key": "3_2096356012114726912",
+              "start": 43,
+              "url": "https://t.co/RDxAlcUfo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096356019798442231",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096356012114726912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 26176,
+          "like_count": 1772,
+          "quote_count": 12,
+          "reply_count": 6,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "love this rat from sims. he’s such a cutie https://t.co/RDxAlcUfo2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2096475613095923885",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 835,
+          "like_count": 3818,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-15T14:34:13.000Z",
+        "description": "all in for some good cheese. check out my straw page https://t.co/kme0UCz3x9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ichewthings.straw.page",
+                "end": 76,
+                "expanded_url": "https://ichewthings.straw.page",
+                "start": 53,
+                "url": "https://t.co/kme0UCz3x9"
+              }
+            ]
+          }
+        },
+        "id": "2011809072308527104",
+        "is_identity_verified": false,
+        "location": "Your house",
+        "most_recent_tweet_id": "2096366875068272660",
+        "name": "Rat 🎀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011809072308527104/1784924477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011809295864655872/ezhTPL3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19518,
+          "following_count": 945,
+          "like_count": 56727,
+          "listed_count": 103,
+          "media_count": 1316,
+          "tweet_count": 11231
+        },
+        "url": "",
+        "username": "ichewthings",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

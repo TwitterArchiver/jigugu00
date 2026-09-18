@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096341292142018846",
+    "created_at": "2026-09-06T06:03:19.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096479339508613494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832763086039896064",
+          "start": 0,
+          "username": "NanoCatfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096479339508613494",
+    "in_reply_to_user_id": "1832763086039896064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096471113241113055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanoCatfish 碳水已经毙掉了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096341292142018846",
+        "created_at": "2026-09-06T06:03:19.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096479339508613494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832763086039896064",
+              "start": 0,
+              "username": "NanoCatfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096479339508613494",
+        "in_reply_to_user_id": "1832763086039896064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096471113241113055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanoCatfish 碳水已经毙掉了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832763086039896064",
+        "conversation_id": "2096341292142018846",
+        "created_at": "2026-09-06T05:30:38.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096471113241113055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096471113241113055",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096341292142018846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 碳水…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2096479339508613494",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 836,
+          "like_count": 3827,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "自由、平等、博爱 | 无性别认同\n\n另一个我 @Nano_Catfish\n\n梦 @wimzylens0\n蛍 @akenohotaru\n猫 @bth95147\n\n寻寻 @smiroyama\n姐姐 @LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "Nano_Catfish"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "wimzylens0"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "akenohotaru"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "username": "bth95147"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "smiroyama"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanocatfish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanocatfish",
+                "start": 0,
+                "url": "https://t.co/I3vJIN1yOJ"
+              }
+            ]
+          }
+        },
+        "id": "1832763086039896064",
+        "is_identity_verified": false,
+        "location": "🍀四叶草园🍀",
+        "most_recent_tweet_id": "2096471113241113055",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832763086039896064/1765570075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 322,
+          "like_count": 7652,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1733
+        },
+        "url": "https://t.co/I3vJIN1yOJ",
+        "username": "NanoCatfish",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

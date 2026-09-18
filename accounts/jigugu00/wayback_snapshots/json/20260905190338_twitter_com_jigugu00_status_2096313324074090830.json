@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096150733968347136"
+      ],
+      "media_source_tweet_id": [
+        "2096150766851604703"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2096313324074090830",
+    "created_at": "2026-09-05T19:03:38.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096313324074090830"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "omori"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750017898494754816",
+          "start": 3,
+          "username": "BF_tsukimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kC8n0lfvBm",
+          "end": 61,
+          "expanded_url": "https://x.com/BF_tsukimi/status/2096150766851604703/video/1",
+          "media_key": "13_2096150733968347136",
+          "start": 38,
+          "url": "https://t.co/kC8n0lfvBm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096313324074090830",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2096150733968347136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096150766851604703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BF_tsukimi: 【OMORIネタバレ注意！】\n#omori https://t.co/kC8n0lfvBm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24066,
+        "height": 1280,
+        "media_key": "13_2096150733968347136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096150733968347136/img/EbKeWYIVWp5BB9zC.jpg",
+        "public_metrics": {
+          "view_count": 1116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096150733968347136/vid/avc1/320x568/0LZK-yiSURLXH3iC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096150733968347136/vid/avc1/480x852/zsqXXMM2JBaJOTmO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096150733968347136/vid/avc1/720x1280/TTzAy9oh8RSaqVVU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096150733968347136/pl/5FfMPUo9GaDNjNpk.m3u8?v=f51"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096150733968347136"
+          ],
+          "media_source_tweet_id": [
+            "2096150766851604703"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2096313324074090830",
+        "created_at": "2026-09-05T19:03:38.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096313324074090830"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "omori"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750017898494754816",
+              "start": 3,
+              "username": "BF_tsukimi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kC8n0lfvBm",
+              "end": 61,
+              "expanded_url": "https://x.com/BF_tsukimi/status/2096150766851604703/video/1",
+              "media_key": "13_2096150733968347136",
+              "start": 38,
+              "url": "https://t.co/kC8n0lfvBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096313324074090830",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096150733968347136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096150766851604703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BF_tsukimi: 【OMORIネタバレ注意！】\n#omori https://t.co/kC8n0lfvBm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096150733968347136"
+          ]
+        },
+        "author_id": "1750017898494754816",
+        "conversation_id": "2096150766851604703",
+        "created_at": "2026-09-05T08:17:42.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096150766851604703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "omori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kC8n0lfvBm",
+              "end": 45,
+              "expanded_url": "https://x.com/BF_tsukimi/status/2096150766851604703/video/1",
+              "media_key": "13_2096150733968347136",
+              "start": 22,
+              "url": "https://t.co/kC8n0lfvBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096150766851604703",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096150733968347136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3439,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "【OMORIネタバレ注意！】\n#omori https://t.co/kC8n0lfvBm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\nngl暂时用不了抱歉喵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhiBOX"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096313324074090830",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 812,
+          "like_count": 3747,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1875
+        },
+        "url": "https://t.co/OhmOjhiBOX",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-24T04:49:31.000Z",
+        "description": "フォロバします 絵描く ようつべ→@FNFnoBFzukinohitoヘッダー→@R_usagi_reimu いろんなものが好きです  AI &無断転載ダメ絶対",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 17,
+                "username": "FNFnoBFzukinohito"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "R_usagi_reimu"
+              }
+            ]
+          }
+        },
+        "id": "1750017898494754816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096248081092329929",
+        "name": "FNFのBF好きの人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750017898494754816/1759236745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096158317517348864/cCbRj26C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 835,
+          "like_count": 68750,
+          "listed_count": 2,
+          "media_count": 663,
+          "tweet_count": 4508
+        },
+        "url": "",
+        "username": "BF_tsukimi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
