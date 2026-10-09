@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2101224045949690031",
+    "created_at": "2026-09-19T08:17:06.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101224045949690031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947793687158603778",
+          "start": 3,
+          "username": "zjl66667777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101224045949690031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100902074448003171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zjl66667777: 我真的没法想象用狗尾巴给狗尾巴草命名的人有多童真多有观察力……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2101224045949690031",
+        "created_at": "2026-09-19T08:17:06.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101224045949690031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947793687158603778",
+              "start": 3,
+              "username": "zjl66667777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101224045949690031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100902074448003171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zjl66667777: 我真的没法想象用狗尾巴给狗尾巴草命名的人有多童真多有观察力……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947793687158603778",
+        "conversation_id": "2100902074448003171",
+        "created_at": "2026-09-18T10:57:42.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100902074448003171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100902074448003171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6712,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的没法想象用狗尾巴给狗尾巴草命名的人有多童真多有观察力……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2101224045949690031",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 830,
+          "like_count": 3858,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1954
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T22:59:49.000Z",
+        "description": "重生号 | 174 | 大学在读  | 关注我的私信都会回复\n防走丢@nanao077065",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "nanao077065"
+              }
+            ]
+          }
+        },
+        "id": "1947793687158603778",
+        "is_identity_verified": false,
+        "location": "🚪128",
+        "most_recent_tweet_id": "2101223911828660530",
+        "name": "念念",
+        "pinned_tweet_id": "2099495921302343827",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959636379878805504/GFLrcehn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5712,
+          "following_count": 101,
+          "like_count": 4524,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "zjl66667777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

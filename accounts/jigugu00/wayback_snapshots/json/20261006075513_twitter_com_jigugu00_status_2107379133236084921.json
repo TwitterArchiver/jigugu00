@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107344716182524189",
+    "created_at": "2026-10-06T07:55:13.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107379133236084921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2084631649321656320",
+          "start": 0,
+          "username": "Ririnka23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107379133236084921",
+    "in_reply_to_user_id": "2084631649321656320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107344716182524189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririnka23333 烤棉花糖or雪花酥。。🤤😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107344702374875136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7K13RbEAAVKY6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107344716182524189",
+        "created_at": "2026-10-06T07:55:13.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107379133236084921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2084631649321656320",
+              "start": 0,
+              "username": "Ririnka23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107379133236084921",
+        "in_reply_to_user_id": "2084631649321656320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107344716182524189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririnka23333 烤棉花糖or雪花酥。。🤤😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107344702374875136"
+          ]
+        },
+        "author_id": "2084631649321656320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107344716182524189",
+        "created_at": "2026-10-06T05:38:27.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107344716182524189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7EqTLZn6j",
+              "end": 31,
+              "expanded_url": "https://x.com/Ririnka23333/status/2107344716182524189/photo/1",
+              "media_key": "3_2107344702374875136",
+              "start": 8,
+              "url": "https://t.co/v7EqTLZn6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107344716182524189",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107344702374875136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜我要做什么 https://t.co/v7EqTLZn6j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107379133236084921",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 921,
+          "like_count": 4634,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-04T13:26:05.000Z",
+        "description": "你可真笨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ririririnka0808",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ririririnka0808",
+                "start": 0,
+                "url": "https://t.co/p3TFnzKOoX"
+              }
+            ]
+          }
+        },
+        "id": "2084631649321656320",
+        "is_identity_verified": false,
+        "location": "提问箱－＞",
+        "most_recent_tweet_id": "2107367604092576102",
+        "name": "RirinkanoSuika",
+        "pinned_tweet_id": "2106676593532035438",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084631649321656320/1786277163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104908024414449664/loGIl3MN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 87,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/p3TFnzKOoX",
+        "username": "Ririnka23333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

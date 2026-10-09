@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107153191070732288"
+      ],
+      "media_source_tweet_id": [
+        "2107153198167531710"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107380846395297821",
+    "created_at": "2026-10-06T08:02:01.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107380846395297821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860215094887743492",
+          "start": 3,
+          "username": "frogS2S2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6VzLRjymPL",
+          "end": 37,
+          "expanded_url": "https://x.com/frogS2S2/status/2107153198167531710/photo/1",
+          "media_key": "3_2107153191070732288",
+          "start": 14,
+          "url": "https://t.co/6VzLRjymPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107380846395297821",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2107153191070732288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4512
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107153198167531710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @frogS2S2: https://t.co/6VzLRjymPL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2107153191070732288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4cqcEaEAAT8_c.jpg",
+        "width": 845
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107153191070732288"
+          ],
+          "media_source_tweet_id": [
+            "2107153198167531710"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107380846395297821",
+        "created_at": "2026-10-06T08:02:01.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107380846395297821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860215094887743492",
+              "start": 3,
+              "username": "frogS2S2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VzLRjymPL",
+              "end": 37,
+              "expanded_url": "https://x.com/frogS2S2/status/2107153198167531710/photo/1",
+              "media_key": "3_2107153191070732288",
+              "start": 14,
+              "url": "https://t.co/6VzLRjymPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107380846395297821",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107153191070732288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4512
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107153198167531710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @frogS2S2: https://t.co/6VzLRjymPL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107153191070732288"
+          ]
+        },
+        "author_id": "1860215094887743492",
+        "conversation_id": "2107153198167531710",
+        "created_at": "2026-10-05T16:57:26.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107153198167531710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VzLRjymPL",
+              "end": 23,
+              "expanded_url": "https://x.com/frogS2S2/status/2107153198167531710/photo/1",
+              "media_key": "3_2107153191070732288",
+              "start": 0,
+              "url": "https://t.co/6VzLRjymPL"
+            },
+            {
+              "display_url": "x.com/lunnebunny/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lunnebunny/status/2106938486511312951",
+              "start": 24,
+              "url": "https://t.co/ntEfjJssBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107153198167531710",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107153191070732288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2787,
+          "impression_count": 4071311,
+          "like_count": 91307,
+          "quote_count": 62,
+          "reply_count": 0,
+          "retweet_count": 4518
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106938486511312951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "https://t.co/6VzLRjymPL https://t.co/ntEfjJssBm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107380846395297821",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 921,
+          "like_count": 4636,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2245
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T06:54:55.000Z",
+        "description": "할모니가 관리하는 계정",
+        "id": "1860215094887743492",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107328355242819687",
+        "name": "띠니삥",
+        "pinned_tweet_id": "1968320601392922752",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888182683530039296/hGeJMc-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 155,
+          "like_count": 47732,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 936
+        },
+        "url": "",
+        "username": "frogS2S2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

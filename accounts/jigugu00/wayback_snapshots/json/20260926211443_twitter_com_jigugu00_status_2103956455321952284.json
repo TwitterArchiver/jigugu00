@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2103956455321952284",
+    "created_at": "2026-09-26T21:14:43.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T22:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103956455321952284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605",
+          "start": 3,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103956455321952284",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1832
+    },
+    "referenced_tweets": [
+      {
+        "id": "707700296881803264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sama: I wonder how many people will have fallen in love with an AI chatbot by 2026."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2103956455321952284",
+        "created_at": "2026-09-26T21:14:43.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T22:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103956455321952284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605",
+              "start": 3,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103956455321952284",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1832
+        },
+        "referenced_tweets": [
+          {
+            "id": "707700296881803264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sama: I wonder how many people will have fallen in love with an AI chatbot by 2026."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605",
+        "conversation_id": "707700296881803264",
+        "created_at": "2016-03-09T22:51:13.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2016-03-09T23:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "707700296881803264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "707700296881803264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2063,
+          "impression_count": 0,
+          "like_count": 9556,
+          "quote_count": 1112,
+          "reply_count": 520,
+          "retweet_count": 1832
+        },
+        "reply_settings": "everyone",
+        "text": "I wonder how many people will have fallen in love with an AI chatbot by 2026."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103956455321952284",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 843,
+          "like_count": 4104,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_bigger.jpg",
+          "description": "OpenAI",
+          "url": "https://twitter.com/OpenAI",
+          "user_id": [
+            "4398626122"
+          ]
+        },
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "is_identity_verified": false,
+        "location": "SF",
+        "most_recent_tweet_id": "2103567198690349362",
+        "name": "Sam Altman",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6287825,
+          "following_count": 1031,
+          "like_count": 1019,
+          "listed_count": 31597,
+          "media_count": 394,
+          "tweet_count": 7979
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

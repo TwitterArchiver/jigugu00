@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103518868190966052",
+    "created_at": "2026-09-25T16:15:54.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T17:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103518868190966052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jigugu00/statu…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/jigugu00/status/2103463231801147556",
+          "start": 110,
+          "url": "https://t.co/OVIHiHZBXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103518868190966052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103463231801147556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额总结一下。这次幻觉没多少（可能是因为充足的光源/我没注意有幻）说出来的话跟喝完酒说的胡话一样，大脑皮层光滑的能溜冰。（下次吃尽量不要在亲戚聊天时过去听保持安静）\n\n反正就是下一次单人暗环境呵呵。话说sns耐受多久清空 https://t.co/OVIHiHZBXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2103463220195577856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEAp3XbUAAqCP5.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103518868190966052",
+        "created_at": "2026-09-25T16:15:54.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103518868190966052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jigugu00/statu…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/jigugu00/status/2103463231801147556",
+              "start": 110,
+              "url": "https://t.co/OVIHiHZBXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103518868190966052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103463231801147556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额总结一下。这次幻觉没多少（可能是因为充足的光源/我没注意有幻）说出来的话跟喝完酒说的胡话一样，大脑皮层光滑的能溜冰。（下次吃尽量不要在亲戚聊天时过去听保持安静）\n\n反正就是下一次单人暗环境呵呵。话说sns耐受多久清空 https://t.co/OVIHiHZBXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103463220195577856"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103463231801147556",
+        "created_at": "2026-09-25T12:34:49.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103463231801147556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yp8KV2Yvn6",
+              "end": 84,
+              "expanded_url": "https://x.com/jigugu00/status/2103463231801147556/photo/1",
+              "media_key": "3_2103463220195577856",
+              "start": 61,
+              "url": "https://t.co/yp8KV2Yvn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103463231801147556",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103463220195577856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃亲戚家2t唑吡坦。药壳不敢扔直接揣兜因为我姨妈是护士长怕看出端倪。额虽然偶滴这件事本身可能就很容易被看出端倪☠️☠️ https://t.co/yp8KV2Yvn6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103518868190966052",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 833,
+          "like_count": 3958,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2002
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100135071495987200"
+      ],
+      "media_source_tweet_id": [
+        "2101891922570956844"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106557653921255925",
+    "created_at": "2026-10-04T01:30:57.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T02:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106557653921255925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I9a3pkoKFn",
+          "end": 73,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2101891922570956844/photo/1",
+          "media_key": "3_2100135071495987200",
+          "start": 50,
+          "url": "https://t.co/I9a3pkoKFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106557653921255925",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100135071495987200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2989
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101891922570956844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: ケーキ、ケーキ、まぁるいケーキ\nまぁるいケーキはだぁれ？ https://t.co/I9a3pkoKFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2100135071495987200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUtuHTboAAChoY.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100135071495987200"
+          ],
+          "media_source_tweet_id": [
+            "2101891922570956844"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106557653921255925",
+        "created_at": "2026-10-04T01:30:57.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106557653921255925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9a3pkoKFn",
+              "end": 73,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2101891922570956844/photo/1",
+              "media_key": "3_2100135071495987200",
+              "start": 50,
+              "url": "https://t.co/I9a3pkoKFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106557653921255925",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100135071495987200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2989
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101891922570956844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: ケーキ、ケーキ、まぁるいケーキ\nまぁるいケーキはだぁれ？ https://t.co/I9a3pkoKFn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100135071495987200"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "2101891922570956844",
+        "created_at": "2026-09-21T04:31:00.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101891922570956844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9a3pkoKFn",
+              "end": 52,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2101891922570956844/photo/1",
+              "media_key": "3_2100135071495987200",
+              "start": 29,
+              "url": "https://t.co/I9a3pkoKFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101891922570956844",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100135071495987200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1255,
+          "impression_count": 1450798,
+          "like_count": 24177,
+          "quote_count": 336,
+          "reply_count": 44,
+          "retweet_count": 2989
+        },
+        "reply_settings": "everyone",
+        "text": "ケーキ、ケーキ、まぁるいケーキ\nまぁるいケーキはだぁれ？ https://t.co/I9a3pkoKFn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106557653921255925",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 914,
+          "like_count": 4342,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2185
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "is_identity_verified": false,
+        "location": "キミのぱそこん",
+        "most_recent_tweet_id": "2106297954898252096",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089188969435246918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313122922886643714/1767944915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546570,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 1150,
+          "media_count": 889,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

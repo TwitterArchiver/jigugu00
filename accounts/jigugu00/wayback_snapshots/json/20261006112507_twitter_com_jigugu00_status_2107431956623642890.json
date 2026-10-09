@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107431956623642890",
+    "created_at": "2026-10-06T11:25:07.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107431956623642890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyh1564069/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/hyh1564069/status/2107403604990836761",
+          "start": 14,
+          "url": "https://t.co/nuT0FXEaoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107431956623642890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107403604990836761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的互关你们知道我要说什么 https://t.co/nuT0FXEaoW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_2107403588771401728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8AZgMaUAAi8Wx.jpg",
+        "width": 1291
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107431956623642890",
+        "created_at": "2026-10-06T11:25:07.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107431956623642890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyh1564069/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/hyh1564069/status/2107403604990836761",
+              "start": 14,
+              "url": "https://t.co/nuT0FXEaoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107431956623642890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107403604990836761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的互关你们知道我要说什么 https://t.co/nuT0FXEaoW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107403588771401728"
+          ]
+        },
+        "author_id": "2010731582391521280",
+        "conversation_id": "2107403604990836761",
+        "created_at": "2026-10-06T09:32:27.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107403604990836761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ag72PVBLj",
+              "end": 40,
+              "expanded_url": "https://x.com/hyh1564069/status/2107403604990836761/photo/1",
+              "media_key": "3_2107403588771401728",
+              "start": 17,
+              "url": "https://t.co/4Ag72PVBLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107403604990836761",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107403588771401728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么非常烧钱，却又戒不掉的爱好 https://t.co/4Ag72PVBLj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107431956623642890",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 926,
+          "like_count": 4702,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2259
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-12T15:12:29.000Z",
+        "description": "❤️大厂辞职做自媒体，分享自媒体干货\n📈抖音主号23w/细分垂类小号9k\n🌐全域布局：公众号/闲鱼/X/web3.0/dy\n💰互联网项目已置顶，不定时发放落地教学，日入过千",
+        "id": "2010731582391521280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107403604990836761",
+        "name": "爱分享的mao",
+        "pinned_tweet_id": "2084602723824259383",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010731582391521280/1780936423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095556549699866625/qmAZXuGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12964,
+          "following_count": 1021,
+          "like_count": 2563,
+          "listed_count": 32,
+          "media_count": 671,
+          "tweet_count": 2288
+        },
+        "url": "",
+        "username": "hyh1564069",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107167793330491666",
+    "created_at": "2026-10-06T07:47:59.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107377315579834497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2092680299796905984",
+          "start": 0,
+          "username": "xiaozhi_0801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107377315579834497",
+    "in_reply_to_user_id": "2092680299796905984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107167793330491666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhi_0801 我去这是哪家的好想。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2107167769699680256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4p7BsaAAAslAe.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2107167777731829760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4p7fna4AACWJq.jpg",
+        "width": 2000
+      },
+      {
+        "height": 706,
+        "media_key": "3_2107167783826149376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4p72Ua0AAvS_v.jpg",
+        "width": 706
+      },
+      {
+        "height": 500,
+        "media_key": "3_2107167788230221824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4p8GuboAA-0Hf.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107167793330491666",
+        "created_at": "2026-10-06T07:47:59.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107377315579834497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2092680299796905984",
+              "start": 0,
+              "username": "xiaozhi_0801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107377315579834497",
+        "in_reply_to_user_id": "2092680299796905984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107167793330491666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhi_0801 我去这是哪家的好想。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107167769699680256",
+            "3_2107167777731829760",
+            "3_2107167783826149376",
+            "3_2107167788230221824"
+          ]
+        },
+        "author_id": "2092680299796905984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107167793330491666",
+        "created_at": "2026-10-05T17:55:25.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T18:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107167793330491666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5nqC97Ff7L",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaozhi_0801/status/2107167793330491666/photo/1",
+              "media_key": "3_2107167769699680256",
+              "start": 40,
+              "url": "https://t.co/5nqC97Ff7L"
+            },
+            {
+              "display_url": "pic.x.com/5nqC97Ff7L",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaozhi_0801/status/2107167793330491666/photo/1",
+              "media_key": "3_2107167777731829760",
+              "start": 40,
+              "url": "https://t.co/5nqC97Ff7L"
+            },
+            {
+              "display_url": "pic.x.com/5nqC97Ff7L",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaozhi_0801/status/2107167793330491666/photo/1",
+              "media_key": "3_2107167783826149376",
+              "start": 40,
+              "url": "https://t.co/5nqC97Ff7L"
+            },
+            {
+              "display_url": "pic.x.com/5nqC97Ff7L",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaozhi_0801/status/2107167793330491666/photo/1",
+              "media_key": "3_2107167788230221824",
+              "start": 40,
+              "url": "https://t.co/5nqC97Ff7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107167793330491666",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107167769699680256"
+          },
+          {
+            "media_key": "3_2107167777731829760"
+          },
+          {
+            "media_key": "3_2107167783826149376"
+          },
+          {
+            "media_key": "3_2107167788230221824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這些膠囊好萌好可愛呀……搞得小滯特別想買藥藥把它們都裝進漂亮膠囊裏吃掉！🐱🐱🐱 https://t.co/5nqC97Ff7L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107377315579834497",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 921,
+          "like_count": 4631,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2242
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T18:29:22.000Z",
+        "description": "只是一個善良的人呀。\n互fo互轉請大膽私信…長期開放閑聊模塊\n匿名提問箱https://t.co/eJ9W79m8Ac",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399/bit",
+                "end": 59,
+                "expanded_url": "https://ngl.link/zhi68399/bit",
+                "start": 36,
+                "url": "https://t.co/eJ9W79m8Ac"
+              }
+            ]
+          }
+        },
+        "id": "2092680299796905984",
+        "is_identity_verified": false,
+        "location": "距離你2.778km",
+        "most_recent_tweet_id": "2107333837894398370",
+        "name": "滯⁶",
+        "pinned_tweet_id": "2092684925942256007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092680299796905984/1787769409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092680953135276032/KdZz1L4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 129,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "xiaozhi_0801",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

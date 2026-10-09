@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107192918251569169",
+    "created_at": "2026-10-05T19:35:16.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T20:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107192918251569169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_weiwudage/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/_weiwudage/status/2107107797003583892",
+          "start": 14,
+          "url": "https://t.co/E4asDBBdxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107192918251569169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107107797003583892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拼多多现金已到账\n0.01 https://t.co/E4asDBBdxm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107192918251569169",
+        "created_at": "2026-10-05T19:35:16.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T20:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107192918251569169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_weiwudage/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/_weiwudage/status/2107107797003583892",
+              "start": 14,
+              "url": "https://t.co/E4asDBBdxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107192918251569169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107107797003583892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拼多多现金已到账\n0.01 https://t.co/E4asDBBdxm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045921763553312768",
+        "conversation_id": "2107107797003583892",
+        "created_at": "2026-10-05T13:57:01.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107107797003583892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miho7hg7/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/miho7hg7/status/2106737451796758652",
+              "start": 29,
+              "url": "https://t.co/wCZg267IJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107107797003583892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106737451796758652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我踏马真的穷死了，就没有那种莫名其妙可以领钱的合法活动吗 https://t.co/wCZg267IJr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107192918251569169",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 922,
+          "like_count": 4549,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2230
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T17:45:48.000Z",
+        "description": "你别骂我我玻璃心 \n 贫穷/内向（？）/餐劵/暂戒o割丨取向KAWAII\n只fo喜欢的丨我想交朋友丨留言请私丨5.2直fo\n这也是我@makeasweetdream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "makeasweetdream"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wwdg1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wwdg1",
+                "start": 0,
+                "url": "https://t.co/Mystn7plfu"
+              }
+            ]
+          }
+        },
+        "id": "2045921763553312768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107122590028595315",
+        "name": "苦愛",
+        "pinned_tweet_id": "2105406274397782490",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045921763553312768/1786613085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106333441268793345/kaepzeYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 72,
+          "like_count": 3377,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/Mystn7plfu",
+        "username": "_weiwudage",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

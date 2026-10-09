@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107381130672656387",
+    "created_at": "2026-10-06T08:03:09.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107381130672656387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2102942225630113792",
+          "start": 3,
+          "username": "Zzz_error_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107381130672656387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106790739774718207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zzz_error_3: 我想知道這裡台灣的推油們有多少個\n台灣推友們下方留言\n等破百fo 睏睏想要辦抽獎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107381130672656387",
+        "created_at": "2026-10-06T08:03:09.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107381130672656387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2102942225630113792",
+              "start": 3,
+              "username": "Zzz_error_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107381130672656387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106790739774718207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zzz_error_3: 我想知道這裡台灣的推油們有多少個\n台灣推友們下方留言\n等破百fo 睏睏想要辦抽獎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102942225630113792",
+        "conversation_id": "2106790739774718207",
+        "created_at": "2026-10-04T16:57:09.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106790739774718207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106790739774718207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 619,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我想知道這裡台灣的推油們有多少個\n台灣推友們下方留言\n等破百fo 睏睏想要辦抽獎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107381130672656387",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 921,
+          "like_count": 4639,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2247
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-24T02:05:33.000Z",
+        "description": "07｜💊｜雙向 重鬱 重焦 ADHD OCD｜查成分互fo\n\n@Zzz_c202_2 備用帳號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Zzz_c202_2"
+              }
+            ]
+          }
+        },
+        "id": "2102942225630113792",
+        "is_identity_verified": false,
+        "location": "台灣中部",
+        "most_recent_tweet_id": "2107378542472475107",
+        "name": "Zzz ERROR",
+        "pinned_tweet_id": "2103148353668469108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102942225630113792/1790215759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102942830641684480/SiW_yP1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 85,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "Zzz_error_3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

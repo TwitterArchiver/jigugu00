@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103939551752511992",
+    "created_at": "2026-09-26T20:07:33.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T21:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103939551752511992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2084631649321656320",
+          "start": 3,
+          "username": "Ririnka23333"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/ririririnka0808",
+          "end": 83,
+          "expanded_url": "https://ngl.link/ririririnka0808",
+          "images": [
+            {
+              "height": 785,
+              "url": "https://pbs.twimg.com/news_img/2101528280335859712/UcsPmHfr?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2101528280335859712/UcsPmHfr?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 60,
+          "status": 200,
+          "title": "@ririririnka0808: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/ririririnka0808",
+          "url": "https://t.co/66Z8hGWQU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103939551752511992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103886349015429463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ririnka23333: 各位我是ririnka 我被ban了 求转助我巡回互关\n微信码掉是因为注销了\n提问箱https://t.co/66Z8hGWQU1\n=ririnka（莉琳卡）2011.8.8\n生理女心理女一切性向友好\n有心理相关疾病一个没头脑的弱智小学生\n唯…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2103886331365761024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKBeLTbIAAbV56.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103939551752511992",
+        "created_at": "2026-09-26T20:07:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103939551752511992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2084631649321656320",
+              "start": 3,
+              "username": "Ririnka23333"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/ririririnka0808",
+              "end": 83,
+              "expanded_url": "https://ngl.link/ririririnka0808",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2101528280335859712/UcsPmHfr?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101528280335859712/UcsPmHfr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "@ririririnka0808: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/ririririnka0808",
+              "url": "https://t.co/66Z8hGWQU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103939551752511992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103886349015429463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ririnka23333: 各位我是ririnka 我被ban了 求转助我巡回互关\n微信码掉是因为注销了\n提问箱https://t.co/66Z8hGWQU1\n=ririnka（莉琳卡）2011.8.8\n生理女心理女一切性向友好\n有心理相关疾病一个没头脑的弱智小学生\n唯…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103886331365761024"
+          ]
+        },
+        "author_id": "2084631649321656320",
+        "conversation_id": "2103886349015429463",
+        "created_at": "2026-09-26T16:36:08.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103886349015429463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/ririririnka0808",
+              "end": 65,
+              "expanded_url": "https://ngl.link/ririririnka0808",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2101528280335859712/UcsPmHfr?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101528280335859712/UcsPmHfr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "@ririririnka0808: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/ririririnka0808",
+              "url": "https://t.co/66Z8hGWQU1"
+            },
+            {
+              "display_url": "pic.x.com/ZbT17cJdsf",
+              "end": 201,
+              "expanded_url": "https://x.com/Ririnka23333/status/2103886349015429463/photo/1",
+              "media_key": "3_2103886331365761024",
+              "start": 178,
+              "url": "https://t.co/ZbT17cJdsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103886349015429463",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103886331365761024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "各位我是ririnka 我被ban了 求转助我巡回互关\n微信码掉是因为注销了\n提问箱https://t.co/66Z8hGWQU1\n=ririnka（莉琳卡）2011.8.8\n生理女心理女一切性向友好\n有心理相关疾病一个没头脑的弱智小学生\n唯一属性 东方project伊吹萃香梦女\n此账号可能包含的内容：\n负能 血图鬼图 梦向产出\n直fo会回 互fo欢迎 https://t.co/ZbT17cJdsf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103939551752511992",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 842,
+          "like_count": 4100,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-04T13:26:05.000Z",
+        "description": "神奇的章鱼神器",
+        "id": "2084631649321656320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103895643521736871",
+        "name": "RirinkanoSuika",
+        "pinned_tweet_id": "2103886349015429463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084631649321656320/1786277163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086423386897453056/3XCafJmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 12,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Ririnka23333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

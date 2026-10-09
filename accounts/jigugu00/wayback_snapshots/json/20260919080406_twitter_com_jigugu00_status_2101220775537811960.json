@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098826628759756800",
+        "3_2098826628759719936",
+        "3_2098826628763897856",
+        "3_2098826628759764992"
+      ],
+      "media_source_tweet_id": [
+        "2098826635411882394",
+        "2098826635411882394",
+        "2098826635411882394",
+        "2098826635411882394"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2101220775537811960",
+    "created_at": "2026-09-19T08:04:06.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101220775537811960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1474529119375626242",
+          "start": 3,
+          "username": "KK_fnf_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R2ma2dmQly",
+          "end": 48,
+          "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+          "media_key": "3_2098826628759756800",
+          "start": 25,
+          "url": "https://t.co/R2ma2dmQly"
+        },
+        {
+          "display_url": "pic.x.com/R2ma2dmQly",
+          "end": 48,
+          "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+          "media_key": "3_2098826628759719936",
+          "start": 25,
+          "url": "https://t.co/R2ma2dmQly"
+        },
+        {
+          "display_url": "pic.x.com/R2ma2dmQly",
+          "end": 48,
+          "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+          "media_key": "3_2098826628763897856",
+          "start": 25,
+          "url": "https://t.co/R2ma2dmQly"
+        },
+        {
+          "display_url": "pic.x.com/R2ma2dmQly",
+          "end": 48,
+          "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+          "media_key": "3_2098826628759764992",
+          "start": 25,
+          "url": "https://t.co/R2ma2dmQly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101220775537811960",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2098826628759756800"
+      },
+      {
+        "media_key": "3_2098826628759719936"
+      },
+      {
+        "media_key": "3_2098826628763897856"
+      },
+      {
+        "media_key": "3_2098826628759764992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098826635411882394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KK_fnf_: 화보 재밌었어요 ㅎㅎ https://t.co/R2ma2dmQly"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1883,
+        "media_key": "3_2098826628759756800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCHsuRbIAAOuAf.jpg",
+        "width": 1190
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2098826628759719936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCHsuRakAAYe-4.jpg",
+        "width": 1720
+      },
+      {
+        "height": 1564,
+        "media_key": "3_2098826628763897856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCHsuSaUAAgHlc.jpg",
+        "width": 1778
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2098826628759764992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCHsuRbQAAtGTo.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098826628759756800",
+            "3_2098826628759719936",
+            "3_2098826628763897856",
+            "3_2098826628759764992"
+          ],
+          "media_source_tweet_id": [
+            "2098826635411882394",
+            "2098826635411882394",
+            "2098826635411882394",
+            "2098826635411882394"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2101220775537811960",
+        "created_at": "2026-09-19T08:04:06.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101220775537811960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1474529119375626242",
+              "start": 3,
+              "username": "KK_fnf_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2ma2dmQly",
+              "end": 48,
+              "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+              "media_key": "3_2098826628759756800",
+              "start": 25,
+              "url": "https://t.co/R2ma2dmQly"
+            },
+            {
+              "display_url": "pic.x.com/R2ma2dmQly",
+              "end": 48,
+              "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+              "media_key": "3_2098826628759719936",
+              "start": 25,
+              "url": "https://t.co/R2ma2dmQly"
+            },
+            {
+              "display_url": "pic.x.com/R2ma2dmQly",
+              "end": 48,
+              "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+              "media_key": "3_2098826628763897856",
+              "start": 25,
+              "url": "https://t.co/R2ma2dmQly"
+            },
+            {
+              "display_url": "pic.x.com/R2ma2dmQly",
+              "end": 48,
+              "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+              "media_key": "3_2098826628759764992",
+              "start": 25,
+              "url": "https://t.co/R2ma2dmQly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101220775537811960",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2098826628759756800"
+          },
+          {
+            "media_key": "3_2098826628759719936"
+          },
+          {
+            "media_key": "3_2098826628763897856"
+          },
+          {
+            "media_key": "3_2098826628759764992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098826635411882394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KK_fnf_: 화보 재밌었어요 ㅎㅎ https://t.co/R2ma2dmQly"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098826628759756800",
+            "3_2098826628759719936",
+            "3_2098826628763897856",
+            "3_2098826628759764992"
+          ]
+        },
+        "author_id": "1474529119375626242",
+        "conversation_id": "2098826635411882394",
+        "created_at": "2026-09-12T17:30:38.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098826635411882394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2ma2dmQly",
+              "end": 35,
+              "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+              "media_key": "3_2098826628759756800",
+              "start": 12,
+              "url": "https://t.co/R2ma2dmQly"
+            },
+            {
+              "display_url": "pic.x.com/R2ma2dmQly",
+              "end": 35,
+              "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+              "media_key": "3_2098826628759719936",
+              "start": 12,
+              "url": "https://t.co/R2ma2dmQly"
+            },
+            {
+              "display_url": "pic.x.com/R2ma2dmQly",
+              "end": 35,
+              "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+              "media_key": "3_2098826628763897856",
+              "start": 12,
+              "url": "https://t.co/R2ma2dmQly"
+            },
+            {
+              "display_url": "pic.x.com/R2ma2dmQly",
+              "end": 35,
+              "expanded_url": "https://x.com/KK_fnf_/status/2098826635411882394/photo/1",
+              "media_key": "3_2098826628759764992",
+              "start": 12,
+              "url": "https://t.co/R2ma2dmQly"
+            },
+            {
+              "display_url": "x.com/kk_fnf_/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/kk_fnf_/status/2098799929926029535",
+              "start": 36,
+              "url": "https://t.co/KMazBqfwHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098826635411882394",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2098826628759756800"
+          },
+          {
+            "media_key": "3_2098826628759719936"
+          },
+          {
+            "media_key": "3_2098826628763897856"
+          },
+          {
+            "media_key": "3_2098826628759764992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 4087,
+          "like_count": 393,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098799929926029535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "화보 재밌었어요 ㅎㅎ https://t.co/R2ma2dmQly https://t.co/KMazBqfwHi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2101220775537811960",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 830,
+          "like_count": 3855,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-24T23:55:31.000Z",
+        "description": "🍨🪽夢: @sarventes_slave",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "sarventes_slave"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/KKfnf",
+                "end": 23,
+                "expanded_url": "https://asked.kr/KKfnf",
+                "start": 0,
+                "url": "https://t.co/4u1jz1r3K9"
+              }
+            ]
+          }
+        },
+        "id": "1474529119375626242",
+        "is_identity_verified": false,
+        "location": "mfm",
+        "most_recent_tweet_id": "2100626063680581962",
+        "name": "†늅†",
+        "pinned_tweet_id": "2016180627603915181",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1474529119375626242/1775388985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034628870759174144/vuqmjQui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5926,
+          "following_count": 181,
+          "like_count": 26955,
+          "listed_count": 17,
+          "media_count": 3656,
+          "tweet_count": 68529
+        },
+        "url": "https://t.co/4u1jz1r3K9",
+        "username": "KK_fnf_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

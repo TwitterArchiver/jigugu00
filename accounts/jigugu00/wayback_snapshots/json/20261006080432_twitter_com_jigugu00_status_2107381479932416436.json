@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107343479143899254",
+    "created_at": "2026-10-06T08:04:32.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107381479932416436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1737919521518944257",
+          "start": 0,
+          "username": "mu_tyann0108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107381479932416436",
+    "in_reply_to_user_id": "1737919521518944257",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107343479143899254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mu_tyann0108 🎉🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_2107343472885956608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7JuTEbAAA6o-C.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107343479143899254",
+        "created_at": "2026-10-06T08:04:32.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107381479932416436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1737919521518944257",
+              "start": 0,
+              "username": "mu_tyann0108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107381479932416436",
+        "in_reply_to_user_id": "1737919521518944257",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107343479143899254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mu_tyann0108 🎉🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107343472885956608"
+          ]
+        },
+        "author_id": "1737919521518944257",
+        "conversation_id": "2107343479143899254",
+        "created_at": "2026-10-06T05:33:32.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107343479143899254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjvihqwZjy",
+              "end": 36,
+              "expanded_url": "https://x.com/mu_tyann0108/status/2107343479143899254/photo/1",
+              "media_key": "3_2107343472885956608",
+              "start": 13,
+              "url": "https://t.co/ZjvihqwZjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107343479143899254",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107343472885956608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 510,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1400人ありがとう😭😭 https://t.co/ZjvihqwZjy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107381479932416436",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 921,
+          "like_count": 4640,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2248
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-21T19:34:47.000Z",
+        "description": "ADHD / ASD / 双極性障害\n手帳2級 / 自立支援あり\n最奥 @amu__0818\n\n～現在入院中🏥\n🚫 えろ目的・出会い目的NG\n闘病や日常のお話できるお友達ほしい🪼♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "amu__0818"
+              }
+            ]
+          }
+        },
+        "id": "1737919521518944257",
+        "is_identity_verified": false,
+        "location": "🫧 愛知県｜2008.01.08｜AB型",
+        "most_recent_tweet_id": "2107370681960919055",
+        "name": "むあち໒꒱†",
+        "pinned_tweet_id": "2106997383209087256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737919521518944257/1789628179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106952936983252992/UvyO9fNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 1317,
+          "like_count": 2571,
+          "listed_count": 7,
+          "media_count": 611,
+          "tweet_count": 13874
+        },
+        "url": "",
+        "username": "mu_tyann0108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

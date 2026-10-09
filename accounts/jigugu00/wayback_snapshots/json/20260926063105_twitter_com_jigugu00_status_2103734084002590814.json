@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103708049227518071",
+    "created_at": "2026-09-26T06:31:05.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T07:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103734084002590814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2065628007491133440",
+          "start": 0,
+          "username": "Rainuvd7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103734084002590814",
+    "in_reply_to_user_id": "2065628007491133440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103717658571202897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainuvd7 越来越贵了😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103708049227518071",
+        "created_at": "2026-09-26T06:31:05.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103734084002590814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2065628007491133440",
+              "start": 0,
+              "username": "Rainuvd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103734084002590814",
+        "in_reply_to_user_id": "2065628007491133440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103717658571202897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainuvd7 越来越贵了😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065628007491133440",
+        "conversation_id": "2103708049227518071",
+        "created_at": "2026-09-26T05:25:49.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103717658571202897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103717658571202897",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103708049227518071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 也许是30左右"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103734084002590814",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 835,
+          "like_count": 4001,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T02:51:46.000Z",
+        "description": "od｜画画｜戒割中\n平时发一点碎碎念\n欢迎互fo呀！\n如果有人找我聊天也是大欢迎呀",
+        "id": "2065628007491133440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103720465449771020",
+        "name": "M1ssU",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065628007491133440/1786022723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085356517050716160/ZdwjPYF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 144,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "Rainuvd7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

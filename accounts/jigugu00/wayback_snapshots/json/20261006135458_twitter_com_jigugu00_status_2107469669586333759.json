@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107469654646198272"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107469669586333759",
+    "created_at": "2026-10-06T13:54:58.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T14:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107469669586333759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mwxiirRHzZ",
+          "end": 42,
+          "expanded_url": "https://x.com/jigugu00/status/2107469669586333759/photo/1",
+          "media_key": "3_2107469654646198272",
+          "start": 19,
+          "url": "https://t.co/mwxiirRHzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107469669586333759",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107469654646198272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜欢这样有人懂吗。小荷才露尖尖角。 https://t.co/mwxiirRHzZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3060,
+        "media_key": "3_2107469654646198272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT88fCwaEAAy_ex.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107469654646198272"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107469669586333759",
+        "created_at": "2026-10-06T13:54:58.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107469669586333759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwxiirRHzZ",
+              "end": 42,
+              "expanded_url": "https://x.com/jigugu00/status/2107469669586333759/photo/1",
+              "media_key": "3_2107469654646198272",
+              "start": 19,
+              "url": "https://t.co/mwxiirRHzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107469669586333759",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107469654646198272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢这样有人懂吗。小荷才露尖尖角。 https://t.co/mwxiirRHzZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107469669586333759",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 929,
+          "like_count": 4804,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

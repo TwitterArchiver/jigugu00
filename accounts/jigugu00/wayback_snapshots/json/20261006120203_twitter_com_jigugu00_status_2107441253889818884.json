@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107350230593331200"
+      ],
+      "media_source_tweet_id": [
+        "2107350240940757035"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2107441253889818884",
+    "created_at": "2026-10-06T12:02:03.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T13:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107441253889818884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1086557047938637825",
+          "start": 3,
+          "username": "etranger8492"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i7XMhEf6OT",
+          "end": 41,
+          "expanded_url": "https://x.com/etranger8492/status/2107350240940757035/photo/1",
+          "media_key": "3_2107350230593331200",
+          "start": 18,
+          "url": "https://t.co/i7XMhEf6OT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107441253889818884",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2107350230593331200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2457
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107350240940757035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @etranger8492: https://t.co/i7XMhEf6OT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 950,
+        "media_key": "3_2107350230593331200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7P3pfaYAAxuJK.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107350230593331200"
+          ],
+          "media_source_tweet_id": [
+            "2107350240940757035"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2107441253889818884",
+        "created_at": "2026-10-06T12:02:03.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107441253889818884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1086557047938637825",
+              "start": 3,
+              "username": "etranger8492"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7XMhEf6OT",
+              "end": 41,
+              "expanded_url": "https://x.com/etranger8492/status/2107350240940757035/photo/1",
+              "media_key": "3_2107350230593331200",
+              "start": 18,
+              "url": "https://t.co/i7XMhEf6OT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107441253889818884",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107350230593331200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2457
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107350240940757035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @etranger8492: https://t.co/i7XMhEf6OT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107350230593331200"
+          ]
+        },
+        "author_id": "1086557047938637825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2107350240940757035",
+        "created_at": "2026-10-06T06:00:24.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107350240940757035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7XMhEf6OT",
+              "end": 23,
+              "expanded_url": "https://x.com/etranger8492/status/2107350240940757035/photo/1",
+              "media_key": "3_2107350230593331200",
+              "start": 0,
+              "url": "https://t.co/i7XMhEf6OT"
+            },
+            {
+              "display_url": "x.com/Sankei_news/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Sankei_news/status/2107333269830463883",
+              "start": 24,
+              "url": "https://t.co/dR9PSkymhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107350240940757035",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107350230593331200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 663492,
+          "like_count": 20605,
+          "quote_count": 144,
+          "reply_count": 38,
+          "retweet_count": 2457
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107333269830463883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/i7XMhEf6OT https://t.co/dR9PSkymhX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107441253889818884",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 927,
+          "like_count": 4742,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-19T09:32:42.000Z",
+        "description": "多趣味な地球至上主義者",
+        "id": "1086557047938637825",
+        "is_identity_verified": false,
+        "location": "コンペイトウ",
+        "most_recent_tweet_id": "2107435032596115639",
+        "name": "Étranger",
+        "pinned_tweet_id": "2078266900786901480",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086557047938637825/1784082866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103051477094936576/oMTrolJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 1754,
+          "like_count": 72181,
+          "listed_count": 5,
+          "media_count": 10696,
+          "tweet_count": 40264
+        },
+        "url": "",
+        "username": "etranger8492",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

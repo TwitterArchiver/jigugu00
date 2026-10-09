@@ -1,0 +1,638 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106740512879210496",
+        "3_2106740512837320704",
+        "3_2106740512866684929",
+        "3_2106740512845701120"
+      ],
+      "media_source_tweet_id": [
+        "2106740519456161829",
+        "2106740519456161829",
+        "2106740519456161829",
+        "2106740519456161829"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1369248933743009794",
+          "name": "Awwnime"
+        }
+      }
+    ],
+    "conversation_id": "2106795158037729479",
+    "created_at": "2026-10-04T17:14:42.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T18:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106795158037729479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1421108183561654276",
+          "start": 3,
+          "username": "raqann_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4HTF4AKZj",
+          "end": 79,
+          "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+          "media_key": "3_2106740512879210496",
+          "start": 56,
+          "url": "https://t.co/C4HTF4AKZj"
+        },
+        {
+          "display_url": "pic.x.com/C4HTF4AKZj",
+          "end": 79,
+          "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+          "media_key": "3_2106740512837320704",
+          "start": 56,
+          "url": "https://t.co/C4HTF4AKZj"
+        },
+        {
+          "display_url": "pic.x.com/C4HTF4AKZj",
+          "end": 79,
+          "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+          "media_key": "3_2106740512866684929",
+          "start": 56,
+          "url": "https://t.co/C4HTF4AKZj"
+        },
+        {
+          "display_url": "pic.x.com/C4HTF4AKZj",
+          "end": 79,
+          "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+          "media_key": "3_2106740512845701120",
+          "start": 56,
+          "url": "https://t.co/C4HTF4AKZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106795158037729479",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2106740512879210496"
+      },
+      {
+        "media_key": "3_2106740512837320704"
+      },
+      {
+        "media_key": "3_2106740512866684929"
+      },
+      {
+        "media_key": "3_2106740512845701120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106740519456161829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raqann_: i love my cute lesbian reindeer anime girl https://t.co/C4HTF4AKZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2106740512879210496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTylVaAW8AAmDoY.jpg",
+        "width": 1744
+      },
+      {
+        "height": 1665,
+        "media_key": "3_2106740512837320704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTylVZ2XwAACiBH.jpg",
+        "width": 1667
+      },
+      {
+        "height": 428,
+        "media_key": "3_2106740512866684929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTylVZ9X0AEteYu.jpg",
+        "width": 428
+      },
+      {
+        "height": 423,
+        "media_key": "3_2106740512845701120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTylVZ4XoAAdhDU.jpg",
+        "width": 422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106740512879210496",
+            "3_2106740512837320704",
+            "3_2106740512866684929",
+            "3_2106740512845701120"
+          ],
+          "media_source_tweet_id": [
+            "2106740519456161829",
+            "2106740519456161829",
+            "2106740519456161829",
+            "2106740519456161829"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1369248933743009794",
+              "name": "Awwnime"
+            }
+          }
+        ],
+        "conversation_id": "2106795158037729479",
+        "created_at": "2026-10-04T17:14:42.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106795158037729479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1421108183561654276",
+              "start": 3,
+              "username": "raqann_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4HTF4AKZj",
+              "end": 79,
+              "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+              "media_key": "3_2106740512879210496",
+              "start": 56,
+              "url": "https://t.co/C4HTF4AKZj"
+            },
+            {
+              "display_url": "pic.x.com/C4HTF4AKZj",
+              "end": 79,
+              "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+              "media_key": "3_2106740512837320704",
+              "start": 56,
+              "url": "https://t.co/C4HTF4AKZj"
+            },
+            {
+              "display_url": "pic.x.com/C4HTF4AKZj",
+              "end": 79,
+              "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+              "media_key": "3_2106740512866684929",
+              "start": 56,
+              "url": "https://t.co/C4HTF4AKZj"
+            },
+            {
+              "display_url": "pic.x.com/C4HTF4AKZj",
+              "end": 79,
+              "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+              "media_key": "3_2106740512845701120",
+              "start": 56,
+              "url": "https://t.co/C4HTF4AKZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106795158037729479",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106740512879210496"
+          },
+          {
+            "media_key": "3_2106740512837320704"
+          },
+          {
+            "media_key": "3_2106740512866684929"
+          },
+          {
+            "media_key": "3_2106740512845701120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106740519456161829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raqann_: i love my cute lesbian reindeer anime girl https://t.co/C4HTF4AKZj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106740512879210496",
+            "3_2106740512837320704",
+            "3_2106740512866684929",
+            "3_2106740512845701120"
+          ]
+        },
+        "author_id": "1421108183561654276",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1369248933743009794",
+              "name": "Awwnime"
+            }
+          }
+        ],
+        "conversation_id": "2106740519456161829",
+        "created_at": "2026-10-04T13:37:35.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106740519456161829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4HTF4AKZj",
+              "end": 66,
+              "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+              "media_key": "3_2106740512879210496",
+              "start": 43,
+              "url": "https://t.co/C4HTF4AKZj"
+            },
+            {
+              "display_url": "pic.x.com/C4HTF4AKZj",
+              "end": 66,
+              "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+              "media_key": "3_2106740512837320704",
+              "start": 43,
+              "url": "https://t.co/C4HTF4AKZj"
+            },
+            {
+              "display_url": "pic.x.com/C4HTF4AKZj",
+              "end": 66,
+              "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+              "media_key": "3_2106740512866684929",
+              "start": 43,
+              "url": "https://t.co/C4HTF4AKZj"
+            },
+            {
+              "display_url": "pic.x.com/C4HTF4AKZj",
+              "end": 66,
+              "expanded_url": "https://x.com/raqann_/status/2106740519456161829/photo/1",
+              "media_key": "3_2106740512845701120",
+              "start": 43,
+              "url": "https://t.co/C4HTF4AKZj"
+            },
+            {
+              "display_url": "x.com/miniskrambol/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/miniskrambol/status/2104659964333838486",
+              "start": 67,
+              "url": "https://t.co/C4J4kBrESh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106740519456161829",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106740512879210496"
+          },
+          {
+            "media_key": "3_2106740512837320704"
+          },
+          {
+            "media_key": "3_2106740512866684929"
+          },
+          {
+            "media_key": "3_2106740512845701120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 13012,
+          "like_count": 2829,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104659964333838486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i love my cute lesbian reindeer anime girl https://t.co/C4HTF4AKZj https://t.co/C4J4kBrESh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106795158037729479",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 917,
+          "like_count": 4435,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-30T13:59:36.000Z",
+        "description": "idk i draw things that i like :p esp/eng",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "raqann.straw.page",
+                "end": 23,
+                "expanded_url": "http://raqann.straw.page",
+                "start": 0,
+                "url": "https://t.co/VLH1aFIhfr"
+              }
+            ]
+          }
+        },
+        "id": "1421108183561654276",
+        "is_identity_verified": false,
+        "location": "19🇻🇪 | she/her",
+        "most_recent_tweet_id": "2106761433346142584",
+        "name": "anna:) comms open!!",
+        "pinned_tweet_id": "2085808834371518885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1421108183561654276/1782932037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104960248255533056/sPA_oz61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5502,
+          "following_count": 556,
+          "like_count": 60255,
+          "listed_count": 10,
+          "media_count": 1343,
+          "tweet_count": 14279
+        },
+        "url": "https://t.co/VLH1aFIhfr",
+        "username": "raqann_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

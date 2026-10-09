@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106694839668806028",
+    "created_at": "2026-10-04T18:34:48.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T19:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106815313912512513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2082437931290267648",
+          "start": 0,
+          "username": "Kinzyful"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106815313912512513",
+    "in_reply_to_user_id": "2082437931290267648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106694839668806028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinzyful 抱抱宝宝。。。辛苦了，TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106694839668806028",
+        "created_at": "2026-10-04T18:34:48.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T19:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106815313912512513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082437931290267648",
+              "start": 0,
+              "username": "Kinzyful"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106815313912512513",
+        "in_reply_to_user_id": "2082437931290267648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106694839668806028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinzyful 抱抱宝宝。。。辛苦了，TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082437931290267648",
+        "conversation_id": "2106694839668806028",
+        "created_at": "2026-10-04T10:36:04.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106694839668806028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106694839668806028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可悲呀我 o 药是为了情绪好一点能给学生备课然后明天好好试课。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106815313912512513",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 918,
+          "like_count": 4444,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:09:04.000Z",
+        "description": "三的十次方分之一概率的相信和爱\n重抑重焦|asd|cptsd|aspd|ed|shed|od| \n顺女 pr 性恋",
+        "id": "2082437931290267648",
+        "is_identity_verified": false,
+        "location": "此处",
+        "most_recent_tweet_id": "2106813633720402169",
+        "name": "mistletoe",
+        "pinned_tweet_id": "2106049099774808174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082437931290267648/1789759124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097645023793926144/vA6HGbc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 165,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "Kinzyful",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

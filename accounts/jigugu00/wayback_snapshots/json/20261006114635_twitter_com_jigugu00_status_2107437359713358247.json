@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107432718351163854",
+    "created_at": "2026-10-06T11:46:35.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107437359713358247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811393690008756225",
+          "start": 0,
+          "username": "_korekuni_ryuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107437359713358247",
+    "in_reply_to_user_id": "1811393690008756225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107432718351163854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_korekuni_ryuji 抱抱。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107432718351163854",
+        "created_at": "2026-10-06T11:46:35.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107437359713358247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811393690008756225",
+              "start": 0,
+              "username": "_korekuni_ryuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107437359713358247",
+        "in_reply_to_user_id": "1811393690008756225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107432718351163854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_korekuni_ryuji 抱抱。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811393690008756225",
+        "conversation_id": "2107432718351163854",
+        "created_at": "2026-10-06T11:28:08.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107432718351163854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107432718351163854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家听我说喔..！我不是想去吃烤肉吗，我去了哦！但是人太多了...服务员完全没有注意到角落烤纸已经碳化的我...."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107437359713358247",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 926,
+          "like_count": 4716,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T13:34:50.000Z",
+        "description": "我是物语\n前世:@Mikatsuki_iryu\n地雷系/重力系/病娇全肯定bot\n想骚扰我🚪68纯绿，不打钱别逼我骂你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "Mikatsuki_iryu"
+              }
+            ]
+          }
+        },
+        "id": "1811393690008756225",
+        "is_identity_verified": false,
+        "location": "Kasukabe-shi, Saitama",
+        "most_recent_tweet_id": "2107435795498045516",
+        "name": "♪物語炸薯條♪🐈‍⬛",
+        "pinned_tweet_id": "2105995622876881388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811393690008756225/1763210288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106793773917462528/mEjJpC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 132,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "_korekuni_ryuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

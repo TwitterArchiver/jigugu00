@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106415756598710777",
+    "created_at": "2026-10-03T17:21:06.000Z",
+    "display_text_range": [
+      8,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106434381359579216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092517131552423936",
+          "start": 0,
+          "username": "MT7276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106434381359579216",
+    "in_reply_to_user_id": "2092517131552423936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106431773387424038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MT7276 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106415756598710777",
+        "created_at": "2026-10-03T17:21:06.000Z",
+        "display_text_range": [
+          8,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106434381359579216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092517131552423936",
+              "start": 0,
+              "username": "MT7276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106434381359579216",
+        "in_reply_to_user_id": "2092517131552423936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106431773387424038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MT7276 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092517131552423936",
+        "conversation_id": "2106415756598710777",
+        "created_at": "2026-10-03T17:10:45.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106431773387424038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106431773387424038",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106415756598710777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 夹心玉米棒吗，好吃捏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106434381359579216",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 915,
+          "like_count": 4320,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:43:46.000Z",
+        "description": "友所有人\n会回fo同类喵\n简介施工中\nhttps://t.co/6gBhlfU4Bv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mt17276",
+                "end": 42,
+                "expanded_url": "https://ngl.link/mt17276",
+                "start": 19,
+                "url": "https://t.co/6gBhlfU4Bv"
+              }
+            ]
+          }
+        },
+        "id": "2092517131552423936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106434364309671977",
+        "name": "MT",
+        "pinned_tweet_id": "2106331688838348909",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092519007610118145/cevOQhIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 197,
+          "like_count": 4645,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1067
+        },
+        "url": "",
+        "username": "MT7276",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106252707850072064"
+      ],
+      "media_source_tweet_id": [
+        "2106297954898252096"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2106351288103715301",
+    "created_at": "2026-10-03T11:50:55.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T12:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106351288103715301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PAXUDmCKid",
+          "end": 47,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2106297954898252096/photo/1",
+          "media_key": "3_2106252707850072064",
+          "start": 24,
+          "url": "https://t.co/PAXUDmCKid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106351288103715301",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106252707850072064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106297954898252096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: とら https://t.co/PAXUDmCKid"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 354,
+        "media_key": "3_2106252707850072064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrpraqbsAAaQnW.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106252707850072064"
+          ],
+          "media_source_tweet_id": [
+            "2106297954898252096"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2106351288103715301",
+        "created_at": "2026-10-03T11:50:55.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106351288103715301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAXUDmCKid",
+              "end": 47,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2106297954898252096/photo/1",
+              "media_key": "3_2106252707850072064",
+              "start": 24,
+              "url": "https://t.co/PAXUDmCKid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106351288103715301",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106252707850072064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106297954898252096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: とら https://t.co/PAXUDmCKid"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106252707850072064"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2106297954898252096",
+        "created_at": "2026-10-03T08:19:00.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106297954898252096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAXUDmCKid",
+              "end": 26,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2106297954898252096/photo/1",
+              "media_key": "3_2106252707850072064",
+              "start": 3,
+              "url": "https://t.co/PAXUDmCKid"
+            },
+            {
+              "display_url": "x.com/aikatsu_dcd/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/aikatsu_dcd/status/2105930786541052237",
+              "start": 27,
+              "url": "https://t.co/zby3bkVU9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106297954898252096",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106252707850072064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 44475,
+          "like_count": 2257,
+          "quote_count": 16,
+          "reply_count": 3,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105930786541052237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "とら https://t.co/PAXUDmCKid https://t.co/zby3bkVU9k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106351288103715301",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 905,
+          "like_count": 4275,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "is_identity_verified": false,
+        "location": "キミのぱそこん",
+        "most_recent_tweet_id": "2106297954898252096",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089188969435246918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313122922886643714/1767944915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546425,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 1149,
+          "media_count": 889,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105479244960890880"
+      ],
+      "media_source_tweet_id": [
+        "2105660253983695310"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105967928566808657",
+    "created_at": "2026-10-02T10:27:35.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105967928566808657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2047484170876706816",
+          "start": 3,
+          "username": "Aiyutoushushu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/15cJNEfffR",
+          "end": 42,
+          "expanded_url": "https://x.com/Aiyutoushushu/status/2105660253983695310/photo/1",
+          "media_key": "3_2105479244960890880",
+          "start": 19,
+          "url": "https://t.co/15cJNEfffR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105967928566808657",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2105479244960890880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105660253983695310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aiyutoushushu: https://t.co/15cJNEfffR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_2105479244960890880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgqN83aAAA-cHr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105479244960890880"
+          ],
+          "media_source_tweet_id": [
+            "2105660253983695310"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105967928566808657",
+        "created_at": "2026-10-02T10:27:35.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105967928566808657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2047484170876706816",
+              "start": 3,
+              "username": "Aiyutoushushu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/15cJNEfffR",
+              "end": 42,
+              "expanded_url": "https://x.com/Aiyutoushushu/status/2105660253983695310/photo/1",
+              "media_key": "3_2105479244960890880",
+              "start": 19,
+              "url": "https://t.co/15cJNEfffR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105967928566808657",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105479244960890880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105660253983695310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aiyutoushushu: https://t.co/15cJNEfffR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105479244960890880"
+          ]
+        },
+        "author_id": "2047484170876706816",
+        "conversation_id": "2105660253983695310",
+        "created_at": "2026-10-01T14:05:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105660253983695310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/15cJNEfffR",
+              "end": 23,
+              "expanded_url": "https://x.com/Aiyutoushushu/status/2105660253983695310/photo/1",
+              "media_key": "3_2105479244960890880",
+              "start": 0,
+              "url": "https://t.co/15cJNEfffR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105660253983695310",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105479244960890880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/15cJNEfffR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105967928566808657",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 876,
+          "like_count": 4173,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2118
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T01:15:55.000Z",
+        "description": "分享低分辨率抽象视频、低分辨率抽象老图\n#搞笑图片  |  #沙雕段子  | #沙雕视频 ｜#吊图｜#抽象派｜#怪诞抽象大师｜#荒诞储存库 | #低分辨率视频\n更新随缘但绝不鸽！如有侵权请私我，爱你！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "搞笑图片"
+              },
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "沙雕段子"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "沙雕视频"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "吊图"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "抽象派"
+              },
+              {
+                "end": 62,
+                "start": 55,
+                "tag": "怪诞抽象大师"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "tag": "荒诞储存库"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "低分辨率视频"
+              }
+            ]
+          }
+        },
+        "id": "2047484170876706816",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105967806554706040",
+        "name": "田园抽象艺术家",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047484170876706816/1779851641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059473161645871104/c49Lb0gI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 6321,
+          "like_count": 23640,
+          "listed_count": 9,
+          "media_count": 1709,
+          "tweet_count": 49619
+        },
+        "url": "",
+        "username": "Aiyutoushushu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

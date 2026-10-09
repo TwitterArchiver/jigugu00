@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106356547169452043",
+    "created_at": "2026-10-03T13:39:02.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106378493789659451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106378493789659451",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106378324759155168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming 我死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106356547169452043",
+        "created_at": "2026-10-03T13:39:02.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106378493789659451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106378493789659451",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106378324759155168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming 我死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540315386931204098",
+        "conversation_id": "2106356547169452043",
+        "created_at": "2026-10-03T13:38:21.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106378324759155168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106378324759155168",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106356547169452043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 副作用加倍头疼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106378493789659451",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 910,
+          "like_count": 4293,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。\n物知らず悪役令嬢です、🏳️‍⚧️20↑トランスジェンダー女性、心理学家族出身\n\nENG/日本語/華语OK。\n漫画家志望、TRPG民間通訳。元日本高校留学中の不登校児、現在北京在住。\n「メンヘラ」を中国語へ「心病系(誤訳：鬱デレ)」ヘ通訳した者\n現在TRPG「少女漫画RPG芳しい♥ハーデザート」制作中",
+        "id": "1540315386931204098",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106378324759155168",
+        "name": "🪞🌺【メンヘラ救済RPG】【少女漫画RPG（制作中）】",
+        "pinned_tweet_id": "2056598549660664003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1540315386931204098/1779872584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102244494993502208/ITQa_jeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1977,
+          "like_count": 16107,
+          "listed_count": 2,
+          "media_count": 1770,
+          "tweet_count": 11825
+        },
+        "url": "",
+        "username": "kyouka_charming",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

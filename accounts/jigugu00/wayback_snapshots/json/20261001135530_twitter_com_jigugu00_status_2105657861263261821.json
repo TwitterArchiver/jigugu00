@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105657861263261821",
+    "created_at": "2026-10-01T13:55:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T14:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105657861263261821"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "胶囊"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688368138553819137",
+          "start": 3,
+          "username": "YangPhC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105657861263261821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105234932629192940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YangPhC: 个人研究了关于辅料的一些东西，特别是针对 #普瑞巴林 胶囊的\n\n（不知道咱药圈里有没有实打实的学药的啊...求进一步科普）\n\n因为很多人直接塞原粉进胶囊/嘴，据了解可能效果不太好吧，对\n所以来一些关于 #胶囊 辅料的知识\n仅科普，不作为用药/制药指导，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2105234500234186752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdLn7tbEAAsloR.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105657861263261821",
+        "created_at": "2026-10-01T13:55:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105657861263261821"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "胶囊"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688368138553819137",
+              "start": 3,
+              "username": "YangPhC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105657861263261821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105234932629192940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YangPhC: 个人研究了关于辅料的一些东西，特别是针对 #普瑞巴林 胶囊的\n\n（不知道咱药圈里有没有实打实的学药的啊...求进一步科普）\n\n因为很多人直接塞原粉进胶囊/嘴，据了解可能效果不太好吧，对\n所以来一些关于 #胶囊 辅料的知识\n仅科普，不作为用药/制药指导，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105234500234186752"
+          ]
+        },
+        "author_id": "1688368138553819137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105234932629192940",
+        "created_at": "2026-09-30T09:54:55.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105234932629192940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "胶囊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUa9OeYefN",
+              "end": 175,
+              "expanded_url": "https://x.com/YangPhC/status/2105234932629192940/photo/1",
+              "media_key": "3_2105234500234186752",
+              "start": 152,
+              "url": "https://t.co/TUa9OeYefN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105234932629192940",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105234500234186752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 5465,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "个人研究了关于辅料的一些东西，特别是针对 #普瑞巴林 胶囊的\n\n（不知道咱药圈里有没有实打实的学药的啊...求进一步科普）\n\n因为很多人直接塞原粉进胶囊/嘴，据了解可能效果不太好吧，对\n所以来一些关于 #胶囊 辅料的知识\n仅科普，不作为用药/制药指导，用药请遵医嘱\n\n更多见评论 求纠正 求转发 •ᴗ• https://t.co/TUa9OeYefN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105657861263261821",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 859,
+          "like_count": 4126,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-07T01:55:24.000Z",
+        "description": "istj 1w9  09男高 顺直\n键政 💊\n随便活活\n欢迎所有",
+        "id": "1688368138553819137",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105436205928284473",
+        "name": "1234",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097165978748547072/DG8XzL64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 205,
+          "like_count": 1736,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "YangPhC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

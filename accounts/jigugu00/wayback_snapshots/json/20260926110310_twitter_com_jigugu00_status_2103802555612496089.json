@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103772073533616496",
+    "created_at": "2026-09-26T11:03:10.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103802555612496089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1713161866053292032",
+          "start": 0,
+          "username": "pater1832861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103802555612496089",
+    "in_reply_to_user_id": "1713161866053292032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103798773168398416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pater1832861 什么。。要不换几家？实在不行p一个？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103772073533616496",
+        "created_at": "2026-09-26T11:03:10.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103802555612496089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1713161866053292032",
+              "start": 0,
+              "username": "pater1832861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103802555612496089",
+        "in_reply_to_user_id": "1713161866053292032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103798773168398416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pater1832861 什么。。要不换几家？实在不行p一个？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713161866053292032",
+        "conversation_id": "2103772073533616496",
+        "created_at": "2026-09-26T10:48:08.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103798773168398416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103798773168398416",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103788942986551705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 但是得上传病历"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103802555612496089",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 833,
+          "like_count": 4026,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2035
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-14T11:56:43.000Z",
+        "description": "やってみなきゃわからない",
+        "id": "1713161866053292032",
+        "is_identity_verified": false,
+        "location": "Chuo-ku, Tokyo",
+        "most_recent_tweet_id": "2103798773168398416",
+        "name": "Mitsuba Sousuke (probably)",
+        "pinned_tweet_id": "2090961024078016918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713161866053292032/1789280028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099018691228864512/SzLTv6aP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 1398,
+          "like_count": 11870,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "pater1832861",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

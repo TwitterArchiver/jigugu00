@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103079180238004707",
+    "created_at": "2026-09-24T11:08:44.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T12:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103079180238004707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103079180238004707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102623344004944351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 有了「生物爹」和「生物妈」这种称呼之后，我再看「生物老师」真的觉得好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103079180238004707",
+        "created_at": "2026-09-24T11:08:44.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103079180238004707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103079180238004707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102623344004944351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 有了「生物爹」和「生物妈」这种称呼之后，我再看「生物老师」真的觉得好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573704119516176384",
+        "conversation_id": "2102623344004944351",
+        "created_at": "2026-09-23T04:57:24.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102623344004944351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102623344004944351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 173642,
+          "like_count": 4294,
+          "quote_count": 14,
+          "reply_count": 104,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "有了「生物爹」和「生物妈」这种称呼之后，我再看「生物老师」真的觉得好好笑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103079180238004707",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 824,
+          "like_count": 3871,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜Living today with the hope that tomorrow will be a little better🩷💙| 邮箱 ame@amesaku.cc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amesaku.cc",
+                "end": 23,
+                "expanded_url": "http://amesaku.cc",
+                "start": 0,
+                "url": "https://t.co/H1Gt3MUVE5"
+              }
+            ]
+          }
+        },
+        "id": "1573704119516176384",
+        "is_identity_verified": false,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2103075971490541782",
+        "name": "草莓泡芙🍀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097264541671542784/gDDAaJwQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100472,
+          "following_count": 3043,
+          "like_count": 8591,
+          "listed_count": 205,
+          "media_count": 687,
+          "tweet_count": 5652
+        },
+        "url": "https://t.co/H1Gt3MUVE5",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107465517678096854",
+    "created_at": "2026-10-06T13:38:28.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T14:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107465517678096854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1866179600214102016",
+          "start": 3,
+          "username": "deerniggas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107465517678096854",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107251995954356273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deerniggas: now THIS is Kriselle. size accurate and everything"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107465517678096854",
+        "created_at": "2026-10-06T13:38:28.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107465517678096854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1866179600214102016",
+              "start": 3,
+              "username": "deerniggas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107465517678096854",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107251995954356273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deerniggas: now THIS is Kriselle. size accurate and everything"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866179600214102016",
+        "conversation_id": "2107251995954356273",
+        "created_at": "2026-10-05T23:30:01.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T00:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107251995954356273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Deerpostss/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Deerpostss/status/2107146261505704257",
+              "start": 51,
+              "url": "https://t.co/45dkioFf6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107251995954356273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 9769,
+          "like_count": 1667,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107146261505704257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "now THIS is Kriselle. size accurate and everything https://t.co/45dkioFf6E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107465517678096854",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 929,
+          "like_count": 4804,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-09T17:56:51.000Z",
+        "description": "@th3_p0larg3ist dead|im October! Minor-17-Black! #1 Noelle fan|#niggarune|parody only when its funny|aroace lesbian #forthegirls\nic: @WYLKOWULKO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 63,
+                "tag": "niggarune"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "tag": "forthegirls"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "th3_p0larg3ist"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "WYLKOWULKO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arab.org",
+                "end": 23,
+                "expanded_url": "http://arab.org",
+                "start": 0,
+                "url": "https://t.co/k6JiwjcQVk"
+              }
+            ]
+          }
+        },
+        "id": "1866179600214102016",
+        "is_identity_verified": false,
+        "location": "transmasc! any/all-she/he pref",
+        "most_recent_tweet_id": "2107459512248488329",
+        "name": "October \"Toby\" Holiday🦌🎃🍁",
+        "pinned_tweet_id": "2054664191613546889",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866179600214102016/1790857317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106208436451004418/OAJ1YD0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 2204,
+          "like_count": 147275,
+          "listed_count": 6,
+          "media_count": 480,
+          "tweet_count": 76172
+        },
+        "url": "https://t.co/k6JiwjcQVk",
+        "username": "deerniggas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

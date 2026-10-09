@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106446932679741440"
+      ],
+      "media_source_tweet_id": [
+        "2106446953739325594"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106696891279032387",
+    "created_at": "2026-10-04T10:44:14.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106696891279032387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1980700239452393473",
+          "start": 3,
+          "username": "dawnofsyndrome"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sougxypdId",
+          "end": 45,
+          "expanded_url": "https://x.com/dawnofsyndrome/status/2106446953739325594/photo/1",
+          "media_key": "3_2106446932679741440",
+          "start": 22,
+          "url": "https://t.co/sougxypdId"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106696891279032387",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2106446932679741440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1230
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106446953739325594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @dawnofsyndrome: 🤍 https://t.co/sougxypdId"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2106446932679741440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuaUyiWUAAZr4O.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106446932679741440"
+          ],
+          "media_source_tweet_id": [
+            "2106446953739325594"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106696891279032387",
+        "created_at": "2026-10-04T10:44:14.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106696891279032387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1980700239452393473",
+              "start": 3,
+              "username": "dawnofsyndrome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sougxypdId",
+              "end": 45,
+              "expanded_url": "https://x.com/dawnofsyndrome/status/2106446953739325594/photo/1",
+              "media_key": "3_2106446932679741440",
+              "start": 22,
+              "url": "https://t.co/sougxypdId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106696891279032387",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106446932679741440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1230
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106446953739325594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @dawnofsyndrome: 🤍 https://t.co/sougxypdId"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106446932679741440"
+          ]
+        },
+        "author_id": "1980700239452393473",
+        "conversation_id": "2106446953739325594",
+        "created_at": "2026-10-03T18:11:04.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106446953739325594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sougxypdId",
+              "end": 25,
+              "expanded_url": "https://x.com/dawnofsyndrome/status/2106446953739325594/photo/1",
+              "media_key": "3_2106446932679741440",
+              "start": 2,
+              "url": "https://t.co/sougxypdId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106446953739325594",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106446932679741440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3237,
+          "impression_count": 281584,
+          "like_count": 21493,
+          "quote_count": 37,
+          "reply_count": 27,
+          "retweet_count": 1230
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🤍 https://t.co/sougxypdId"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106696891279032387",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 916,
+          "like_count": 4360,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T18:18:50.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "myfigurecollection.net/profile/culqua…",
+                "end": 23,
+                "expanded_url": "https://myfigurecollection.net/profile/culquake",
+                "start": 0,
+                "url": "https://t.co/HWdSyR1182"
+              }
+            ]
+          }
+        },
+        "id": "1980700239452393473",
+        "is_identity_verified": false,
+        "location": "moe land ",
+        "most_recent_tweet_id": "2106695273817018565",
+        "name": "𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ ᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ಣ ♡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980700239452393473/1788787198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106295926058856448/k3038QMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 133,
+          "like_count": 38789,
+          "listed_count": 3,
+          "media_count": 620,
+          "tweet_count": 7366
+        },
+        "url": "https://t.co/HWdSyR1182",
+        "username": "dawnofsyndrome",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

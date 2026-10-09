@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107508443028582477",
+    "created_at": "2026-10-06T16:29:03.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T17:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107508443028582477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646433542661115904",
+          "start": 3,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107508443028582477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107107443948077232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lanyinwu: 躺在床上，奶子像水一样流开，唯独肚子屹立不倒。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107508443028582477",
+        "created_at": "2026-10-06T16:29:03.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T17:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107508443028582477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646433542661115904",
+              "start": 3,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107508443028582477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107107443948077232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lanyinwu: 躺在床上，奶子像水一样流开，唯独肚子屹立不倒。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646433542661115904",
+        "conversation_id": "2107107443948077232",
+        "created_at": "2026-10-05T13:55:37.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107107443948077232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107107443948077232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8648,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "躺在床上，奶子像水一样流开，唯独肚子屹立不倒。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107508443028582477",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 931,
+          "like_count": 4854,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "个人日常，私信不开，不加微信，不提供任何服务，没有墙内账号，唯一的小号 @kiraxiaoyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "kiraxiaoyao"
+              }
+            ]
+          }
+        },
+        "id": "1646433542661115904",
+        "is_identity_verified": false,
+        "location": "当成人版qq空间发",
+        "most_recent_tweet_id": "2107447821297471631",
+        "name": "盛予",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646433542661115904/1752667673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945455357427400704/VCxXs25A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31093,
+          "following_count": 8,
+          "like_count": 4239,
+          "listed_count": 73,
+          "media_count": 172,
+          "tweet_count": 2300
+        },
+        "url": "",
+        "username": "Lanyinwu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

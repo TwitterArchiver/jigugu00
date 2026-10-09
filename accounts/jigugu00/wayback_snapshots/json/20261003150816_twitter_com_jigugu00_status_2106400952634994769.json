@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106400952634994769",
+    "created_at": "2026-10-03T15:08:16.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106400952634994769"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 63,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 83,
+          "start": 77,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 97,
+          "start": 85,
+          "tag": "病み垢女子と繋がりたい"
+        },
+        {
+          "end": 111,
+          "start": 99,
+          "tag": "病み垢男子と繋がりたい"
+        },
+        {
+          "end": 118,
+          "start": 112,
+          "tag": "仲良し募集"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054169437423480832",
+          "start": 3,
+          "username": "h0wk1d0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/SKaLBq4",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/SKaLBq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106400952634994769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106354491272708145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h0wk1d0: Tag🏷\n\n│08│♀│DM│病み│\n\n離れない仲良しさんください‼️\n\n♡で気になりさんお迎え\n\n#病み垢さんと繋がりたい  #病み垢女子  #病み垢女子と繋がりたい  #病み垢男子と繋がりたい #仲良し募集 https://t.co/SKaLBq4…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2106354220408639488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtGAOaaEAAr1He.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106400952634994769",
+        "created_at": "2026-10-03T15:08:16.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106400952634994769"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 63,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 97,
+              "start": 85,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 111,
+              "start": 99,
+              "tag": "病み垢男子と繋がりたい"
+            },
+            {
+              "end": 118,
+              "start": 112,
+              "tag": "仲良し募集"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054169437423480832",
+              "start": 3,
+              "username": "h0wk1d0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/SKaLBq4",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/SKaLBq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106400952634994769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106354491272708145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h0wk1d0: Tag🏷\n\n│08│♀│DM│病み│\n\n離れない仲良しさんください‼️\n\n♡で気になりさんお迎え\n\n#病み垢さんと繋がりたい  #病み垢女子  #病み垢女子と繋がりたい  #病み垢男子と繋がりたい #仲良し募集 https://t.co/SKaLBq4…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106354220408639488"
+          ]
+        },
+        "author_id": "2054169437423480832",
+        "conversation_id": "2106354491272708145",
+        "created_at": "2026-10-03T12:03:39.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106354491272708145"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 84,
+              "start": 72,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 98,
+              "start": 86,
+              "tag": "病み垢男子と繋がりたい"
+            },
+            {
+              "end": 105,
+              "start": 99,
+              "tag": "仲良し募集"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SKaLBq431n",
+              "end": 129,
+              "expanded_url": "https://x.com/h0wk1d0/status/2106354491272708145/photo/1",
+              "media_key": "3_2106354220408639488",
+              "start": 106,
+              "url": "https://t.co/SKaLBq431n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106354491272708145",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106354220408639488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1586,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Tag🏷\n\n│08│♀│DM│病み│\n\n離れない仲良しさんください‼️\n\n♡で気になりさんお迎え\n\n#病み垢さんと繋がりたい  #病み垢女子  #病み垢女子と繋がりたい  #病み垢男子と繋がりたい #仲良し募集 https://t.co/SKaLBq431n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106400952634994769",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 912,
+          "like_count": 4304,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2168
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T11:59:01.000Z",
+        "description": "🚺　病み",
+        "id": "2054169437423480832",
+        "is_identity_verified": false,
+        "location": "🗝️ @skit7h00",
+        "most_recent_tweet_id": "2106386883106537631",
+        "name": "ねね",
+        "pinned_tweet_id": "2106354491272708145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054169437423480832/1788169262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103469222236209152/BhiWXO99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 135,
+          "like_count": 1093,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "h0wk1d0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105966469351969223",
+    "created_at": "2026-10-02T11:44:45.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T12:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105987345749348696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635679785132371969",
+          "start": 0,
+          "username": "_Culacc1no_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105987345749348696",
+    "in_reply_to_user_id": "1635679785132371969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105975044887478559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Culacc1no_ 我只知道都是好东西😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105966469351969223",
+        "created_at": "2026-10-02T11:44:45.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105987345749348696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635679785132371969",
+              "start": 0,
+              "username": "_Culacc1no_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105987345749348696",
+        "in_reply_to_user_id": "1635679785132371969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105975044887478559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Culacc1no_ 我只知道都是好东西😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635679785132371969",
+        "conversation_id": "2105966469351969223",
+        "created_at": "2026-10-02T10:55:52.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105975044887478559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105975044887478559",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105966469351969223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 我说酸奶葡萄不如葡萄酸奶有懂的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105987345749348696",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 881,
+          "like_count": 4182,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2125
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-14T16:30:37.000Z",
+        "description": "Mt😺｜春来我不先哈气，哪个基米敢作声！｜猫咪全肯定bot｜死にたいわけじゃなくて    明日を生きるのが辛いだけ",
+        "id": "1635679785132371969",
+        "is_identity_verified": false,
+        "location": "Meow Town",
+        "most_recent_tweet_id": "2105975044887478559",
+        "name": "和乐清浅",
+        "pinned_tweet_id": "1944085551961059797",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1635679785132371969/1750262890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898845031886381056/PIofMUtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 992,
+          "like_count": 15844,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 3235
+        },
+        "url": "",
+        "username": "_Culacc1no_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

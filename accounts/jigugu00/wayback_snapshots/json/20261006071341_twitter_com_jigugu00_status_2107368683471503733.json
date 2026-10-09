@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107368683471503733",
+    "created_at": "2026-10-06T07:13:41.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107368683471503733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831350388861345793",
+          "start": 3,
+          "username": "Hiime0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107368683471503733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107318147560956311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hiime0: 「求助帖」\n目前的情况是，晶哥能查到我所有软件的聊天记录，包括tg，因此我浮木联合晶哥对我进行全方位的监控，然而本人从无任何犯罪记录，且早已成年，这种监控令人窒息。\n我的tg为外国手机号注册，且仅跟一两人有过聊天不可能出现有内鬼的情况。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107368683471503733",
+        "created_at": "2026-10-06T07:13:41.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107368683471503733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831350388861345793",
+              "start": 3,
+              "username": "Hiime0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107368683471503733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107318147560956311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hiime0: 「求助帖」\n目前的情况是，晶哥能查到我所有软件的聊天记录，包括tg，因此我浮木联合晶哥对我进行全方位的监控，然而本人从无任何犯罪记录，且早已成年，这种监控令人窒息。\n我的tg为外国手机号注册，且仅跟一两人有过聊天不可能出现有内鬼的情况。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2107318147560956311",
+        "created_at": "2026-10-06T03:52:53.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T04:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107318147560956311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hiime0/status/…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/Hiime0/status/2107105222158135327",
+              "start": 119,
+              "url": "https://t.co/aErjm4REdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107318147560956311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「求助帖」\n目前的情况是，晶哥能查到我所有软件的聊天记录，包括tg，因此我浮木联合晶哥对我进行全方位的监控，然而本人从无任何犯罪记录，且早已成年，这种监控令人窒息。\n我的tg为外国手机号注册，且仅跟一两人有过聊天不可能出现有内鬼的情况。\n我猜想，一种可能是，由于之前的家庭纠纷，我的手机被送到晶哥那边一段时间，被插上了莫名其妙的连接线，在此期间晶哥可能在我手机里植入了隐秘的监控软件。\n猜想的另一种可能是，晶哥本身就能通过我的设备信息、由国内网络传输的信息等截取我的tg聊天记录，虽然就之前的评论区而言这种可能性不高。\n\n那么，请问这到底是怎么一回事？\n如何解决这一问题（例如恢复出厂设置）？\n\n我已经没有允许失误的空间了，一旦聊天记录再被查阅，再被发现它们所谓“想要买药”，不仅电子产品将永远离我而去，还会和之前一样被关精卫（据浮木称是关一辈子）\n另外，目前本人的每一笔消费都会被浮木查阅（利用支付宝“亲情卡”），之后通过某些渠道获得零钱后也不保证晶哥不会告知浮木相关信息和消费记录，因此需要消费的解决方案我需要审慎评估。\n非常感谢你能看到这里！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1307,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107105222158135327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「求助帖」\n目前的情况是，晶哥能查到我所有软件的聊天记录，包括tg，因此我浮木联合晶哥对我进行全方位的监控，然而本人从无任何犯罪记录，且早已成年，这种监控令人窒息。\n我的tg为外国手机号注册，且仅跟一两人有过聊天不可能出现有内鬼的情况。 https://t.co/aErjm4REdt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107368683471503733",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 922,
+          "like_count": 4553,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2234
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "07｜无证断糖｜Transles｜家暴｜人間失格\n💮 深闺步步相随唱@xynAsabaShizuku\n🌠 生活是不会结束的。这是它的优点，或者缺点。你只好接受它。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "xynAsabaShizuku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "is_identity_verified": false,
+        "location": "東京湾",
+        "most_recent_tweet_id": "2107323803600863511",
+        "name": "止汐🌖ヤミシオ",
+        "pinned_tweet_id": "2093755119506722985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831350388861345793/1789479875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562648141500416/PoR5NktY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 293,
+          "like_count": 856,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105637266119073793",
+        "3_2105637271844302848"
+      ],
+      "media_source_tweet_id": [
+        "2105637278261665894",
+        "2105637278261665894"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105970617669566634",
+    "created_at": "2026-10-02T10:38:16.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105970617669566634"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 57,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "病み垢"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2089116953147547648",
+          "start": 3,
+          "username": "Needy96_shine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6k4bBS1Pu9",
+          "end": 100,
+          "expanded_url": "https://x.com/Needy96_shine/status/2105637278261665894/photo/1",
+          "media_key": "3_2105637266119073793",
+          "start": 77,
+          "url": "https://t.co/6k4bBS1Pu9"
+        },
+        {
+          "display_url": "pic.x.com/6k4bBS1Pu9",
+          "end": 100,
+          "expanded_url": "https://x.com/Needy96_shine/status/2105637278261665894/photo/1",
+          "media_key": "3_2105637271844302848",
+          "start": 77,
+          "url": "https://t.co/6k4bBS1Pu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105970617669566634",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105637266119073793"
+      },
+      {
+        "alt_text": "微自傷🈶※センシ有. 気分屋. DM〇※通話△. \n\nセンシ等ワンク無しの自傷画像はB対象\n不快だったら対応適当\n\n‎好き → 絡んでくれる人、優しい人、自衛できる人\n無理 → エロ垢、話を聞かない、出会い厨、下ネタ(仲良い人〇)\n\n趣味 → プロセカ(にわか)、ヴァロラント、エペ、ロブロ、ピグパ(無課金＆低浮)、絵描き、音楽制作(主に耳コピ)\n\nゆるくやってます\n大抵愚痴か希死念慮\nリプとかでたまに絡みいきます😎😎\n絡まないと忘れちゃうから絡もうね (ᐢ  > ̫ <ᐢ)b",
+        "media_key": "3_2105637271844302848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105637278261665894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Needy96_shine: Tag 🏷⸒⸒\n\n 12 ⌇ ♀ ⌇ 依存 ⌇ げーむ ⌇ alt必読\n\n #病み垢さんと繋がりたい \n #病み垢 https://t.co/6k4bBS1Pu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 745,
+        "media_key": "3_2105637266119073793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi57_jaIAESlCH.jpg",
+        "width": 745
+      },
+      {
+        "alt_text": "微自傷🈶※センシ有. 気分屋. DM〇※通話△. \n\nセンシ等ワンク無しの自傷画像はB対象\n不快だったら対応適当\n\n‎好き → 絡んでくれる人、優しい人、自衛できる人\n無理 → エロ垢、話を聞かない、出会い厨、下ネタ(仲良い人〇)\n\n趣味 → プロセカ(にわか)、ヴァロラント、エペ、ロブロ、ピグパ(無課金＆低浮)、絵描き、音楽制作(主に耳コピ)\n\nゆるくやってます\n大抵愚痴か希死念慮\nリプとかでたまに絡みいきます😎😎\n絡まないと忘れちゃうから絡もうね (ᐢ  > ̫ <ᐢ)b",
+        "height": 2304,
+        "media_key": "3_2105637271844302848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi58U4aMAA05kM.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105637266119073793",
+            "3_2105637271844302848"
+          ],
+          "media_source_tweet_id": [
+            "2105637278261665894",
+            "2105637278261665894"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105970617669566634",
+        "created_at": "2026-10-02T10:38:16.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105970617669566634"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 57,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "病み垢"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2089116953147547648",
+              "start": 3,
+              "username": "Needy96_shine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6k4bBS1Pu9",
+              "end": 100,
+              "expanded_url": "https://x.com/Needy96_shine/status/2105637278261665894/photo/1",
+              "media_key": "3_2105637266119073793",
+              "start": 77,
+              "url": "https://t.co/6k4bBS1Pu9"
+            },
+            {
+              "display_url": "pic.x.com/6k4bBS1Pu9",
+              "end": 100,
+              "expanded_url": "https://x.com/Needy96_shine/status/2105637278261665894/photo/1",
+              "media_key": "3_2105637271844302848",
+              "start": 77,
+              "url": "https://t.co/6k4bBS1Pu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105970617669566634",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105637266119073793"
+          },
+          {
+            "alt_text": "微自傷🈶※センシ有. 気分屋. DM〇※通話△. \n\nセンシ等ワンク無しの自傷画像はB対象\n不快だったら対応適当\n\n‎好き → 絡んでくれる人、優しい人、自衛できる人\n無理 → エロ垢、話を聞かない、出会い厨、下ネタ(仲良い人〇)\n\n趣味 → プロセカ(にわか)、ヴァロラント、エペ、ロブロ、ピグパ(無課金＆低浮)、絵描き、音楽制作(主に耳コピ)\n\nゆるくやってます\n大抵愚痴か希死念慮\nリプとかでたまに絡みいきます😎😎\n絡まないと忘れちゃうから絡もうね (ᐢ  > ̫ <ᐢ)b",
+            "media_key": "3_2105637271844302848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105637278261665894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Needy96_shine: Tag 🏷⸒⸒\n\n 12 ⌇ ♀ ⌇ 依存 ⌇ げーむ ⌇ alt必読\n\n #病み垢さんと繋がりたい \n #病み垢 https://t.co/6k4bBS1Pu9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105637266119073793",
+            "3_2105637271844302848"
+          ]
+        },
+        "author_id": "2089116953147547648",
+        "conversation_id": "2105637278261665894",
+        "created_at": "2026-10-01T12:33:42.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105637278261665894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 38,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "病み垢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6k4bBS1Pu9",
+              "end": 81,
+              "expanded_url": "https://x.com/Needy96_shine/status/2105637278261665894/photo/1",
+              "media_key": "3_2105637266119073793",
+              "start": 58,
+              "url": "https://t.co/6k4bBS1Pu9"
+            },
+            {
+              "display_url": "pic.x.com/6k4bBS1Pu9",
+              "end": 81,
+              "expanded_url": "https://x.com/Needy96_shine/status/2105637278261665894/photo/1",
+              "media_key": "3_2105637271844302848",
+              "start": 58,
+              "url": "https://t.co/6k4bBS1Pu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105637278261665894",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105637266119073793"
+          },
+          {
+            "alt_text": "微自傷🈶※センシ有. 気分屋. DM〇※通話△. \n\nセンシ等ワンク無しの自傷画像はB対象\n不快だったら対応適当\n\n‎好き → 絡んでくれる人、優しい人、自衛できる人\n無理 → エロ垢、話を聞かない、出会い厨、下ネタ(仲良い人〇)\n\n趣味 → プロセカ(にわか)、ヴァロラント、エペ、ロブロ、ピグパ(無課金＆低浮)、絵描き、音楽制作(主に耳コピ)\n\nゆるくやってます\n大抵愚痴か希死念慮\nリプとかでたまに絡みいきます😎😎\n絡まないと忘れちゃうから絡もうね (ᐢ  > ̫ <ᐢ)b",
+            "media_key": "3_2105637271844302848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6889,
+          "like_count": 248,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Tag 🏷⸒⸒\n\n 12 ⌇ ♀ ⌇ 依存 ⌇ げーむ ⌇ alt必読\n\n #病み垢さんと繋がりたい \n #病み垢 https://t.co/6k4bBS1Pu9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105970617669566634",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 878,
+          "like_count": 4176,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T22:29:35.000Z",
+        "description": "sjc￤♀︎￤雑多\nさぶ https://t.co/EFP3Lbvn5t\n🗝️ https://t.co/XgEooDAfyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Needy96_sub",
+                "end": 36,
+                "expanded_url": "https://x.com/Needy96_sub",
+                "start": 13,
+                "url": "https://t.co/EFP3Lbvn5t"
+              },
+              {
+                "display_url": "x.com/Needy_saiou",
+                "end": 63,
+                "expanded_url": "https://x.com/Needy_saiou",
+                "start": 40,
+                "url": "https://t.co/XgEooDAfyR"
+              }
+            ]
+          }
+        },
+        "id": "2089116953147547648",
+        "is_identity_verified": false,
+        "location": "リムり🈶 🗝️仲いい人のみ",
+        "most_recent_tweet_id": "2105963587391086884",
+        "name": "Needy",
+        "pinned_tweet_id": "2105637278261665894",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089116953147547648/1789961357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103984034393284608/dysaiZw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 105,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "Needy96_shine",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

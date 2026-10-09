@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103436781177688561",
+    "created_at": "2026-09-25T15:48:23.000Z",
+    "display_text_range": [
+      17,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103511946121339134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948038442790866945",
+          "start": 0,
+          "username": "Janeschan118623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103511946121339134",
+    "in_reply_to_user_id": "1948038442790866945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103507743092912433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Janeschan118623 其实我认为里面最好吃的是泡沫。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103507743092912433].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103507743092912433",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103507743092912433"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103436781177688561",
+        "created_at": "2026-09-25T15:48:23.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103511946121339134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948038442790866945",
+              "start": 0,
+              "username": "Janeschan118623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103511946121339134",
+        "in_reply_to_user_id": "1948038442790866945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103507743092912433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Janeschan118623 其实我认为里面最好吃的是泡沫。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103511946121339134",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 833,
+          "like_count": 3957,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-23T15:12:23.000Z",
+        "description": "“重重的顾虑使我们全变成了懦夫，决心的炽热的光彩，被审慎的思维盖上了一层灰色”——《哈姆雷特》ll 摘抄随笔专用号 主账号@Janeschanshadow ll 音乐分享账号@allthistime42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Janeschanshadow"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "allthistime42"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/janeschan1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/janeschan1",
+                "start": 0,
+                "url": "https://t.co/OUBxeV0HOC"
+              }
+            ]
+          }
+        },
+        "id": "1948038442790866945",
+        "is_identity_verified": false,
+        "location": "法国 奥尔良",
+        "most_recent_tweet_id": "2077148048627753222",
+        "name": "Janes.",
+        "pinned_tweet_id": "1994366463092928951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948038442790866945/1787938776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093393071178416128/u8VZiurX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 346,
+          "like_count": 22722,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 3472
+        },
+        "url": "https://t.co/OUBxeV0HOC",
+        "username": "Janeschan118623",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

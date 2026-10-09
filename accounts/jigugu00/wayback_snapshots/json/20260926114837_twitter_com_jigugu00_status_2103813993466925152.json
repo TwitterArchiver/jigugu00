@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103813993466925152",
+    "created_at": "2026-09-26T11:48:37.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103813993466925152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tsukimixyn/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Tsukimixyn/status/2103807020206112976",
+          "start": 17,
+          "url": "https://t.co/7xgWVFtAIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103813993466925152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103807020206112976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "泥马这个大头儿子幻视我初中同学了 https://t.co/7xgWVFtAIl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2808,
+        "media_key": "3_2103807010999558145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTI5VH6a4AEs32s.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103813993466925152",
+        "created_at": "2026-09-26T11:48:37.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103813993466925152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tsukimixyn/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Tsukimixyn/status/2103807020206112976",
+              "start": 17,
+              "url": "https://t.co/7xgWVFtAIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103813993466925152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103807020206112976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "泥马这个大头儿子幻视我初中同学了 https://t.co/7xgWVFtAIl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103807010999558145"
+          ]
+        },
+        "author_id": "2099282103389331456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103807020206112976",
+        "created_at": "2026-09-26T11:20:55.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103807020206112976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzG34qBK0I",
+              "end": 98,
+              "expanded_url": "https://x.com/Tsukimixyn/status/2103807020206112976/photo/1",
+              "media_key": "3_2103807010999558145",
+              "start": 75,
+              "url": "https://t.co/IzG34qBK0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103807020206112976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103807010999558145"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这大头儿子是混社会去了吗？这个穿搭还有发型太经典了我操。还有我感觉这个大头儿子这个头和小头爸爸这个头一比，小头爸爸的头简直像个.斐济杯🤣🤣🤣🤣🤣🤣🤣 https://t.co/IzG34qBK0I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103813993466925152",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 836,
+          "like_count": 4045,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-13T23:41:40.000Z",
+        "description": "打死你喵！︳xyn一只🍥︳革命平权☆︳马列毛左派🚩☭︳前基督徒✙︳私我来Q群玩◎︳Commist🚩☭︳MtF🏳‍⚧︳有证含糖，永远未术︳一起阅读︳交流用药心得🫶︳二号机：@Tsukimixyn813 ︳纯良㊣︳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "Tsukimixyn813"
+              }
+            ]
+          }
+        },
+        "id": "2099282103389331456",
+        "is_identity_verified": false,
+        "location": "雌二醇星球",
+        "most_recent_tweet_id": "2103808355324379445",
+        "name": "🍥月見夢曉萍🍥",
+        "pinned_tweet_id": "2101902507043917874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2099282103389331456/1789361953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101344796711559168/9U6fvcr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 157,
+          "like_count": 1071,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "Tsukimixyn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

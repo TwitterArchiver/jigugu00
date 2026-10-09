@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105967423832858969",
+    "created_at": "2026-10-02T10:25:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105967423832858969"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 109,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 136,
+          "start": 122,
+          "tag": "病み垢女子さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040682338926084096",
+          "start": 3,
+          "username": "xx_neguro__x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105967423832858969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105958652360397130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @xx_neguro__x: 𝙩𝙖𝙜 🏷️𓈒𓂂𓇬\n\n 07(18)║ESTP║PTSD\n╭━━━━━━━━━━╮\n┃縛られてるだけの       ┃\n┃      人生はつまんない ┃\n╰━ｖ━━━━━━━━╯\n#病み垢さんと繋がりたい #病み垢女子さんと繋がりたい #病…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1666,
+        "media_key": "3_2105958647604142080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTneO24bYAAHGOu.jpg",
+        "width": 713
+      },
+      {
+        "height": 1808,
+        "media_key": "3_2105958647595741184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTneO22bMAAgLsN.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105967423832858969",
+        "created_at": "2026-10-02T10:25:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105967423832858969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 109,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 136,
+              "start": 122,
+              "tag": "病み垢女子さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040682338926084096",
+              "start": 3,
+              "username": "xx_neguro__x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105967423832858969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105958652360397130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @xx_neguro__x: 𝙩𝙖𝙜 🏷️𓈒𓂂𓇬\n\n 07(18)║ESTP║PTSD\n╭━━━━━━━━━━╮\n┃縛られてるだけの       ┃\n┃      人生はつまんない ┃\n╰━ｖ━━━━━━━━╯\n#病み垢さんと繋がりたい #病み垢女子さんと繋がりたい #病…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105958647604142080",
+            "3_2105958647595741184"
+          ]
+        },
+        "author_id": "2040682338926084096",
+        "conversation_id": "2105958652360397130",
+        "created_at": "2026-10-02T09:50:44.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105958652360397130"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 91,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 118,
+              "start": 104,
+              "tag": "病み垢女子さんと繋がりたい"
+            },
+            {
+              "end": 133,
+              "start": 119,
+              "tag": "病み垢男子さんと繋がりたい"
+            },
+            {
+              "end": 149,
+              "start": 134,
+              "tag": "病み垢さんとお友達になりたい"
+            },
+            {
+              "end": 158,
+              "start": 151,
+              "tag": "ネッ友募集中"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/87B3PSfCfv",
+              "end": 182,
+              "expanded_url": "https://x.com/xx_neguro__x/status/2105958652360397130/photo/1",
+              "media_key": "3_2105958647604142080",
+              "start": 159,
+              "url": "https://t.co/87B3PSfCfv"
+            },
+            {
+              "display_url": "pic.x.com/87B3PSfCfv",
+              "end": 182,
+              "expanded_url": "https://x.com/xx_neguro__x/status/2105958652360397130/photo/1",
+              "media_key": "3_2105958647595741184",
+              "start": 159,
+              "url": "https://t.co/87B3PSfCfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105958652360397130",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105958647604142080"
+          },
+          {
+            "media_key": "3_2105958647595741184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 726,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "𝙩𝙖𝙜 🏷️𓈒𓂂𓇬\n\n 07(18)║ESTP║PTSD\n╭━━━━━━━━━━╮\n┃縛られてるだけの       ┃\n┃      人生はつまんない ┃\n╰━ｖ━━━━━━━━╯\n#病み垢さんと繋がりたい #病み垢女子さんと繋がりたい #病み垢男子さんと繋がりたい #病み垢さんとお友達になりたい  #ネッ友募集中 https://t.co/87B3PSfCfv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105967423832858969",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 876,
+          "like_count": 4172,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2117
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T06:46:52.000Z",
+        "description": "07(19)┆ESTP-A┆新規DM❌\n新規挨拶DMは👍のリアクションのみします\n病み垢┆ 断薬中🫠、0D、🐿\n闘病垢┆療育手帳B2、自立支援、移行支援事業所の見学＆探し中、不明熱原因探し中(自己免疫疾患は除外)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neguro",
+                "end": 23,
+                "expanded_url": "https://lit.link/neguro",
+                "start": 0,
+                "url": "https://t.co/AI5bUybwmw"
+              }
+            ]
+          }
+        },
+        "id": "2040682338926084096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105967191158084067",
+        "name": "ねぐろ",
+        "pinned_tweet_id": "2105958652360397130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040682338926084096/1790544998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105957964100358144/-TPVhXzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 1344,
+          "like_count": 542,
+          "listed_count": 12,
+          "media_count": 17,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/AI5bUybwmw",
+        "username": "xx_neguro__x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

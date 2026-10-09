@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105706363481706957",
+    "created_at": "2026-10-01T17:08:13.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T18:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105706363481706957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761821960978460672",
+          "start": 3,
+          "username": "oct424242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105706363481706957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105515389962666147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oct424242: 这是一条扩关推文\nenby/oder/MDD/AUDHD/和学术互殴博主\n扩我可以看我一边o一边痛苦科研"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105706363481706957",
+        "created_at": "2026-10-01T17:08:13.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T18:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105706363481706957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761821960978460672",
+              "start": 3,
+              "username": "oct424242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105706363481706957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105515389962666147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oct424242: 这是一条扩关推文\nenby/oder/MDD/AUDHD/和学术互殴博主\n扩我可以看我一边o一边痛苦科研"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2105515389962666147",
+        "created_at": "2026-10-01T04:29:22.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105515389962666147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105515389962666147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 696,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条扩关推文\nenby/oder/MDD/AUDHD/和学术互殴博主\n扩我可以看我一边o一边痛苦科研"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105706363481706957",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 872,
+          "like_count": 4151,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "is_identity_verified": false,
+        "location": "🛸",
+        "most_recent_tweet_id": "2105548601459957874",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761821960978460672/1777431936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098468760428355591/qZsTzroN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 206,
+          "like_count": 2680,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1571
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

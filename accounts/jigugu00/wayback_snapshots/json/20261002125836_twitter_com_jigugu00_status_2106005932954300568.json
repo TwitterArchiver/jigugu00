@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106005932954300568",
+    "created_at": "2026-10-02T12:58:36.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T13:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106005932954300568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1811393690008756225",
+          "start": 3,
+          "username": "_korekuni_ryuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106005932954300568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105995622876881388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_korekuni_ryuji: 哎呀哎呀我想来找回以前互关\n我是三日月物语，叫我物语就好了\n成分:我好想哦滴，我好想割割，精神状态非常美丽之人\n有没有好宝宝愿意帮我转转呀，以下是我乞讨专用码喵❍⩊❍\n查成分互关呀\np1特效化妆喵，人家没有雪兔❍⩊❍ https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105995586977882112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTn_1AxbYAAFXJC.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2105995613158666240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTn_2iTacAAMtCS.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106005932954300568",
+        "created_at": "2026-10-02T12:58:36.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106005932954300568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1811393690008756225",
+              "start": 3,
+              "username": "_korekuni_ryuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106005932954300568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105995622876881388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_korekuni_ryuji: 哎呀哎呀我想来找回以前互关\n我是三日月物语，叫我物语就好了\n成分:我好想哦滴，我好想割割，精神状态非常美丽之人\n有没有好宝宝愿意帮我转转呀，以下是我乞讨专用码喵❍⩊❍\n查成分互关呀\np1特效化妆喵，人家没有雪兔❍⩊❍ https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105995586977882112",
+            "3_2105995613158666240"
+          ]
+        },
+        "author_id": "1811393690008756225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105995622876881388",
+        "created_at": "2026-10-02T12:17:38.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105995622876881388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjEUxfoAEs",
+              "end": 132,
+              "expanded_url": "https://x.com/_korekuni_ryuji/status/2105995622876881388/photo/1",
+              "media_key": "3_2105995586977882112",
+              "start": 109,
+              "url": "https://t.co/UjEUxfoAEs"
+            },
+            {
+              "display_url": "pic.x.com/UjEUxfoAEs",
+              "end": 132,
+              "expanded_url": "https://x.com/_korekuni_ryuji/status/2105995622876881388/photo/1",
+              "media_key": "3_2105995613158666240",
+              "start": 109,
+              "url": "https://t.co/UjEUxfoAEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105995622876881388",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105995586977882112"
+          },
+          {
+            "media_key": "3_2105995613158666240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀哎呀我想来找回以前互关\n我是三日月物语，叫我物语就好了\n成分:我好想哦滴，我好想割割，精神状态非常美丽之人\n有没有好宝宝愿意帮我转转呀，以下是我乞讨专用码喵❍⩊❍\n查成分互关呀\np1特效化妆喵，人家没有雪兔❍⩊❍ https://t.co/UjEUxfoAEs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106005932954300568",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 885,
+          "like_count": 4192,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T13:34:50.000Z",
+        "description": "我是物语\n前世:@Mikatsuki_iryu\n是国竜持と神崎优の夢女子.....\n我没素质，入🚪口令",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "Mikatsuki_iryu"
+              }
+            ]
+          }
+        },
+        "id": "1811393690008756225",
+        "is_identity_verified": false,
+        "location": "Kasukabe-shi, Saitama",
+        "most_recent_tweet_id": "2106005471085953035",
+        "name": "♪物語炸薯條♪🐈‍⬛",
+        "pinned_tweet_id": "2105995622876881388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811393690008756225/1763210288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106002437526196224/QN65Q_T4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 85,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "_korekuni_ryuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

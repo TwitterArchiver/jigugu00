@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105966469351969223",
+    "created_at": "2026-10-02T13:35:34.000Z",
+    "display_text_range": [
+      26,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106015232946733202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685284677605597184",
+          "start": 0,
+          "username": "miiikuhatsure"
+        },
+        {
+          "end": 25,
+          "id": "2053094633044156416",
+          "start": 15,
+          "username": "Jtxccjdbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106015232946733202",
+    "in_reply_to_user_id": "1685284677605597184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106014473882677372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miiikuhatsure @Jtxccjdbb 牛逼了ai进化成这种了吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105966469351969223",
+        "created_at": "2026-10-02T13:35:34.000Z",
+        "display_text_range": [
+          26,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106015232946733202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685284677605597184",
+              "start": 0,
+              "username": "miiikuhatsure"
+            },
+            {
+              "end": 25,
+              "id": "2053094633044156416",
+              "start": 15,
+              "username": "Jtxccjdbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106015232946733202",
+        "in_reply_to_user_id": "1685284677605597184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106014473882677372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miiikuhatsure @Jtxccjdbb 牛逼了ai进化成这种了吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685284677605597184",
+        "conversation_id": "2105966469351969223",
+        "created_at": "2026-10-02T13:32:33.000Z",
+        "display_text_range": [
+          21,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106014473882677372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883117066812882944",
+              "start": 0,
+              "username": "jigugu00"
+            },
+            {
+              "end": 20,
+              "id": "2053094633044156416",
+              "start": 10,
+              "username": "Jtxccjdbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106014473882677372",
+        "in_reply_to_user_id": "1883117066812882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105998442430636130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigugu00 @Jtxccjdbb 这个好像是ai回复"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106015232946733202",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 886,
+          "like_count": 4212,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2141
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-29T13:42:45.000Z",
+        "description": "我们必须想象西西弗斯是幸福的",
+        "id": "1685284677605597184",
+        "is_identity_verified": false,
+        "location": "距離您0.1km",
+        "most_recent_tweet_id": "2106014473882677372",
+        "name": "汽修二班阿拉蕾",
+        "pinned_tweet_id": "2104897699829182642",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084424883040374784/USg7dviT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 446,
+          "like_count": 2292,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1631
+        },
+        "url": "",
+        "username": "miiikuhatsure",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T12:48:23.000Z",
+        "description": "研究AI工具、内容与小生意｜实测工具，拆解项目，整理资源｜公开验证什么能做、怎么做、靠什么变现，现在就是老老实实早日吃到老马的工资。",
+        "id": "2053094633044156416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106013931693371865",
+        "name": "书傲",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053094633044156416/1786781092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089394104312758274/6OV_BE3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 1884,
+          "like_count": 6176,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 7192
+        },
+        "url": "",
+        "username": "Jtxccjdbb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

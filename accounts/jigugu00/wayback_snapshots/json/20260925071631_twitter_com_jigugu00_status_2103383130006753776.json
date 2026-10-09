@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103383130006753776",
+    "created_at": "2026-09-25T07:16:31.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103383130006753776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/divine__nature…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/divine__nature/status/2103254742071959612",
+          "start": 13,
+          "url": "https://t.co/n7pxdep6jk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103383130006753776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103254742071959612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在中国大陆90%不成立。 https://t.co/n7pxdep6jk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 202,
+        "media_key": "16_2101991048486834176",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSvFuMYb0AA0hdk.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSvFuMYb0AA0hdk.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103383130006753776",
+        "created_at": "2026-09-25T07:16:31.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103383130006753776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/divine__nature…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/divine__nature/status/2103254742071959612",
+              "start": 13,
+              "url": "https://t.co/n7pxdep6jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103383130006753776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103254742071959612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在中国大陆90%不成立。 https://t.co/n7pxdep6jk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2101991048486834176"
+          ],
+          "media_source_tweet_id": [
+            "2101991066962706699"
+          ]
+        },
+        "author_id": "1407860507277619201",
+        "conversation_id": "2103254742071959612",
+        "created_at": "2026-09-24T22:46:21.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T23:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103254742071959612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jlr1ow0prd",
+              "end": 62,
+              "expanded_url": "https://x.com/Hamdulah387372/status/2101991066962706699/photo/1",
+              "media_key": "16_2101991048486834176",
+              "start": 39,
+              "url": "https://t.co/Jlr1ow0prd"
+            },
+            {
+              "display_url": "x.com/moonztxrr/stat…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/moonztxrr/status/2102943701752250820",
+              "start": 63,
+              "url": "https://t.co/5NKisotMy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103254742071959612",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2101991048486834176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 772,
+          "impression_count": 715990,
+          "like_count": 36253,
+          "quote_count": 45,
+          "reply_count": 67,
+          "retweet_count": 2798
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102943701752250820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mf that’s called a biological FATHER!\n\nhttps://t.co/Jlr1ow0prd https://t.co/5NKisotMy5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103383130006753776",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 826,
+          "like_count": 3897,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-24T00:38:07.000Z",
+        "description": "how can i lose when i came here with nothing?\n\n💸\n\nifb✌🏽",
+        "id": "1407860507277619201",
+        "is_identity_verified": false,
+        "location": "Rock Top",
+        "most_recent_tweet_id": "2103378280867078192",
+        "name": "divinenature⛰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407860507277619201/1780378815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073844590335975424/fMp7-sUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3827,
+          "following_count": 3854,
+          "like_count": 54501,
+          "listed_count": 3,
+          "media_count": 1395,
+          "tweet_count": 27268
+        },
+        "url": "",
+        "username": "divine__nature",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

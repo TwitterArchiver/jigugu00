@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2107581835522068662",
+    "created_at": "2026-10-06T21:20:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T22:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107581835522068662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2102578115113365506",
+          "start": 3,
+          "username": "Anyhowyyc3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107581835522068662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107528923726655497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anyhowyyc3: 健全人是我这辈子见过最刻薄的群体了，自己家庭美满身心健康就去攻击那群生病的可爱女孩男孩们，自己健康就不允许有懦弱的人吗？不是所有人都和你一样健康呀。还有明明自己以前也生过病或者正在生病但是没严重到去自残的人，明明自己也经历过或正在经历，为什么要这…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2107581835522068662",
+        "created_at": "2026-10-06T21:20:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T22:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107581835522068662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2102578115113365506",
+              "start": 3,
+              "username": "Anyhowyyc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107581835522068662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107528923726655497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anyhowyyc3: 健全人是我这辈子见过最刻薄的群体了，自己家庭美满身心健康就去攻击那群生病的可爱女孩男孩们，自己健康就不允许有懦弱的人吗？不是所有人都和你一样健康呀。还有明明自己以前也生过病或者正在生病但是没严重到去自残的人，明明自己也经历过或正在经历，为什么要这…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102578115113365506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2107528923726655497",
+        "created_at": "2026-10-06T17:50:26.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T18:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107528923726655497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107528923726655497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1539,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "健全人是我这辈子见过最刻薄的群体了，自己家庭美满身心健康就去攻击那群生病的可爱女孩男孩们，自己健康就不允许有懦弱的人吗？不是所有人都和你一样健康呀。还有明明自己以前也生过病或者正在生病但是没严重到去自残的人，明明自己也经历过或正在经历，为什么要这么刻薄？你们太坏了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107581835522068662",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 955,
+          "like_count": 4896,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 2312
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-23T01:58:10.000Z",
+        "description": "当朋友圈发，说话很难听，爱看看不爱看滚",
+        "id": "2102578115113365506",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107580492346171534",
+        "name": "坏死药💊",
+        "pinned_tweet_id": "2104706726935044108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102578115113365506/1790626824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104657056477163520/4HE61g9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 6,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "Anyhowyyc3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

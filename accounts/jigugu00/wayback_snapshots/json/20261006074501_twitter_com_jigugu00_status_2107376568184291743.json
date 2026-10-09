@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2107350078683770880"
+      ],
+      "media_source_tweet_id": [
+        "2107350085671473412"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107376568184291743",
+    "created_at": "2026-10-06T07:45:01.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107376568184291743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816256392195612672",
+          "start": 3,
+          "username": "Leviannatho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AwLpBFsUC7",
+          "end": 48,
+          "expanded_url": "https://x.com/Leviannatho/status/2107350085671473412/photo/1",
+          "media_key": "16_2107350078683770880",
+          "start": 25,
+          "url": "https://t.co/AwLpBFsUC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107376568184291743",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "16_2107350078683770880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107350085671473412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leviannatho: Nya Nya https://t.co/AwLpBFsUC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2107350078683770880",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HT7PuzlWcAA12eV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HT7PuzlWcAA12eV.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2107350078683770880"
+          ],
+          "media_source_tweet_id": [
+            "2107350085671473412"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107376568184291743",
+        "created_at": "2026-10-06T07:45:01.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107376568184291743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816256392195612672",
+              "start": 3,
+              "username": "Leviannatho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwLpBFsUC7",
+              "end": 48,
+              "expanded_url": "https://x.com/Leviannatho/status/2107350085671473412/photo/1",
+              "media_key": "16_2107350078683770880",
+              "start": 25,
+              "url": "https://t.co/AwLpBFsUC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107376568184291743",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "16_2107350078683770880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107350085671473412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leviannatho: Nya Nya https://t.co/AwLpBFsUC7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2107350078683770880"
+          ]
+        },
+        "author_id": "1816256392195612672",
+        "conversation_id": "2107350085671473412",
+        "created_at": "2026-10-06T05:59:47.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107350085671473412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwLpBFsUC7",
+              "end": 31,
+              "expanded_url": "https://x.com/Leviannatho/status/2107350085671473412/photo/1",
+              "media_key": "16_2107350078683770880",
+              "start": 8,
+              "url": "https://t.co/AwLpBFsUC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107350085671473412",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "16_2107350078683770880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 972,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Nya Nya https://t.co/AwLpBFsUC7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107376568184291743",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 921,
+          "like_count": 4629,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T23:37:39.000Z",
+        "description": "humble enjoyer of nso & alst #ilovemybf {Sua, Sayori, Kangel, Mizuki, Miku, Aiko, Aubrey #1 fan ❤️‍🩹!!} @tictactoechamp\n🧬\nhttps://t.co/58blDXOPC4",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 29,
+                "tag": "ilovemybf"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "tictactoechamp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "raincandysimpu.straw.page",
+                "end": 145,
+                "expanded_url": "https://raincandysimpu.straw.page",
+                "start": 122,
+                "url": "https://t.co/58blDXOPC4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/leviannatho",
+                "end": 23,
+                "expanded_url": "https://throne.com/leviannatho",
+                "start": 0,
+                "url": "https://t.co/oPfGiWFgeQ"
+              }
+            ]
+          }
+        },
+        "id": "1816256392195612672",
+        "is_identity_verified": false,
+        "location": "I love my hubby (18) BLESS 🙏",
+        "most_recent_tweet_id": "2107373880977346886",
+        "name": "Ame",
+        "pinned_tweet_id": "2092081282121355408",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816256392195612672/1791094750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100777731789111296/0YOpn_TG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 1580,
+          "like_count": 23471,
+          "listed_count": 11,
+          "media_count": 2446,
+          "tweet_count": 14517
+        },
+        "url": "https://t.co/oPfGiWFgeQ",
+        "username": "Leviannatho",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2103573504473882624"
+      ],
+      "media_source_tweet_id": [
+        "2103573535956283779"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103686889148702966",
+    "created_at": "2026-09-26T03:23:33.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T04:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103686889148702966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4797695573",
+          "start": 3,
+          "username": "chubbidust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iajczlFA0v",
+          "end": 54,
+          "expanded_url": "https://x.com/chubbidust/status/2103573535956283779/photo/1",
+          "media_key": "16_2103573504473882624",
+          "start": 31,
+          "url": "https://t.co/iajczlFA0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103686889148702966",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2103573504473882624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 926
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103573535956283779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chubbidust: birthday puppy https://t.co/iajczlFA0v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2103573504473882624",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTFk9QUW4AAzF_D.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTFk9QUW4AAzF_D.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2103573504473882624"
+          ],
+          "media_source_tweet_id": [
+            "2103573535956283779"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103686889148702966",
+        "created_at": "2026-09-26T03:23:33.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103686889148702966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4797695573",
+              "start": 3,
+              "username": "chubbidust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iajczlFA0v",
+              "end": 54,
+              "expanded_url": "https://x.com/chubbidust/status/2103573535956283779/photo/1",
+              "media_key": "16_2103573504473882624",
+              "start": 31,
+              "url": "https://t.co/iajczlFA0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103686889148702966",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2103573504473882624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 926
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103573535956283779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chubbidust: birthday puppy https://t.co/iajczlFA0v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2103573504473882624"
+          ]
+        },
+        "author_id": "4797695573",
+        "conversation_id": "2103573535956283779",
+        "created_at": "2026-09-25T19:53:08.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103573535956283779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iajczlFA0v",
+              "end": 38,
+              "expanded_url": "https://x.com/chubbidust/status/2103573535956283779/photo/1",
+              "media_key": "16_2103573504473882624",
+              "start": 15,
+              "url": "https://t.co/iajczlFA0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103573535956283779",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2103573504473882624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 793,
+          "impression_count": 37164,
+          "like_count": 6082,
+          "quote_count": 20,
+          "reply_count": 10,
+          "retweet_count": 926
+        },
+        "reply_settings": "everyone",
+        "text": "birthday puppy https://t.co/iajczlFA0v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103686889148702966",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 833,
+          "like_count": 3967,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-13T21:07:44.000Z",
+        "description": "i post here on an increasing delay compared to my other socials.\nfollow me elsewhere.\n\nhttps://t.co/mhdrzElkM7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/chubbidust/shop",
+                "end": 110,
+                "expanded_url": "https://ko-fi.com/chubbidust/shop",
+                "start": 87,
+                "url": "https://t.co/mhdrzElkM7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chubbidust.carrd.co",
+                "end": 23,
+                "expanded_url": "https://chubbidust.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/NSBFkoCZuH"
+              }
+            ]
+          }
+        },
+        "id": "4797695573",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103581411085295634",
+        "name": "chubbidust.bsky.social",
+        "pinned_tweet_id": "2025843716896764060",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4797695573/1776552788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742280938900385792/FYSHEWGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21179,
+          "following_count": 55,
+          "like_count": 631,
+          "listed_count": 52,
+          "media_count": 1351,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/NSBFkoCZuH",
+        "username": "chubbidust",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

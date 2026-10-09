@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107441475730694589",
+    "created_at": "2026-10-06T12:02:56.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T13:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107441475730694589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2099483462709202944",
+          "start": 3,
+          "username": "Chokedepuertas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107441475730694589",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 635
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107236696362189095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chokedepuertas: Si la ves de lejos parece que Mami tiene un pene gigante"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107441475730694589",
+        "created_at": "2026-10-06T12:02:56.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107441475730694589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2099483462709202944",
+              "start": 3,
+              "username": "Chokedepuertas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107441475730694589",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 635
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107236696362189095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chokedepuertas: Si la ves de lejos parece que Mami tiene un pene gigante"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2099483462709202944",
+        "conversation_id": "2107236696362189095",
+        "created_at": "2026-10-05T22:29:13.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T23:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107236696362189095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MrGeyser_/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/MrGeyser_/status/2107215751845445753",
+              "start": 57,
+              "url": "https://t.co/tlaDnUIiYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107236696362189095",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 840,
+          "impression_count": 316460,
+          "like_count": 8701,
+          "quote_count": 52,
+          "reply_count": 52,
+          "retweet_count": 635
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107215751845445753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Si la ves de lejos parece que Mami tiene un pene gigante https://t.co/tlaDnUIiYP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107441475730694589",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 927,
+          "like_count": 4743,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2277
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-14T13:01:48.000Z",
+        "description": "Las puertas chocan",
+        "id": "2099483462709202944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107310832623157440",
+        "name": "Choke de puertas",
+        "pinned_tweet_id": "2102912809864397176",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2099483462709202944/1789901320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102488098286243840/O3UPOIvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 48,
+          "like_count": 735,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "Chokedepuertas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

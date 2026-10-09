@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103452462485032961"
+      ],
+      "media_source_tweet_id": [
+        "2103452610640687440"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103704797711155563",
+    "created_at": "2026-09-26T04:34:43.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T05:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103704797711155563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1551261351347109888",
+          "start": 3,
+          "username": "TheBestqueenx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WRnevkchfK",
+          "end": 45,
+          "expanded_url": "https://x.com/TheBestqueenx/status/2103452610640687440/photo/1",
+          "media_key": "3_2103452462485032961",
+          "start": 22,
+          "url": "https://t.co/WRnevkchfK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103704797711155563",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2103452462485032961"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1800
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103452610640687440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheBestqueenx: 👏👏 https://t.co/WRnevkchfK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2103452462485032961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTD23rxXUAEZmya.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103452462485032961"
+          ],
+          "media_source_tweet_id": [
+            "2103452610640687440"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103704797711155563",
+        "created_at": "2026-09-26T04:34:43.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103704797711155563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1551261351347109888",
+              "start": 3,
+              "username": "TheBestqueenx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRnevkchfK",
+              "end": 45,
+              "expanded_url": "https://x.com/TheBestqueenx/status/2103452610640687440/photo/1",
+              "media_key": "3_2103452462485032961",
+              "start": 22,
+              "url": "https://t.co/WRnevkchfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103704797711155563",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103452462485032961"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1800
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103452610640687440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheBestqueenx: 👏👏 https://t.co/WRnevkchfK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103452462485032961"
+          ]
+        },
+        "author_id": "1551261351347109888",
+        "conversation_id": "2103452610640687440",
+        "created_at": "2026-09-25T11:52:37.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103452610640687440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRnevkchfK",
+              "end": 26,
+              "expanded_url": "https://x.com/TheBestqueenx/status/2103452610640687440/photo/1",
+              "media_key": "3_2103452462485032961",
+              "start": 3,
+              "url": "https://t.co/WRnevkchfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103452610640687440",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103452462485032961"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 779,
+          "impression_count": 361709,
+          "like_count": 22621,
+          "quote_count": 155,
+          "reply_count": 83,
+          "retweet_count": 1800
+        },
+        "reply_settings": "everyone",
+        "text": "👏👏 https://t.co/WRnevkchfK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103704797711155563",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 835,
+          "like_count": 3989,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2015
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-24T17:41:50.000Z",
+        "description": "Female / Old viral  content....",
+        "id": "1551261351347109888",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103651175233180049",
+        "name": "The Best",
+        "pinned_tweet_id": "2102488174371197238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551261351347109888/1779574110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058035682791112706/GRcIaeHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286450,
+          "following_count": 1,
+          "like_count": 12921,
+          "listed_count": 7043,
+          "media_count": 7594,
+          "tweet_count": 9158
+        },
+        "url": "",
+        "username": "TheBestqueenx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

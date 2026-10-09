@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103753753249845574",
+    "created_at": "2026-09-26T07:49:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T08:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103753753249845574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1891959393119502336",
+          "start": 3,
+          "username": "namiindustrial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103753753249845574",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1558
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103489889509781722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @namiindustrial: yo no entiendo cual es el problema de eliminar el síndrome de down. cual es el problema de eliminar una discapacidad? u…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103753753249845574",
+        "created_at": "2026-09-26T07:49:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103753753249845574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1891959393119502336",
+              "start": 3,
+              "username": "namiindustrial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103753753249845574",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1558
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103489889509781722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @namiindustrial: yo no entiendo cual es el problema de eliminar el síndrome de down. cual es el problema de eliminar una discapacidad? u…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891959393119502336",
+        "conversation_id": "2103489889509781722",
+        "created_at": "2026-09-25T14:20:45.000Z",
+        "display_text_range": [
+          0,
+          186
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103489889509781722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/euvitin0/statu…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/euvitin0/status/2103353054598738141",
+              "start": 187,
+              "url": "https://t.co/rrxacrPvyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103489889509781722",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 514,
+          "impression_count": 357294,
+          "like_count": 28140,
+          "quote_count": 27,
+          "reply_count": 147,
+          "retweet_count": 1558
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103353054598738141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yo no entiendo cual es el problema de eliminar el síndrome de down. cual es el problema de eliminar una discapacidad? un dia de estos van a encontrar la cura del cancer y se van a quejar https://t.co/rrxacrPvyD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103753753249845574",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 833,
+          "like_count": 4011,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2027
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T21:14:13.000Z",
+        "description": "culoncita multicolor",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zama.ismael?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zama.ismael?igsh=aXE0bGc3ZHRwMnFz&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/16G0mWR94B"
+              }
+            ]
+          }
+        },
+        "id": "1891959393119502336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103748202323144773",
+        "name": "chami",
+        "pinned_tweet_id": "2078961279104889083",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891959393119502336/1762899450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008425852757749760/J0ROZsgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10092,
+          "following_count": 342,
+          "like_count": 84524,
+          "listed_count": 2,
+          "media_count": 856,
+          "tweet_count": 14569
+        },
+        "url": "https://t.co/16G0mWR94B",
+        "username": "namiindustrial",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

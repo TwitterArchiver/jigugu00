@@ -1,0 +1,831 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105621680429109248",
+        "3_2105621693527949312"
+      ],
+      "media_source_tweet_id": [
+        "2105621703363629416",
+        "2105621703363629416"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2106009052795019665",
+    "created_at": "2026-10-02T13:11:00.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106009052795019665"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 34,
+          "tag": "我炸死了你们两个的妈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2097186732127248384",
+          "start": 3,
+          "username": "Yuki114514_DXM"
+        },
+        {
+          "end": 22,
+          "id": "783214",
+          "start": 20,
+          "username": "X"
+        },
+        {
+          "end": 32,
+          "id": "44196397",
+          "start": 23,
+          "username": "elonmusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZhBfkV0KT",
+          "end": 69,
+          "expanded_url": "https://x.com/Yuki114514_DXM/status/2105621703363629416/photo/1",
+          "media_key": "3_2105621680429109248",
+          "start": 46,
+          "url": "https://t.co/LZhBfkV0KT"
+        },
+        {
+          "display_url": "pic.x.com/LZhBfkV0KT",
+          "end": 69,
+          "expanded_url": "https://x.com/Yuki114514_DXM/status/2105621703363629416/photo/1",
+          "media_key": "3_2105621693527949312",
+          "start": 46,
+          "url": "https://t.co/LZhBfkV0KT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106009052795019665",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2105621680429109248"
+      },
+      {
+        "media_key": "3_2105621693527949312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105621703363629416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki114514_DXM: @X @elonmusk  #我炸死了你们两个的妈 https://t.co/LZhBfkV0KT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2677,
+        "media_key": "3_2105621680429109248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTirwyVWkAAOaqF.jpg",
+        "width": 1837
+      },
+      {
+        "height": 2497,
+        "media_key": "3_2105621693527949312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTirxjIXAAAHk4c.jpg",
+        "width": 1841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105621680429109248",
+            "3_2105621693527949312"
+          ],
+          "media_source_tweet_id": [
+            "2105621703363629416",
+            "2105621703363629416"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2106009052795019665",
+        "created_at": "2026-10-02T13:11:00.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106009052795019665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 34,
+              "tag": "我炸死了你们两个的妈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2097186732127248384",
+              "start": 3,
+              "username": "Yuki114514_DXM"
+            },
+            {
+              "end": 22,
+              "id": "783214",
+              "start": 20,
+              "username": "X"
+            },
+            {
+              "end": 32,
+              "id": "44196397",
+              "start": 23,
+              "username": "elonmusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZhBfkV0KT",
+              "end": 69,
+              "expanded_url": "https://x.com/Yuki114514_DXM/status/2105621703363629416/photo/1",
+              "media_key": "3_2105621680429109248",
+              "start": 46,
+              "url": "https://t.co/LZhBfkV0KT"
+            },
+            {
+              "display_url": "pic.x.com/LZhBfkV0KT",
+              "end": 69,
+              "expanded_url": "https://x.com/Yuki114514_DXM/status/2105621703363629416/photo/1",
+              "media_key": "3_2105621693527949312",
+              "start": 46,
+              "url": "https://t.co/LZhBfkV0KT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106009052795019665",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2105621680429109248"
+          },
+          {
+            "media_key": "3_2105621693527949312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105621703363629416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki114514_DXM: @X @elonmusk  #我炸死了你们两个的妈 https://t.co/LZhBfkV0KT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105621680429109248",
+            "3_2105621693527949312"
+          ]
+        },
+        "author_id": "2097186732127248384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2105621703363629416",
+        "created_at": "2026-10-01T11:31:49.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105621703363629416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "我炸死了你们两个的妈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 2,
+              "id": "783214",
+              "start": 0,
+              "username": "X"
+            },
+            {
+              "end": 12,
+              "id": "44196397",
+              "start": 3,
+              "username": "elonmusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZhBfkV0KT",
+              "end": 49,
+              "expanded_url": "https://x.com/Yuki114514_DXM/status/2105621703363629416/photo/1",
+              "media_key": "3_2105621680429109248",
+              "start": 26,
+              "url": "https://t.co/LZhBfkV0KT"
+            },
+            {
+              "display_url": "pic.x.com/LZhBfkV0KT",
+              "end": 49,
+              "expanded_url": "https://x.com/Yuki114514_DXM/status/2105621703363629416/photo/1",
+              "media_key": "3_2105621693527949312",
+              "start": 26,
+              "url": "https://t.co/LZhBfkV0KT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105621703363629416",
+        "in_reply_to_user_id": "783214",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2105621680429109248"
+          },
+          {
+            "media_key": "3_2105621693527949312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 849,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@X @elonmusk  #我炸死了你们两个的妈 https://t.co/LZhBfkV0KT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106009052795019665",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 886,
+          "like_count": 4198,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-08T04:54:49.000Z",
+        "description": "8.0 /此号静默中/示我以真\n策@Cecey33 @Yuki1161_IC26 @Yuki3Mepcpy的附庸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "Cecey33"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yuki1161_IC26"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Yuki3Mepcpy"
+              }
+            ]
+          }
+        },
+        "id": "2097186732127248384",
+        "is_identity_verified": false,
+        "location": "杉之宫区 北校 C栋天台",
+        "most_recent_tweet_id": "2105843393926410532",
+        "name": "岐⁸",
+        "pinned_tweet_id": "2100150644942250469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097186732127248384/1789393810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100137736669675520/W1v-9w9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 91,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "Yuki114514_DXM",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "is_identity_verified": false,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2104625899815714883",
+        "name": "X",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1690175171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60731180,
+          "following_count": 1,
+          "like_count": 5969,
+          "listed_count": 85145,
+          "media_count": 2492,
+          "tweet_count": 15722
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "https://t.co/ZdBx5WABYx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Terafab.AI",
+                "end": 23,
+                "expanded_url": "http://Terafab.AI",
+                "start": 0,
+                "url": "https://t.co/ZdBx5WABYx"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105941530246787259",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2105718806769512812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1774145451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241726059,
+          "following_count": 1414,
+          "like_count": 250396,
+          "listed_count": 170724,
+          "media_count": 4727,
+          "tweet_count": 109355
+        },
+        "url": "",
+        "username": "elonmusk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

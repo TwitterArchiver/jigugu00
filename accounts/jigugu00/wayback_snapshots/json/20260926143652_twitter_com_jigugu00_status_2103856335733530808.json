@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103855040196915200",
+        "3_2103855040205365248"
+      ],
+      "media_source_tweet_id": [
+        "2103855052595343630",
+        "2103855052595343630"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103856335733530808",
+    "created_at": "2026-09-26T14:36:52.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103856335733530808"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 72,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 97,
+          "start": 85,
+          "tag": "病み垢男子と繋がりたい"
+        },
+        {
+          "end": 110,
+          "start": 98,
+          "tag": "病み垢女子と繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031135838755762177",
+          "start": 3,
+          "username": "yua___09_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/liLJSTWCai",
+          "end": 134,
+          "expanded_url": "https://x.com/yua___09_/status/2103855052595343630/photo/1",
+          "media_key": "3_2103855040196915200",
+          "start": 111,
+          "url": "https://t.co/liLJSTWCai"
+        },
+        {
+          "display_url": "pic.x.com/liLJSTWCai",
+          "end": 134,
+          "expanded_url": "https://x.com/yua___09_/status/2103855052595343630/photo/1",
+          "media_key": "3_2103855040205365248",
+          "start": 111,
+          "url": "https://t.co/liLJSTWCai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103856335733530808",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103855040196915200"
+      },
+      {
+        "media_key": "3_2103855040205365248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103855052595343630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yua___09_: Tag🏷️\n\n沢山助けてくれる人とか話してくれる人\n\n09┊︎︎︎♀┊︎鬱┊︎自傷┊︎依存┊︎\n\n仲良くなろー\n\n#病み垢さんと繋がりたい\n#病み垢男子と繋がりたい\n#病み垢女子と繋がりたい https://t.co/liLJSTWCai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 428,
+        "media_key": "3_2103855040196915200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJlAynaMAAMtEO.jpg",
+        "width": 308
+      },
+      {
+        "height": 796,
+        "media_key": "3_2103855040205365248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJlAypbIAA6MlL.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103855040196915200",
+            "3_2103855040205365248"
+          ],
+          "media_source_tweet_id": [
+            "2103855052595343630",
+            "2103855052595343630"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103856335733530808",
+        "created_at": "2026-09-26T14:36:52.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103856335733530808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 72,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 97,
+              "start": 85,
+              "tag": "病み垢男子と繋がりたい"
+            },
+            {
+              "end": 110,
+              "start": 98,
+              "tag": "病み垢女子と繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031135838755762177",
+              "start": 3,
+              "username": "yua___09_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/liLJSTWCai",
+              "end": 134,
+              "expanded_url": "https://x.com/yua___09_/status/2103855052595343630/photo/1",
+              "media_key": "3_2103855040196915200",
+              "start": 111,
+              "url": "https://t.co/liLJSTWCai"
+            },
+            {
+              "display_url": "pic.x.com/liLJSTWCai",
+              "end": 134,
+              "expanded_url": "https://x.com/yua___09_/status/2103855052595343630/photo/1",
+              "media_key": "3_2103855040205365248",
+              "start": 111,
+              "url": "https://t.co/liLJSTWCai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103856335733530808",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103855040196915200"
+          },
+          {
+            "media_key": "3_2103855040205365248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103855052595343630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yua___09_: Tag🏷️\n\n沢山助けてくれる人とか話してくれる人\n\n09┊︎︎︎♀┊︎鬱┊︎自傷┊︎依存┊︎\n\n仲良くなろー\n\n#病み垢さんと繋がりたい\n#病み垢男子と繋がりたい\n#病み垢女子と繋がりたい https://t.co/liLJSTWCai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103855040196915200",
+            "3_2103855040205365248"
+          ]
+        },
+        "author_id": "2031135838755762177",
+        "conversation_id": "2103855052595343630",
+        "created_at": "2026-09-26T14:31:46.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103855052595343630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 57,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 82,
+              "start": 70,
+              "tag": "病み垢男子と繋がりたい"
+            },
+            {
+              "end": 95,
+              "start": 83,
+              "tag": "病み垢女子と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/liLJSTWCai",
+              "end": 119,
+              "expanded_url": "https://x.com/yua___09_/status/2103855052595343630/photo/1",
+              "media_key": "3_2103855040196915200",
+              "start": 96,
+              "url": "https://t.co/liLJSTWCai"
+            },
+            {
+              "display_url": "pic.x.com/liLJSTWCai",
+              "end": 119,
+              "expanded_url": "https://x.com/yua___09_/status/2103855052595343630/photo/1",
+              "media_key": "3_2103855040205365248",
+              "start": 96,
+              "url": "https://t.co/liLJSTWCai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103855052595343630",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103855040196915200"
+          },
+          {
+            "media_key": "3_2103855040205365248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Tag🏷️\n\n沢山助けてくれる人とか話してくれる人\n\n09┊︎︎︎♀┊︎鬱┊︎自傷┊︎依存┊︎\n\n仲良くなろー\n\n#病み垢さんと繋がりたい\n#病み垢男子と繋がりたい\n#病み垢女子と繋がりたい https://t.co/liLJSTWCai"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103856347083423917",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 840,
+          "like_count": 4076,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-09T22:32:57.000Z",
+        "description": "18⤵︎￤🚺￤関東￤\n気分屋￤下ネタ△￤コンカフェ\n話しかけてくれる人すき",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qr.paypay.ne.jp/p2p01_zlfiqL9Z…",
+                "end": 23,
+                "expanded_url": "https://qr.paypay.ne.jp/p2p01_zlfiqL9ZrZRGdXqA",
+                "start": 0,
+                "url": "https://t.co/hSufHoK4Pc"
+              }
+            ]
+          }
+        },
+        "id": "2031135838755762177",
+        "is_identity_verified": false,
+        "location": "返信めちゃ遅め",
+        "most_recent_tweet_id": "2103856234793472496",
+        "name": "ゆあ",
+        "pinned_tweet_id": "2103855052595343630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031135838755762177/1790229024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031136811217727490/0hicuYxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 1424,
+          "like_count": 497,
+          "listed_count": 10,
+          "media_count": 2,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/hSufHoK4Pc",
+        "username": "yua___09_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107369630746714239",
+    "created_at": "2026-10-06T07:17:27.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107369630746714239"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "互关"
+        },
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "交朋友"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "蓝V"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "互动"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1818029389193560066",
+          "start": 3,
+          "username": "TianAnMen89_64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107369630746714239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107339408592851406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TianAnMen89_64: 截至目前\n所有已经关注我的朋友\n都已经收到了我的回关\n继续出发交朋友\n#互关 #交朋友 #蓝V #互动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107369630746714239",
+        "created_at": "2026-10-06T07:17:27.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107369630746714239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "互关"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "交朋友"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "蓝V"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "互动"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1818029389193560066",
+              "start": 3,
+              "username": "TianAnMen89_64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107369630746714239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107339408592851406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TianAnMen89_64: 截至目前\n所有已经关注我的朋友\n都已经收到了我的回关\n继续出发交朋友\n#互关 #交朋友 #蓝V #互动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818029389193560066",
+        "conversation_id": "2107339408592851406",
+        "created_at": "2026-10-06T05:17:22.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107339408592851406"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "互关"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "交朋友"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "蓝V"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "互动"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107339408592851406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "截至目前\n所有已经关注我的朋友\n都已经收到了我的回关\n继续出发交朋友\n#互关 #交朋友 #蓝V #互动"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107369630746714239",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 922,
+          "like_count": 4554,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2235
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-29T21:03:12.000Z",
+        "description": "键政，支黑，无业游民，oder，†ʚ pr♡yyds ɞ†，†♡pregabalin♡†\n欢迎同类找我聊天，看成分互fo，\n新建了一个Telegram闲聊群，欢迎加入一起聊天～https://t.co/oxJvQFvY6L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xian_liao_qun_1",
+                "end": 111,
+                "expanded_url": "https://t.me/xian_liao_qun_1",
+                "start": 88,
+                "url": "https://t.co/oxJvQFvY6L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xian_liao_qun_1",
+                "end": 23,
+                "expanded_url": "https://t.me/xian_liao_qun_1",
+                "start": 0,
+                "url": "https://t.co/oxJvQFvY6L"
+              }
+            ]
+          }
+        },
+        "id": "1818029389193560066",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107340590648303982",
+        "name": "WangYi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948954420710105088/1J6_3HZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 574,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/oxJvQFvY6L",
+        "username": "TianAnMen89_64",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107438756672487545",
+    "created_at": "2026-10-06T11:52:08.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107438756672487545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zzz_error_3/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Zzz_error_3/status/2107436551156400487",
+          "start": 6,
+          "url": "https://t.co/oIC0c3KWFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107438756672487545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107436551156400487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性别为毒品 https://t.co/oIC0c3KWFs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107438756672487545",
+        "created_at": "2026-10-06T11:52:08.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107438756672487545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zzz_error_3/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Zzz_error_3/status/2107436551156400487",
+              "start": 6,
+              "url": "https://t.co/oIC0c3KWFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107438756672487545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107436551156400487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别为毒品 https://t.co/oIC0c3KWFs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102942225630113792",
+        "conversation_id": "2107436551156400487",
+        "created_at": "2026-10-06T11:43:22.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107436551156400487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ch95032580/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ch95032580/status/2107090761418510797",
+              "start": 6,
+              "url": "https://t.co/jRMgY5HMiB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107436551156400487",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107090761418510797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性別為白兔 https://t.co/jRMgY5HMiB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107438756672487545",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 927,
+          "like_count": 4728,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2269
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-24T02:05:33.000Z",
+        "description": "07｜💊｜雙向 重鬱 重焦 ADHD OCD｜查成分互fo\n\n@Zzz_c202_2 備用帳號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Zzz_c202_2"
+              }
+            ]
+          }
+        },
+        "id": "2102942225630113792",
+        "is_identity_verified": false,
+        "location": "台灣中部",
+        "most_recent_tweet_id": "2107436551156400487",
+        "name": "Zzz ERROR",
+        "pinned_tweet_id": "2103148353668469108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102942225630113792/1790215759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102942830641684480/SiW_yP1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 87,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "Zzz_error_3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

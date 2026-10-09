@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107100826733092864"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107100838170951931",
+    "created_at": "2026-10-05T13:29:22.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T14:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107100838170951931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/945EwI9qrC",
+          "end": 51,
+          "expanded_url": "https://x.com/jigugu00/status/2107100838170951931/photo/1",
+          "media_key": "3_2107100826733092864",
+          "start": 28,
+          "url": "https://t.co/945EwI9qrC"
+        },
+        {
+          "display_url": "x.com/jigugu00/statu…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/jigugu00/status/2106723378556211455",
+          "start": 52,
+          "url": "https://t.co/Te0moTa7Mn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107100838170951931",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107100826733092864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106723378556211455",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这集真是医学用量了宝宝们。尝试一下字母数字150mg。 https://t.co/945EwI9qrC https://t.co/Te0moTa7Mn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2107100826733092864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT3tCbtboAAjCFA.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107100826733092864"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107100838170951931",
+        "created_at": "2026-10-05T13:29:22.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107100838170951931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/945EwI9qrC",
+              "end": 51,
+              "expanded_url": "https://x.com/jigugu00/status/2107100838170951931/photo/1",
+              "media_key": "3_2107100826733092864",
+              "start": 28,
+              "url": "https://t.co/945EwI9qrC"
+            },
+            {
+              "display_url": "x.com/jigugu00/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/jigugu00/status/2106723378556211455",
+              "start": 52,
+              "url": "https://t.co/Te0moTa7Mn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107100838170951931",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107100826733092864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106723378556211455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这集真是医学用量了宝宝们。尝试一下字母数字150mg。 https://t.co/945EwI9qrC https://t.co/Te0moTa7Mn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106356547169452043",
+        "created_at": "2026-10-04T12:29:29.000Z",
+        "display_text_range": [
+          11,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106723378556211455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091692877491716096",
+              "start": 0,
+              "username": "Raiiin_J7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106723378556211455",
+        "in_reply_to_user_id": "2091692877491716096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106698951881846929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raiiin_J7 今天中午去看医生人家医生说我可能是神经痛还是啥的我还以为能开字母数字结果啥都没开空欢喜。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107100838170951931",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 922,
+          "like_count": 4505,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T01:21:28.000Z",
+        "description": "前世@Rian_qi7（RIP）\n已确诊:难治性OCD|重度MDD|轻度焦虑|重度睡眠障碍\n💊🚬 ，自学药理学与哲学中…6g Pr+33度白酒+4.4mg阿普幸存玩家\n 前卫/迷幻/独立摇滚|术力口|社恐向|哲学|AGC|泛性向|友跨|药理学\n会查成分互fo哦\n（可以叫我霁/雨齐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Rian_qi7"
+              }
+            ]
+          }
+        },
+        "id": "2091692877491716096",
+        "is_identity_verified": false,
+        "location": "人間（烂透了）",
+        "most_recent_tweet_id": "2107099808108630263",
+        "name": "霽🌈⃤",
+        "pinned_tweet_id": "2106679550893785410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091692877491716096/1791054622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106679980910678016/WYuX-wSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 149,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "Raiiin_J7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

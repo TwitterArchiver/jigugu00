@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106299306970161152"
+      ],
+      "media_source_tweet_id": [
+        "2106299330730881366"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107391399775855081",
+    "created_at": "2026-10-06T08:43:57.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107391399775855081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2105286842975420417",
+          "start": 3,
+          "username": "kyuceya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eiEzfMMCFi",
+          "end": 59,
+          "expanded_url": "https://x.com/filer0040/status/2106299330730881366/video/1",
+          "media_key": "13_2106299306970161152",
+          "start": 36,
+          "url": "https://t.co/eiEzfMMCFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107391399775855081",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2106299306970161152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 964
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107102089486983613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyuceya: how I feel after I eat https://t.co/eiEzfMMCFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 576,
+        "media_key": "13_2106299306970161152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106299306970161152/img/dAxEvRPhrlDtUxEH.jpg",
+        "public_metrics": {
+          "view_count": 1139988
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106299306970161152/vid/avc1/320x320/KoilbBvjRxBU98sQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106299306970161152/vid/avc1/576x576/jYoU62pBAuovzuH1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106299306970161152/pl/1fAfwM-Lq3FJdBw2.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106299306970161152"
+          ],
+          "media_source_tweet_id": [
+            "2106299330730881366"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107391399775855081",
+        "created_at": "2026-10-06T08:43:57.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107391399775855081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2105286842975420417",
+              "start": 3,
+              "username": "kyuceya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiEzfMMCFi",
+              "end": 59,
+              "expanded_url": "https://x.com/filer0040/status/2106299330730881366/video/1",
+              "media_key": "13_2106299306970161152",
+              "start": 36,
+              "url": "https://t.co/eiEzfMMCFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107391399775855081",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106299306970161152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 964
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107102089486983613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyuceya: how I feel after I eat https://t.co/eiEzfMMCFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106299306970161152"
+          ],
+          "media_source_tweet_id": [
+            "2106299330730881366"
+          ]
+        },
+        "author_id": "2105286842975420417",
+        "conversation_id": "2107102089486983613",
+        "created_at": "2026-10-05T13:34:20.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107102089486983613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiEzfMMCFi",
+              "end": 46,
+              "expanded_url": "https://x.com/filer0040/status/2106299330730881366/video/1",
+              "media_key": "13_2106299306970161152",
+              "start": 23,
+              "url": "https://t.co/eiEzfMMCFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107102089486983613",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106299306970161152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 88673,
+          "like_count": 4471,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 964
+        },
+        "reply_settings": "everyone",
+        "text": "how I feel after I eat https://t.co/eiEzfMMCFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106299306970161152"
+          ]
+        },
+        "author_id": "1613864465195503616",
+        "conversation_id": "2106299330730881366",
+        "created_at": "2026-10-03T08:24:28.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106299330730881366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3pIiNiALoD",
+              "end": 23,
+              "expanded_url": "https://x.com/filer0040/status/2106299330730881366/video/1",
+              "media_key": "13_2106299306970161152",
+              "start": 0,
+              "url": "https://t.co/3pIiNiALoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106299330730881366",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2106299306970161152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4138,
+          "impression_count": 1840112,
+          "like_count": 42951,
+          "quote_count": 500,
+          "reply_count": 247,
+          "retweet_count": 5813
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3pIiNiALoD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107391399775855081",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 921,
+          "like_count": 4663,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-30T13:23:36.000Z",
+        "description": "#OkayTwt spam tweet n pray for the best ~ ilmbf♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "OkayTwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyberkiss.straw.page",
+                "end": 23,
+                "expanded_url": "https://cyberkiss.straw.page",
+                "start": 0,
+                "url": "https://t.co/inNFWcRTFV"
+              }
+            ]
+          }
+        },
+        "id": "2105286842975420417",
+        "is_identity_verified": false,
+        "location": "I loaf chuuya😭♡♡iblock freely",
+        "most_recent_tweet_id": "2107361236866498993",
+        "name": "kchuuya of 👌twt",
+        "pinned_tweet_id": "2105483721591951621",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2105286842975420417/1790775235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105289820964802560/86AR58l8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 278,
+          "like_count": 1352,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/inNFWcRTFV",
+        "username": "kyuceya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

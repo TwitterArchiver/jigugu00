@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103855694290223515",
+    "created_at": "2026-09-26T15:05:03.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103863428310081576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031135838755762177",
+          "start": 0,
+          "username": "yua___09_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103863428310081576",
+    "in_reply_to_user_id": "2031135838755762177",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103855694290223515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yua___09_ nooooooo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103855694290223515",
+        "created_at": "2026-09-26T15:05:03.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103863428310081576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031135838755762177",
+              "start": 0,
+              "username": "yua___09_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103863428310081576",
+        "in_reply_to_user_id": "2031135838755762177",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103855694290223515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yua___09_ nooooooo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031135838755762177",
+        "conversation_id": "2103855694290223515",
+        "created_at": "2026-09-26T14:34:19.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103855694290223515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103855694290223515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "しにます今月で多分"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103863428310081576",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 840,
+          "like_count": 4089,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2070
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-09T22:32:57.000Z",
+        "description": "18⤵︎￤🚺￤関東￤\n気分屋￤下ネタ△￤コンカフェ\n話しかけてくれる人すき",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qr.paypay.ne.jp/p2p01_zlfiqL9Z…",
+                "end": 23,
+                "expanded_url": "https://qr.paypay.ne.jp/p2p01_zlfiqL9ZrZRGdXqA",
+                "start": 0,
+                "url": "https://t.co/hSufHoK4Pc"
+              }
+            ]
+          }
+        },
+        "id": "2031135838755762177",
+        "is_identity_verified": false,
+        "location": "返信めちゃ遅め",
+        "most_recent_tweet_id": "2103856234793472496",
+        "name": "ゆあ",
+        "pinned_tweet_id": "2103855052595343630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031135838755762177/1790229024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031136811217727490/0hicuYxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 1423,
+          "like_count": 497,
+          "listed_count": 10,
+          "media_count": 2,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/hSufHoK4Pc",
+        "username": "yua___09_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

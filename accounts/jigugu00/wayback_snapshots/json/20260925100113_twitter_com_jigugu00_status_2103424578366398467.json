@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103223317066895360"
+      ],
+      "media_source_tweet_id": [
+        "2103223322771354065"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103424578366398467",
+    "created_at": "2026-09-25T10:01:13.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T11:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103424578366398467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1471414739880189955",
+          "start": 3,
+          "username": "kirawontmiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UcgS0oOh6c",
+          "end": 43,
+          "expanded_url": "https://x.com/kirawontmiss/status/2103223322771354065/photo/1",
+          "media_key": "3_2103223317066895360",
+          "start": 20,
+          "url": "https://t.co/UcgS0oOh6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103424578366398467",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2103223317066895360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1618
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103223322771354065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirawontmiss: - https://t.co/UcgS0oOh6c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2103223317066895360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTAmdqkXUAAmFJ4.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103223317066895360"
+          ],
+          "media_source_tweet_id": [
+            "2103223322771354065"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103424578366398467",
+        "created_at": "2026-09-25T10:01:13.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103424578366398467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471414739880189955",
+              "start": 3,
+              "username": "kirawontmiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcgS0oOh6c",
+              "end": 43,
+              "expanded_url": "https://x.com/kirawontmiss/status/2103223322771354065/photo/1",
+              "media_key": "3_2103223317066895360",
+              "start": 20,
+              "url": "https://t.co/UcgS0oOh6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103424578366398467",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103223317066895360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1618
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103223322771354065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirawontmiss: - https://t.co/UcgS0oOh6c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103223317066895360"
+          ]
+        },
+        "author_id": "1471414739880189955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103223322771354065",
+        "created_at": "2026-09-24T20:41:30.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T21:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103223322771354065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcgS0oOh6c",
+              "end": 25,
+              "expanded_url": "https://x.com/kirawontmiss/status/2103223322771354065/photo/1",
+              "media_key": "3_2103223317066895360",
+              "start": 2,
+              "url": "https://t.co/UcgS0oOh6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103223322771354065",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103223317066895360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 667,
+          "impression_count": 225692,
+          "like_count": 24945,
+          "quote_count": 40,
+          "reply_count": 47,
+          "retweet_count": 1618
+        },
+        "reply_settings": "everyone",
+        "text": "- https://t.co/UcgS0oOh6c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103424578366398467",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 829,
+          "like_count": 3926,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1982
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T09:40:12.000Z",
+        "description": "a self-proclaimed free thinker •    • Sponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "rainbetcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kiradontmiss",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kiradontmiss",
+                "start": 0,
+                "url": "https://t.co/XBrjAFVZOC"
+              }
+            ]
+          }
+        },
+        "id": "1471414739880189955",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103333968632324393",
+        "name": "kira 👾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471414739880189955/1664469978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636443983990669326/xm-YehdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283034,
+          "following_count": 1577,
+          "like_count": 34549,
+          "listed_count": 4764,
+          "media_count": 12411,
+          "tweet_count": 28883
+        },
+        "url": "https://t.co/XBrjAFVZOC",
+        "username": "kirawontmiss",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

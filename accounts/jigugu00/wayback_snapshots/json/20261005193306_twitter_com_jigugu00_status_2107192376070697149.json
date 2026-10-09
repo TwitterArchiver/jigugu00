@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107192376070697149",
+    "created_at": "2026-10-05T19:33:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T20:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107192376070697149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2033549131797733376",
+          "start": 3,
+          "username": "nini_incrypto_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107192376070697149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 671
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106787789299929231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nini_incrypto_: 突然意识到一个非常细思极恐的事情，就是语言的边界就是思想的边界。\n\n比如举个例子，英语当中并没有像“孝顺”这个词一样高频、浓缩并且明确带有道德评价的词。在英文语境当中常常表达的就只有love and care，而中文里的“孝顺”是用“孝”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107192376070697149",
+        "created_at": "2026-10-05T19:33:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T20:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107192376070697149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2033549131797733376",
+              "start": 3,
+              "username": "nini_incrypto_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107192376070697149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 671
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106787789299929231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nini_incrypto_: 突然意识到一个非常细思极恐的事情，就是语言的边界就是思想的边界。\n\n比如举个例子，英语当中并没有像“孝顺”这个词一样高频、浓缩并且明确带有道德评价的词。在英文语境当中常常表达的就只有love and care，而中文里的“孝顺”是用“孝”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033549131797733376",
+        "conversation_id": "2106787789299929231",
+        "created_at": "2026-10-04T16:45:25.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106787789299929231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106787789299929231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "突然意识到一个非常细思极恐的事情，就是语言的边界就是思想的边界。\n\n比如举个例子，英语当中并没有像“孝顺”这个词一样高频、浓缩并且明确带有道德评价的词。在英文语境当中常常表达的就只有love and care，而中文里的“孝顺”是用“孝”和“顺”组成，它把爱、照顾、服从、责任、牺牲全部都浓缩成一个词。\n\n也就是说一个人可以很爱父母，愿意照顾自己的父母，但是如果他没有听父母的安排，没有听父母所说的话，就会被道德评价为不孝或者是逆子。\n\n再比如“早恋”这个词，英文当中并没有早恋对应的词，可能有first love或者puppy love，但是都是一种非常可爱的、稚嫩的、青春的感觉。但是“早恋”核心修辞语是“早”，也就说已经默认存在了一个正确的恋爱时间表。\n\n在某个年龄之前产生亲密这件事情首先就被定义成为了发生的太早，所以可以看到中英文语境下对于一件事情采取了完全不一样的命名视角。\n\n为什么需要专门创造一个带有时间违规意味的词去命名青少年那种美好的、稚嫩的亲密关系？也很少说早有情、早梦想、早独立、早竞争。\n\n一个十四岁的孩子拼命的上学、学习，大家可能会说这孩子有上进心。那十四岁开始思考未来会说成熟，如果十四岁开始喜欢上了另一个人就突然出现一种专门的词叫早恋，这就意味着一套语言系统背后藏着一个关于制度性的时间表。\n\n什么时候应该学习？什么年龄段可以恋爱？什么年龄可以结婚？什么年龄应该生孩子？我用语言帮你定义，如果你太早就叫早恋，你太晚你又变成了剩女。你会发现两个看似相反的词，它的本质的、底层的逻辑是完全一致的，就是社会在替我们规定人生的正确时钟是什么。\n\n同样的中文当中也有一个非常容易混淆的词，我经常在小学语文生字听写、词语听写的时候我经常会混淆。但是如果看英文当中的rights and power，这完全就是形态和语义上都是高度分离的。\n\nrights的意思就是我有什么正当的理由和主张，而power的意思就是我有没有能力影响、控制、决定别人。一个人可能有power却没有rights，也有可以有right或是缺乏power。\n\n两个概念一旦被分的非常清楚，很多的社会关系就会变得非常的清晰，及其具备逻辑性。比如你就会意识到你的父母拥有照顾和教育孩子的权利，但这不等于拥有支配孩子的权利。\n\n老板拥有组织、管理的权利，但并不拥有侵犯员工人格边界的权利。多数人拥有社会影响力也不意味着多数人的偏好自动就变成了少数人必须服从的正当性。\n\n所以对我来说学习一门新的语言最大的意义就是你突然会获得第二套看待世界的视角和方式，你会意识到居然还可以给世界这么分类，新的思考方式，新的逻辑。\n\n站到自己熟悉的语言之外去看看那些自己从小到大从未怀疑过的词，然后意识到原来我以为的有些东西常识，有些只是我熟悉的语言替我设定好的默认出厂设置"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1523,
+          "impression_count": 224501,
+          "like_count": 4700,
+          "quote_count": 83,
+          "reply_count": 277,
+          "retweet_count": 671
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到一个非常细思极恐的事情，就是语言的边界就是思想的边界。\n\n比如举个例子，英语当中并没有像“孝顺”这个词一样高频、浓缩并且明确带有道德评价的词。在英文语境当中常常表达的就只有love and care，而中文里的“孝顺”是用“孝”和“顺”组成，它把爱、照顾、服从、责任、牺牲全部都浓缩成一个词。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107192376070697149",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 922,
+          "like_count": 4548,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2229
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T14:26:02.000Z",
+        "description": "07年大学生\n专注于美股、crypto、AI\n交流群https://t.co/uP9poCiBZO\n咨询/合作TG：@niniincrypto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "niniincrypto"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+6eFGz4GoM2wwN…",
+                "end": 49,
+                "expanded_url": "https://t.me/+6eFGz4GoM2wwNzJh",
+                "start": 26,
+                "url": "https://t.co/uP9poCiBZO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nini.onchain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nini.onchain",
+                "start": 0,
+                "url": "https://t.co/8nWRHsGEY6"
+              }
+            ]
+          }
+        },
+        "id": "2033549131797733376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107116636004139471",
+        "name": "nini",
+        "pinned_tweet_id": "2099920928247537935",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033549131797733376/1774090328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035875407359262720/qVUpg1XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25883,
+          "following_count": 1420,
+          "like_count": 30880,
+          "listed_count": 109,
+          "media_count": 491,
+          "tweet_count": 9650
+        },
+        "url": "https://t.co/8nWRHsGEY6",
+        "username": "nini_incrypto_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

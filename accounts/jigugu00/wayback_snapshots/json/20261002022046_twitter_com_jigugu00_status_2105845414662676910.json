@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105768929817690112"
+      ],
+      "media_source_tweet_id": [
+        "2105768932686668117"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105845414662676910",
+    "created_at": "2026-10-02T02:20:46.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T03:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105845414662676910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1474190119993323521",
+          "start": 3,
+          "username": "ghostofharvard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pznz3iniw6",
+          "end": 53,
+          "expanded_url": "https://x.com/ghostofharvard/status/2105768932686668117/photo/1",
+          "media_key": "3_2105768929817690112",
+          "start": 30,
+          "url": "https://t.co/pznz3iniw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105845414662676910",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2105768929817690112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 495
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105768932686668117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ghostofharvard: holy fuck https://t.co/pznz3iniw6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 285,
+        "media_key": "3_2105768929817690112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkxr1DWgAAc8AP.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105768929817690112"
+          ],
+          "media_source_tweet_id": [
+            "2105768932686668117"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105845414662676910",
+        "created_at": "2026-10-02T02:20:46.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105845414662676910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1474190119993323521",
+              "start": 3,
+              "username": "ghostofharvard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pznz3iniw6",
+              "end": 53,
+              "expanded_url": "https://x.com/ghostofharvard/status/2105768932686668117/photo/1",
+              "media_key": "3_2105768929817690112",
+              "start": 30,
+              "url": "https://t.co/pznz3iniw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105845414662676910",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105768929817690112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 495
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105768932686668117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ghostofharvard: holy fuck https://t.co/pznz3iniw6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105768929817690112"
+          ]
+        },
+        "author_id": "1474190119993323521",
+        "conversation_id": "2105768932686668117",
+        "created_at": "2026-10-01T21:16:51.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T22:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105768932686668117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pznz3iniw6",
+              "end": 33,
+              "expanded_url": "https://x.com/ghostofharvard/status/2105768932686668117/photo/1",
+              "media_key": "3_2105768929817690112",
+              "start": 10,
+              "url": "https://t.co/pznz3iniw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105768932686668117",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105768929817690112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 305202,
+          "like_count": 11358,
+          "quote_count": 29,
+          "reply_count": 99,
+          "retweet_count": 495
+        },
+        "reply_settings": "everyone",
+        "text": "holy fuck https://t.co/pznz3iniw6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105845414662676910",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 872,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2109
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-24T01:28:18.000Z",
+        "description": "20/pre-rich | @metrisiapp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "metrisiapp"
+              }
+            ]
+          }
+        },
+        "id": "1474190119993323521",
+        "is_identity_verified": false,
+        "location": "NYC",
+        "most_recent_tweet_id": "2105844280308940974",
+        "name": "Nick 🦈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1474190119993323521/1789773183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844598371140452364/YNVYDB6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 2471,
+          "like_count": 5201,
+          "listed_count": 10,
+          "media_count": 639,
+          "tweet_count": 5543
+        },
+        "url": "",
+        "username": "ghostofharvard",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

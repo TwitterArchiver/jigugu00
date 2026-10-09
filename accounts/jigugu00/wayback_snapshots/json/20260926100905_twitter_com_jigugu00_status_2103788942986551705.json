@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103772073533616496",
+    "created_at": "2026-09-26T10:09:05.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T11:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103788942986551705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1713161866053292032",
+          "start": 0,
+          "username": "pater1832861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103788942986551705",
+    "in_reply_to_user_id": "1713161866053292032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103772073533616496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pater1832861 这个我记得pdd就有吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103772073533616496",
+        "created_at": "2026-09-26T10:09:05.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103788942986551705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1713161866053292032",
+              "start": 0,
+              "username": "pater1832861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103788942986551705",
+        "in_reply_to_user_id": "1713161866053292032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103772073533616496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pater1832861 这个我记得pdd就有吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713161866053292032",
+        "conversation_id": "2103772073533616496",
+        "created_at": "2026-09-26T09:02:03.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103772073533616496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103772073533616496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "螺内脂怎么搞...."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103788942986551705",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 833,
+          "like_count": 4022,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-14T11:56:43.000Z",
+        "description": "やってみなきゃわからない",
+        "id": "1713161866053292032",
+        "is_identity_verified": false,
+        "location": "Chuo-ku, Tokyo",
+        "most_recent_tweet_id": "2103772073533616496",
+        "name": "Mitsuba Sousuke (probably)",
+        "pinned_tweet_id": "2090961024078016918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713161866053292032/1789280028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099018691228864512/SzLTv6aP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 1398,
+          "like_count": 11868,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 943
+        },
+        "url": "",
+        "username": "pater1832861",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2106999094350893359",
+    "created_at": "2026-10-05T06:45:04.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T07:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106999094350893359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1289912277680955392",
+          "start": 3,
+          "username": "CepixLCP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106999094350893359",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2993
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106599246707273805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CepixLCP: Honestamente nada podrá superar lo hilarante del concepto de un oficial de policía haciéndose una ruta genocida https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2106599241787260929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwk2WLWQAERAW7.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2106999094350893359",
+        "created_at": "2026-10-05T06:45:04.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106999094350893359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1289912277680955392",
+              "start": 3,
+              "username": "CepixLCP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106999094350893359",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2993
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106599246707273805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CepixLCP: Honestamente nada podrá superar lo hilarante del concepto de un oficial de policía haciéndose una ruta genocida https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106599241787260929"
+          ]
+        },
+        "author_id": "1289912277680955392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2106599246707273805",
+        "created_at": "2026-10-04T04:16:13.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106599246707273805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YR1V9W6lp7",
+              "end": 135,
+              "expanded_url": "https://x.com/CepixLCP/status/2106599246707273805/photo/1",
+              "media_key": "3_2106599241787260929",
+              "start": 112,
+              "url": "https://t.co/YR1V9W6lp7"
+            },
+            {
+              "display_url": "x.com/vesselblud/sta…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/vesselblud/status/2106450943147401249",
+              "start": 136,
+              "url": "https://t.co/JKl9WhhTOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106599246707273805",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2106599241787260929"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3091,
+          "impression_count": 528093,
+          "like_count": 40602,
+          "quote_count": 35,
+          "reply_count": 102,
+          "retweet_count": 2993
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106450943147401249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Honestamente nada podrá superar lo hilarante del concepto de un oficial de policía haciéndose una ruta genocida https://t.co/YR1V9W6lp7 https://t.co/JKl9WhhTOs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106999094350893359",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 921,
+          "like_count": 4462,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2213
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-02T13:14:02.000Z",
+        "description": "Se pronuncia “Deiviz” | Los gustos no se disculpan, se defienden | No se que hago aquí, pero creo que les gusta | Me gusta Whisper 💛| Jueguen A hat in time 🎩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "davizlcp.straw.page",
+                "end": 23,
+                "expanded_url": "https://davizlcp.straw.page",
+                "start": 0,
+                "url": "https://t.co/H5f1nLeLlW"
+              }
+            ]
+          }
+        },
+        "id": "1289912277680955392",
+        "is_identity_verified": false,
+        "location": "Sylvarant ",
+        "most_recent_tweet_id": "2106996563411144889",
+        "name": "⭐~Daviz~⭐",
+        "pinned_tweet_id": "2077642066822144454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289912277680955392/1785378563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105704979780513792/6QVIFaBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6962,
+          "following_count": 1090,
+          "like_count": 90461,
+          "listed_count": 6,
+          "media_count": 10967,
+          "tweet_count": 64538
+        },
+        "url": "https://t.co/H5f1nLeLlW",
+        "username": "CepixLCP",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

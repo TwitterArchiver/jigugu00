@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2106974635271102464"
+      ],
+      "media_source_tweet_id": [
+        "2106974660684329002"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107384194804371933",
+    "created_at": "2026-10-06T08:15:20.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107384194804371933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1623499586240237568",
+          "start": 3,
+          "username": "femmebyiero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1R78kxSmeO",
+          "end": 104,
+          "expanded_url": "https://x.com/femmebyiero/status/2106974660684329002/photo/1",
+          "media_key": "16_2106974635271102464",
+          "start": 81,
+          "url": "https://t.co/1R78kxSmeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107384194804371933",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2106974635271102464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1678
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106974660684329002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @femmebyiero: when you headcanon every female character you like as a lesbian https://t.co/1R78kxSmeO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "16_2106974635271102464",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HT16RH4XoAAUF1h.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HT16RH4XoAAUF1h.mp4"
+          }
+        ],
+        "width": 374
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106974635271102464"
+          ],
+          "media_source_tweet_id": [
+            "2106974660684329002"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107384194804371933",
+        "created_at": "2026-10-06T08:15:20.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107384194804371933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1623499586240237568",
+              "start": 3,
+              "username": "femmebyiero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1R78kxSmeO",
+              "end": 104,
+              "expanded_url": "https://x.com/femmebyiero/status/2106974660684329002/photo/1",
+              "media_key": "16_2106974635271102464",
+              "start": 81,
+              "url": "https://t.co/1R78kxSmeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107384194804371933",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2106974635271102464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1678
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106974660684329002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @femmebyiero: when you headcanon every female character you like as a lesbian https://t.co/1R78kxSmeO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106974635271102464"
+          ]
+        },
+        "author_id": "1623499586240237568",
+        "conversation_id": "2106974660684329002",
+        "created_at": "2026-10-05T05:07:59.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106974660684329002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1R78kxSmeO",
+              "end": 87,
+              "expanded_url": "https://x.com/femmebyiero/status/2106974660684329002/photo/1",
+              "media_key": "16_2106974635271102464",
+              "start": 64,
+              "url": "https://t.co/1R78kxSmeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106974660684329002",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2106974635271102464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 44704,
+          "like_count": 7134,
+          "quote_count": 64,
+          "reply_count": 9,
+          "retweet_count": 1678
+        },
+        "reply_settings": "everyone",
+        "text": "when you headcanon every female character you like as a lesbian https://t.co/1R78kxSmeO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107384194804371933",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 921,
+          "like_count": 4647,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2249
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-09T01:50:51.000Z",
+        "description": "jill valentine's controversially young girlfriend",
+        "id": "1623499586240237568",
+        "is_identity_verified": false,
+        "location": "femme lesbian  18   she   🇦🇷",
+        "most_recent_tweet_id": "2107322353990484350",
+        "name": "azu ⚢",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1623499586240237568/1790088948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082294133104795648/h_yHargQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 327,
+          "like_count": 116308,
+          "listed_count": 4,
+          "media_count": 2665,
+          "tweet_count": 24241
+        },
+        "url": "",
+        "username": "femmebyiero",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106439906675576832"
+      ],
+      "media_source_tweet_id": [
+        "2106439915752079728"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106694977275453939",
+    "created_at": "2026-10-04T10:36:37.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106694977275453939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1806849464386416640",
+          "start": 3,
+          "username": "tangeorange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uw7vzVWvRI",
+          "end": 47,
+          "expanded_url": "https://x.com/tangeorange/status/2106439915752079728/photo/1",
+          "media_key": "3_2106439906675576832",
+          "start": 24,
+          "url": "https://t.co/Uw7vzVWvRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106694977275453939",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106439906675576832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106439915752079728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangeorange: 但是好可爱啊 https://t.co/Uw7vzVWvRI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2106439906675576832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuT70oa0AAT-Vf.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106439906675576832"
+          ],
+          "media_source_tweet_id": [
+            "2106439915752079728"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106694977275453939",
+        "created_at": "2026-10-04T10:36:37.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106694977275453939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1806849464386416640",
+              "start": 3,
+              "username": "tangeorange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uw7vzVWvRI",
+              "end": 47,
+              "expanded_url": "https://x.com/tangeorange/status/2106439915752079728/photo/1",
+              "media_key": "3_2106439906675576832",
+              "start": 24,
+              "url": "https://t.co/Uw7vzVWvRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106694977275453939",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106439906675576832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106439915752079728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tangeorange: 但是好可爱啊 https://t.co/Uw7vzVWvRI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106439906675576832"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "conversation_id": "2106439915752079728",
+        "created_at": "2026-10-03T17:43:06.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106439915752079728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uw7vzVWvRI",
+              "end": 30,
+              "expanded_url": "https://x.com/tangeorange/status/2106439915752079728/photo/1",
+              "media_key": "3_2106439906675576832",
+              "start": 7,
+              "url": "https://t.co/Uw7vzVWvRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106439915752079728",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106439906675576832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 14173,
+          "like_count": 375,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "但是好可爱啊 https://t.co/Uw7vzVWvRI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106694977275453939",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 915,
+          "like_count": 4356,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2189
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "五块钱一斤，不知道为什么那么贵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "is_identity_verified": false,
+        "location": "Shinjuku-ku, Tokyo",
+        "most_recent_tweet_id": "2106690298013466850",
+        "name": "请问您今天要来点橙子吗？",
+        "pinned_tweet_id": "2086834107397628162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806849464386416640/1780943954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106270092413878272/5eOAugRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3454,
+          "following_count": 3037,
+          "like_count": 10074,
+          "listed_count": 6,
+          "media_count": 1603,
+          "tweet_count": 9990
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

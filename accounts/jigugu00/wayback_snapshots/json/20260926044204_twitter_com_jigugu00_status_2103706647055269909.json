@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103427993481986048"
+      ],
+      "media_source_tweet_id": [
+        "2103428002235498535"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2103706647055269909",
+    "created_at": "2026-09-26T04:42:04.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T05:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103706647055269909"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "まどマギ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2094399469815263232",
+          "start": 3,
+          "username": "Antimomi642"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJ4VEMtU2j",
+          "end": 46,
+          "expanded_url": "https://x.com/Antimomi642/status/2103428002235498535/photo/1",
+          "media_key": "3_2103427993481986048",
+          "start": 23,
+          "url": "https://t.co/jJ4VEMtU2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103706647055269909",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2103427993481986048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1395
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103428002235498535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antimomi642: #まどマギ https://t.co/jJ4VEMtU2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2103427993481986048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDgnZobQAAlx76.jpg",
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103427993481986048"
+          ],
+          "media_source_tweet_id": [
+            "2103428002235498535"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2103706647055269909",
+        "created_at": "2026-09-26T04:42:04.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103706647055269909"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "まどマギ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2094399469815263232",
+              "start": 3,
+              "username": "Antimomi642"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJ4VEMtU2j",
+              "end": 46,
+              "expanded_url": "https://x.com/Antimomi642/status/2103428002235498535/photo/1",
+              "media_key": "3_2103427993481986048",
+              "start": 23,
+              "url": "https://t.co/jJ4VEMtU2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103706647055269909",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103427993481986048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1395
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103428002235498535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antimomi642: #まどマギ https://t.co/jJ4VEMtU2j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103427993481986048"
+          ]
+        },
+        "author_id": "2094399469815263232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2103428002235498535",
+        "created_at": "2026-09-25T10:14:50.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103428002235498535"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まどマギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJ4VEMtU2j",
+              "end": 29,
+              "expanded_url": "https://x.com/Antimomi642/status/2103428002235498535/photo/1",
+              "media_key": "3_2103427993481986048",
+              "start": 6,
+              "url": "https://t.co/jJ4VEMtU2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103428002235498535",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103427993481986048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 942,
+          "impression_count": 77098,
+          "like_count": 11608,
+          "quote_count": 10,
+          "reply_count": 4,
+          "retweet_count": 1395
+        },
+        "reply_settings": "everyone",
+        "text": "#まどマギ https://t.co/jJ4VEMtU2j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103706647055269909",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 835,
+          "like_count": 3992,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2017
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T12:19:52.000Z",
+        "description": "AI artist",
+        "id": "2094399469815263232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103428002235498535",
+        "name": "Antimomi",
+        "pinned_tweet_id": "2098350664397304162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094399469815263232/1788180317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094406158673158145/NW1aG5ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 14,
+          "like_count": 66,
+          "listed_count": 15,
+          "media_count": 21,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "Antimomi642",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103437623431938048"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103437629140480442",
+    "created_at": "2026-09-25T10:53:05.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T11:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103437629140480442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfHKZzdFhW",
+          "end": 42,
+          "expanded_url": "https://x.com/jigugu00/status/2103437629140480442/photo/1",
+          "media_key": "3_2103437623431938048",
+          "start": 19,
+          "url": "https://t.co/zfHKZzdFhW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103437629140480442",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2103437623431938048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ) https://t.co/zfHKZzdFhW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2103437623431938048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDpX7_aQAAYEmi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103437623431938048"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103437629140480442",
+        "created_at": "2026-09-25T10:53:05.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103437629140480442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfHKZzdFhW",
+              "end": 42,
+              "expanded_url": "https://x.com/jigugu00/status/2103437629140480442/photo/1",
+              "media_key": "3_2103437623431938048",
+              "start": 19,
+              "url": "https://t.co/zfHKZzdFhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103437629140480442",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2103437623431938048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ) https://t.co/zfHKZzdFhW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103437629140480442",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 830,
+          "like_count": 3929,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

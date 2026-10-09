@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106053004864753665"
+      ],
+      "media_source_tweet_id": [
+        "2106249133338067070"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106394504412742031",
+    "created_at": "2026-10-03T14:42:39.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106394504412742031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xKmYe0r4Ob",
+          "end": 52,
+          "expanded_url": "https://x.com/Meguminsama2009/status/2106249133338067070/photo/1",
+          "media_key": "3_2106053004864753665",
+          "start": 29,
+          "url": "https://t.co/xKmYe0r4Ob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106394504412742031",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106053004864753665"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106249133338067070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 以后还有夜班哦 https://t.co/xKmYe0r4Ob"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1485,
+        "media_key": "3_2106053004864753665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTo0DLEbkAEdPFL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106053004864753665"
+          ],
+          "media_source_tweet_id": [
+            "2106249133338067070"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106394504412742031",
+        "created_at": "2026-10-03T14:42:39.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106394504412742031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557846379736666113",
+              "start": 3,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKmYe0r4Ob",
+              "end": 52,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2106249133338067070/photo/1",
+              "media_key": "3_2106053004864753665",
+              "start": 29,
+              "url": "https://t.co/xKmYe0r4Ob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106394504412742031",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106053004864753665"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106249133338067070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meguminsama2009: 以后还有夜班哦 https://t.co/xKmYe0r4Ob"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106053004864753665"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106249133338067070",
+        "created_at": "2026-10-03T05:05:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106249133338067070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKmYe0r4Ob",
+              "end": 31,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2106249133338067070/photo/1",
+              "media_key": "3_2106053004864753665",
+              "start": 8,
+              "url": "https://t.co/xKmYe0r4Ob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106249133338067070",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106053004864753665"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7695,
+          "like_count": 424,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "以后还有夜班哦 https://t.co/xKmYe0r4Ob"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106394504412742031",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 910,
+          "like_count": 4298,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "🟨⬜🟪⬛",
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2106372445833748621",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2090133381858422966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3010,
+          "following_count": 1907,
+          "like_count": 3390,
+          "listed_count": 2,
+          "media_count": 1821,
+          "tweet_count": 9450
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

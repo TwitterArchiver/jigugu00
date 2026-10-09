@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107137254988910592",
+        "3_2107137273926131712",
+        "3_2107137335284600832",
+        "3_2107137578864689152"
+      ],
+      "media_source_tweet_id": [
+        "2107137591338475957",
+        "2107137591338475957",
+        "2107137591338475957",
+        "2107137591338475957"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107475064937742533",
+    "created_at": "2026-10-06T14:16:25.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107475064937742533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1766444635147096064",
+          "start": 3,
+          "username": "pomeranian_bott"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YUB9Urpkz8",
+          "end": 54,
+          "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+          "media_key": "3_2107137254988910592",
+          "start": 31,
+          "url": "https://t.co/YUB9Urpkz8"
+        },
+        {
+          "display_url": "pic.x.com/YUB9Urpkz8",
+          "end": 54,
+          "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+          "media_key": "3_2107137273926131712",
+          "start": 31,
+          "url": "https://t.co/YUB9Urpkz8"
+        },
+        {
+          "display_url": "pic.x.com/YUB9Urpkz8",
+          "end": 54,
+          "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+          "media_key": "3_2107137335284600832",
+          "start": 31,
+          "url": "https://t.co/YUB9Urpkz8"
+        },
+        {
+          "display_url": "pic.x.com/YUB9Urpkz8",
+          "end": 54,
+          "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+          "media_key": "3_2107137578864689152",
+          "start": 31,
+          "url": "https://t.co/YUB9Urpkz8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107475064937742533",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107137254988910592"
+      },
+      {
+        "media_key": "3_2107137273926131712"
+      },
+      {
+        "media_key": "3_2107137335284600832"
+      },
+      {
+        "media_key": "3_2107137578864689152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107137591338475957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pomeranian_bott: 很有姐妹相耶好可爱 https://t.co/YUB9Urpkz8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2107137254988910592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4OK1ibEAA_ah9.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2107137273926131712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4OL8FaIAApX9p.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2107137335284600832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4OPgqaEAADnzA.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2107137578864689152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4OdsEbQAAK0g1.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107137254988910592",
+            "3_2107137273926131712",
+            "3_2107137335284600832",
+            "3_2107137578864689152"
+          ],
+          "media_source_tweet_id": [
+            "2107137591338475957",
+            "2107137591338475957",
+            "2107137591338475957",
+            "2107137591338475957"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107475064937742533",
+        "created_at": "2026-10-06T14:16:25.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107475064937742533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1766444635147096064",
+              "start": 3,
+              "username": "pomeranian_bott"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YUB9Urpkz8",
+              "end": 54,
+              "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+              "media_key": "3_2107137254988910592",
+              "start": 31,
+              "url": "https://t.co/YUB9Urpkz8"
+            },
+            {
+              "display_url": "pic.x.com/YUB9Urpkz8",
+              "end": 54,
+              "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+              "media_key": "3_2107137273926131712",
+              "start": 31,
+              "url": "https://t.co/YUB9Urpkz8"
+            },
+            {
+              "display_url": "pic.x.com/YUB9Urpkz8",
+              "end": 54,
+              "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+              "media_key": "3_2107137335284600832",
+              "start": 31,
+              "url": "https://t.co/YUB9Urpkz8"
+            },
+            {
+              "display_url": "pic.x.com/YUB9Urpkz8",
+              "end": 54,
+              "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+              "media_key": "3_2107137578864689152",
+              "start": 31,
+              "url": "https://t.co/YUB9Urpkz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107475064937742533",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107137254988910592"
+          },
+          {
+            "media_key": "3_2107137273926131712"
+          },
+          {
+            "media_key": "3_2107137335284600832"
+          },
+          {
+            "media_key": "3_2107137578864689152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107137591338475957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pomeranian_bott: 很有姐妹相耶好可爱 https://t.co/YUB9Urpkz8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107137254988910592",
+            "3_2107137273926131712",
+            "3_2107137335284600832",
+            "3_2107137578864689152"
+          ]
+        },
+        "author_id": "1766444635147096064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107137591338475957",
+        "created_at": "2026-10-05T15:55:25.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107137591338475957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YUB9Urpkz8",
+              "end": 33,
+              "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+              "media_key": "3_2107137254988910592",
+              "start": 10,
+              "url": "https://t.co/YUB9Urpkz8"
+            },
+            {
+              "display_url": "pic.x.com/YUB9Urpkz8",
+              "end": 33,
+              "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+              "media_key": "3_2107137273926131712",
+              "start": 10,
+              "url": "https://t.co/YUB9Urpkz8"
+            },
+            {
+              "display_url": "pic.x.com/YUB9Urpkz8",
+              "end": 33,
+              "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+              "media_key": "3_2107137335284600832",
+              "start": 10,
+              "url": "https://t.co/YUB9Urpkz8"
+            },
+            {
+              "display_url": "pic.x.com/YUB9Urpkz8",
+              "end": 33,
+              "expanded_url": "https://x.com/pomeranian_bott/status/2107137591338475957/photo/1",
+              "media_key": "3_2107137578864689152",
+              "start": 10,
+              "url": "https://t.co/YUB9Urpkz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107137591338475957",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107137254988910592"
+          },
+          {
+            "media_key": "3_2107137273926131712"
+          },
+          {
+            "media_key": "3_2107137335284600832"
+          },
+          {
+            "media_key": "3_2107137578864689152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 7157,
+          "like_count": 1122,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "很有姐妹相耶好可爱 https://t.co/YUB9Urpkz8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107475064937742533",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 929,
+          "like_count": 4814,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-09T12:45:24.000Z",
+        "description": "u/4u/sekiyu\n什么东西都可能吃，什么东西都可能发\n我只会用翻译器\n不怎么发东西，蹭饭来的\n什么都发，糟糕的低俗的话也会说的，要小心啊\n恶心的变态、女的猥琐宅男就是我\n不讨厌对家，对我的画中的任何成分有兴趣那就欢迎你",
+        "id": "1766444635147096064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107388476941554076",
+        "name": "又",
+        "pinned_tweet_id": "1766690822911660481",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766444635147096064/1710049757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104809181417181184/6xoqOaTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 136,
+          "like_count": 2044,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2606
+        },
+        "url": "",
+        "username": "pomeranian_bott",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

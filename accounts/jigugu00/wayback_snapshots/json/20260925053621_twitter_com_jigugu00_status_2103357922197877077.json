@@ -1,0 +1,662 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103117498724089856",
+        "3_2103117498673713152"
+      ],
+      "media_source_tweet_id": [
+        "2103117503727804836",
+        "2103117503727804836"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "フジテレビ系で放送、朝の情報番組",
+          "id": "10029113127",
+          "name": "めざましテレビ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281312750648479744",
+          "name": "Talk shows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281313327956688896",
+          "name": "Daytime talk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293682659860742144",
+          "name": "めざましテレビ"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1293682659860742144",
+          "name": "めざましテレビ"
+        }
+      }
+    ],
+    "conversation_id": "2103357922197877077",
+    "created_at": "2026-09-25T05:36:21.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T06:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103357922197877077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942164118271881216",
+          "start": 3,
+          "username": "8284_dr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dFkcs5i949",
+          "end": 55,
+          "expanded_url": "https://x.com/8284_dr/status/2103117503727804836/photo/1",
+          "media_key": "3_2103117498724089856",
+          "start": 32,
+          "url": "https://t.co/dFkcs5i949"
+        },
+        {
+          "display_url": "pic.x.com/dFkcs5i949",
+          "end": 55,
+          "expanded_url": "https://x.com/8284_dr/status/2103117503727804836/photo/1",
+          "media_key": "3_2103117498673713152",
+          "start": 32,
+          "url": "https://t.co/dFkcs5i949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103357922197877077",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103117498724089856"
+      },
+      {
+        "media_key": "3_2103117498673713152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103117503727804836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8284_dr: 今日のお顔……というか今日のわんこ🐶 https://t.co/dFkcs5i949"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2103117498724089856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_GOOhbgAAHJse.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2103117498673713152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_GOOVa0AAlg-w.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103117498724089856",
+            "3_2103117498673713152"
+          ],
+          "media_source_tweet_id": [
+            "2103117503727804836",
+            "2103117503727804836"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "フジテレビ系で放送、朝の情報番組",
+              "id": "10029113127",
+              "name": "めざましテレビ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281313327956688896",
+              "name": "Daytime talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293682659860742144",
+              "name": "めざましテレビ"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1293682659860742144",
+              "name": "めざましテレビ"
+            }
+          }
+        ],
+        "conversation_id": "2103357922197877077",
+        "created_at": "2026-09-25T05:36:21.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103357922197877077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942164118271881216",
+              "start": 3,
+              "username": "8284_dr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFkcs5i949",
+              "end": 55,
+              "expanded_url": "https://x.com/8284_dr/status/2103117503727804836/photo/1",
+              "media_key": "3_2103117498724089856",
+              "start": 32,
+              "url": "https://t.co/dFkcs5i949"
+            },
+            {
+              "display_url": "pic.x.com/dFkcs5i949",
+              "end": 55,
+              "expanded_url": "https://x.com/8284_dr/status/2103117503727804836/photo/1",
+              "media_key": "3_2103117498673713152",
+              "start": 32,
+              "url": "https://t.co/dFkcs5i949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103357922197877077",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103117498724089856"
+          },
+          {
+            "media_key": "3_2103117498673713152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103117503727804836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8284_dr: 今日のお顔……というか今日のわんこ🐶 https://t.co/dFkcs5i949"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103117498724089856",
+            "3_2103117498673713152"
+          ]
+        },
+        "author_id": "1942164118271881216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "フジテレビ系で放送、朝の情報番組",
+              "id": "10029113127",
+              "name": "めざましテレビ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281313327956688896",
+              "name": "Daytime talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293682659860742144",
+              "name": "めざましテレビ"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1293682659860742144",
+              "name": "めざましテレビ"
+            }
+          }
+        ],
+        "conversation_id": "2103117503727804836",
+        "created_at": "2026-09-24T13:41:01.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103117503727804836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFkcs5i949",
+              "end": 42,
+              "expanded_url": "https://x.com/8284_dr/status/2103117503727804836/photo/1",
+              "media_key": "3_2103117498724089856",
+              "start": 19,
+              "url": "https://t.co/dFkcs5i949"
+            },
+            {
+              "display_url": "pic.x.com/dFkcs5i949",
+              "end": 42,
+              "expanded_url": "https://x.com/8284_dr/status/2103117503727804836/photo/1",
+              "media_key": "3_2103117498673713152",
+              "start": 19,
+              "url": "https://t.co/dFkcs5i949"
+            },
+            {
+              "display_url": "x.com/8284_dr/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/8284_dr/status/2102433386556174367",
+              "start": 43,
+              "url": "https://t.co/SuiTXJKyQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103117503727804836",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103117498724089856"
+          },
+          {
+            "media_key": "3_2103117498673713152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 4501,
+          "like_count": 508,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102433386556174367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日のお顔……というか今日のわんこ🐶 https://t.co/dFkcs5i949 https://t.co/SuiTXJKyQd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103357922197877077",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 826,
+          "like_count": 3882,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1967
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T10:10:05.000Z",
+        "description": "20+ //クリスが大好きです。Krisoul LOVER♥️🍎\n※♥️が🍎の姿を模倣する自己設定あり\n♥︎more info: https://t.co/yOXCEqsGbE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/8284dr",
+                "end": 88,
+                "expanded_url": "https://lit.link/8284dr",
+                "start": 65,
+                "url": "https://t.co/yOXCEqsGbE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/443664",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/443664",
+                "start": 0,
+                "url": "https://t.co/qPvrSpl83n"
+              }
+            ]
+          }
+        },
+        "id": "1942164118271881216",
+        "is_identity_verified": false,
+        "location": "🇯🇵She/They 🚫AI training",
+        "most_recent_tweet_id": "2103288663488782636",
+        "name": "八ッ橋/8284",
+        "pinned_tweet_id": "2103139945783443468",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942164118271881216/1784349039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031875626760880129/HYCPAA-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4765,
+          "following_count": 156,
+          "like_count": 16682,
+          "listed_count": 13,
+          "media_count": 1001,
+          "tweet_count": 11315
+        },
+        "url": "https://t.co/qPvrSpl83n",
+        "username": "8284_dr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

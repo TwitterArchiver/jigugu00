@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107439681524969495",
+    "created_at": "2026-10-06T11:55:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107439681524969495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2094816135858302977",
+          "start": 3,
+          "username": "4ucdp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107439681524969495",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1439
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107132805423493467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4ucdp: Я ненавижу геометрию \nЯ ненавижу алгебру \nЯ ненавижу физику \nЯ ненавижу химию \nЯ ненавижу биологию \nЯ ненавижу географию \nЯ нена…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107439681524969495",
+        "created_at": "2026-10-06T11:55:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107439681524969495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2094816135858302977",
+              "start": 3,
+              "username": "4ucdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107439681524969495",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1439
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107132805423493467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4ucdp: Я ненавижу геометрию \nЯ ненавижу алгебру \nЯ ненавижу физику \nЯ ненавижу химию \nЯ ненавижу биологию \nЯ ненавижу географию \nЯ нена…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094816135858302977",
+        "conversation_id": "2107132805423493467",
+        "created_at": "2026-10-05T15:36:24.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107132805423493467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107132805423493467",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 54318,
+          "like_count": 4807,
+          "quote_count": 12,
+          "reply_count": 134,
+          "retweet_count": 1439
+        },
+        "reply_settings": "everyone",
+        "text": "Я ненавижу геометрию \nЯ ненавижу алгебру \nЯ ненавижу физику \nЯ ненавижу химию \nЯ ненавижу биологию \nЯ ненавижу географию \nЯ ненавижу математику\nЯ ненавижу информатику \nЯ ненавижу историю \nЯ ненавижу английский \nЯ ненавижу русский \nЯ ненавижу литературу \nЯ ненавижу физкультуру"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107439681524969495",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 927,
+          "like_count": 4734,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T15:57:03.000Z",
+        "description": "",
+        "id": "2094816135858302977",
+        "is_identity_verified": false,
+        "location": "  𓆉",
+        "most_recent_tweet_id": "2107433215996674113",
+        "name": "сато",
+        "pinned_tweet_id": "2104956612272062598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094816135858302977/1790594104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104530323132370944/nUztbAJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 68,
+          "like_count": 3628,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1012
+        },
+        "url": "",
+        "username": "4ucdp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

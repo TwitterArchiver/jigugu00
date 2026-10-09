@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103812262897357174",
+    "created_at": "2026-09-26T11:56:39.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103816015692124386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2085036823252987904",
+          "start": 0,
+          "username": "Makima_0411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103816015692124386",
+    "in_reply_to_user_id": "2085036823252987904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103812262897357174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Makima_0411 耍起耍起。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103812262897357174].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103812262897357174",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103812262897357174"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103812262897357174",
+        "created_at": "2026-09-26T11:56:39.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103816015692124386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103816015692124386",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103812262897357174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 耍起耍起。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103816015692124386",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 836,
+          "like_count": 4048,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103394823889994070",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 382,
+          "like_count": 1427,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1285
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

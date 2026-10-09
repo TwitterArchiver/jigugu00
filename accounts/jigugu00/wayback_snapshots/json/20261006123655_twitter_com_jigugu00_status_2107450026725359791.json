@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107403632761257984"
+      ],
+      "media_source_tweet_id": [
+        "2107403653795787118"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2107450026725359791",
+    "created_at": "2026-10-06T12:36:55.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T13:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107450026725359791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803759379763875840",
+          "start": 3,
+          "username": "kapi7749"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nESzMm5AIq",
+          "end": 89,
+          "expanded_url": "https://x.com/kapi7749/status/2107403653795787118/photo/1",
+          "media_key": "3_2107403632761257984",
+          "start": 66,
+          "url": "https://t.co/nESzMm5AIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107450026725359791",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107403632761257984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107403653795787118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kapi7749: 先别什么红果不红果了，知道你可以攒很多很多钱钱了所以可以先把欠我的三千块钱还完再去立人设吗谢谢请还我钱 https://t.co/nESzMm5AIq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_2107403632761257984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8AcEEaQAAkWfg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107403632761257984"
+          ],
+          "media_source_tweet_id": [
+            "2107403653795787118"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2107450026725359791",
+        "created_at": "2026-10-06T12:36:55.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107450026725359791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803759379763875840",
+              "start": 3,
+              "username": "kapi7749"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nESzMm5AIq",
+              "end": 89,
+              "expanded_url": "https://x.com/kapi7749/status/2107403653795787118/photo/1",
+              "media_key": "3_2107403632761257984",
+              "start": 66,
+              "url": "https://t.co/nESzMm5AIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107450026725359791",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107403632761257984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107403653795787118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kapi7749: 先别什么红果不红果了，知道你可以攒很多很多钱钱了所以可以先把欠我的三千块钱还完再去立人设吗谢谢请还我钱 https://t.co/nESzMm5AIq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107403632761257984"
+          ]
+        },
+        "author_id": "1803759379763875840",
+        "conversation_id": "2107403653795787118",
+        "created_at": "2026-10-06T09:32:39.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107403653795787118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nESzMm5AIq",
+              "end": 75,
+              "expanded_url": "https://x.com/kapi7749/status/2107403653795787118/photo/1",
+              "media_key": "3_2107403632761257984",
+              "start": 52,
+              "url": "https://t.co/nESzMm5AIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107403653795787118",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107403632761257984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3095,
+          "like_count": 93,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "先别什么红果不红果了，知道你可以攒很多很多钱钱了所以可以先把欠我的三千块钱还完再去立人设吗谢谢请还我钱 https://t.co/nESzMm5AIq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@ko1_mori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ko1_mori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107450026725359791",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 928,
+          "like_count": 4773,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-20T11:58:56.000Z",
+        "description": "",
+        "id": "1803759379763875840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107442949131014576",
+        "name": "我不卖惨难道卖勾子吗",
+        "pinned_tweet_id": "2040738942811795901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1803759379763875840/1785653345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095485652804702208/TUuF3kc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 87,
+          "like_count": 6463,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1515
+        },
+        "url": "",
+        "username": "kapi7749",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

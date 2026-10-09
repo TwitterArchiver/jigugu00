@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103815239724900615",
+    "created_at": "2026-09-26T11:53:34.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103815239724900615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SepMiaoFour/st…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/SepMiaoFour/status/2103672666532294995",
+          "start": 99,
+          "url": "https://t.co/mZSJP1Scpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103815239724900615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103672666532294995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：✅\n喝过酒：✅\n挂过科：✅\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：❌\n被课堂赶出去：❌\n考试作弊：✅\n偷偷溜出家门：✅ https://t.co/mZSJP1Scpq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103815239724900615",
+        "created_at": "2026-09-26T11:53:34.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103815239724900615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SepMiaoFour/st…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/SepMiaoFour/status/2103672666532294995",
+              "start": 99,
+              "url": "https://t.co/mZSJP1Scpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103815239724900615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103672666532294995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：✅\n喝过酒：✅\n挂过科：✅\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：❌\n被课堂赶出去：❌\n考试作弊：✅\n偷偷溜出家门：✅ https://t.co/mZSJP1Scpq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102989355036065792",
+        "conversation_id": "2103672666532294995",
+        "created_at": "2026-09-26T02:27:02.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103672666532294995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chubailuo/stat…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/chubailuo/status/2103671347604066674",
+              "start": 99,
+              "url": "https://t.co/I9wH1eyQrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103672666532294995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103671347604066674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：❌\n喝过酒：❌\n挂过科：❌\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：✅\n偷偷溜出家门：❌ https://t.co/I9wH1eyQrk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103815239724900615",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 836,
+          "like_count": 4046,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-24T05:13:08.000Z",
+        "description": "「人生在世 一半烟火一半闲」\n一只大二猫猫，你也叫我九猫/小九\n爱社交but社恐 | 分享生活&科技\n科技/IT/Python/Java/爱听休闲音乐/友跨🏳️‍⚧️\n可以随时找我聊天哦，当你的心理委员",
+        "id": "2102989355036065792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103814726656672006",
+        "name": "SepMiao4.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102989355036065792/1790227514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102989805269491712/sXdmwb86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 38,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "SepMiaoFour",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

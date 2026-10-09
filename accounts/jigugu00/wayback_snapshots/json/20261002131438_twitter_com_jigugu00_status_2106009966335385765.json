@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106009966335385765",
+    "created_at": "2026-10-02T13:14:38.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106009966335385765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ishxy1014/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/ishxy1014/status/2105963892870643903",
+          "start": 20,
+          "url": "https://t.co/AkJ7aRHRTG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106009966335385765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105963892870643903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对。\n但是这样肯定会有冒充的来骗钱吧， https://t.co/AkJ7aRHRTG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106009966335385765",
+        "created_at": "2026-10-02T13:14:38.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106009966335385765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ishxy1014/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/ishxy1014/status/2105963892870643903",
+              "start": 20,
+              "url": "https://t.co/AkJ7aRHRTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106009966335385765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105963892870643903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对。\n但是这样肯定会有冒充的来骗钱吧， https://t.co/AkJ7aRHRTG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009536613286903808",
+        "conversation_id": "2105963892870643903",
+        "created_at": "2026-10-02T10:11:33.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105963892870643903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105963892870643903",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 19208,
+          "like_count": 968,
+          "quote_count": 43,
+          "reply_count": 4,
+          "retweet_count": 458
+        },
+        "reply_settings": "everyone",
+        "text": "솔직하게 정신병있는 사람들은 \n달마다 생명감사금 줘야한다고 생각을해"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106009966335385765",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 886,
+          "like_count": 4208,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2135
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-09T08:04:19.000Z",
+        "description": "(σ̴̶̷̤͡. σ̴̶̷̤͡)ෆ⃛ :@_sYs1o\n(ˆ꜆ᵒ̴̷͈ · ᵒ̴̷͈ )ෆ⃛ :@2yeon_0\nٜ(ྀི ͚ɞ̴̶̷ ·̮ ɞ̴̶̷ ͚ ྀི)ෆ⃛ : @xhrrlvnf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "_sYs1o"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "username": "2yeon_0"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "xhrrlvnf"
+              }
+            ]
+          }
+        },
+        "id": "2009536613286903808",
+        "is_identity_verified": false,
+        "location": "우울정병계~ ",
+        "most_recent_tweet_id": "2105999438590378324",
+        "name": ". ㅌㅊㅅ",
+        "pinned_tweet_id": "2105270916045533476",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009536613286903808/1781524684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091478953286590464/v3NbxxAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 963,
+          "like_count": 18430,
+          "listed_count": 8,
+          "media_count": 226,
+          "tweet_count": 4789
+        },
+        "url": "",
+        "username": "ishxy1014",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

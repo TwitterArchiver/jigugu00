@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105677022861430961",
+    "created_at": "2026-10-01T15:11:38.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105677022861430961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476198137589268480",
+          "start": 3,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105677022861430961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105551340822765836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N3kuv: 作为一个od蛆我能活这么久最直白的一个原因是我没有那么多钱买药磕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105677022861430961",
+        "created_at": "2026-10-01T15:11:38.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105677022861430961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476198137589268480",
+              "start": 3,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105677022861430961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105551340822765836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N3kuv: 作为一个od蛆我能活这么久最直白的一个原因是我没有那么多钱买药磕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2105551340822765836",
+        "created_at": "2026-10-01T06:52:13.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T07:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105551340822765836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105551340822765836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1167,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "作为一个od蛆我能活这么久最直白的一个原因是我没有那么多钱买药磕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105677022861430961",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 863,
+          "like_count": 4134,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "20 ⬇️ / 冲动自杀心理疏导 • 药物咨询 请看我tg/不是药商，不贩卖列管药，不滥用任何物质/我没有任何药物渠道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+xJGsITQkFGMxN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+xJGsITQkFGMxNTM0",
+                "start": 0,
+                "url": "https://t.co/jM2uM0tOuC"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "is_identity_verified": false,
+        "location": "https://t.me/nekocaline",
+        "most_recent_tweet_id": "2105658242726817830",
+        "name": "喵芬卡太尼",
+        "pinned_tweet_id": "2103393801754812563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476198137589268480/1790228628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100747986183815168/1nRI_rj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 706,
+          "like_count": 6938,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/jM2uM0tOuC",
+        "username": "N3kuv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106013280418533852",
+    "created_at": "2026-10-02T13:27:48.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106013280418533852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1391388714413150210",
+          "start": 3,
+          "username": "seojihwan7583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106013280418533852",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 927
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105775987581718822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @seojihwan7583: 예쁜 사람도 존나 많고 못생긴 사람도 존나 많고\n갓생 사는 사람도 존나 많고 폐급새끼 존나 많고\n착한 사람도 존나 많고 인간말종도 존나 많고\n걍 지구에 사람이 너무 많아 시발"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106013280418533852",
+        "created_at": "2026-10-02T13:27:48.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106013280418533852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1391388714413150210",
+              "start": 3,
+              "username": "seojihwan7583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106013280418533852",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 927
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105775987581718822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @seojihwan7583: 예쁜 사람도 존나 많고 못생긴 사람도 존나 많고\n갓생 사는 사람도 존나 많고 폐급새끼 존나 많고\n착한 사람도 존나 많고 인간말종도 존나 많고\n걍 지구에 사람이 너무 많아 시발"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391388714413150210",
+        "conversation_id": "2105775987581718822",
+        "created_at": "2026-10-01T21:44:53.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T22:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105775987581718822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105775987581718822",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 65661,
+          "like_count": 3671,
+          "quote_count": 89,
+          "reply_count": 0,
+          "retweet_count": 927
+        },
+        "reply_settings": "following",
+        "text": "예쁜 사람도 존나 많고 못생긴 사람도 존나 많고\n갓생 사는 사람도 존나 많고 폐급새끼 존나 많고\n착한 사람도 존나 많고 인간말종도 존나 많고\n걍 지구에 사람이 너무 많아 시발"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106013280418533852",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 886,
+          "like_count": 4211,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 2138
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-09T13:45:08.000Z",
+        "description": "그건 선생님 마음 가는대로 하실일이지 저한테 결정을 맡기시면 안되죠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/seojihwan",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/seojihwan",
+                "start": 0,
+                "url": "https://t.co/oRkjwtLQkQ"
+              }
+            ]
+          }
+        },
+        "id": "1391388714413150210",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106010907176550722",
+        "name": "서지환",
+        "pinned_tweet_id": "2053378751338266850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391388714413150210/1780815165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019387102677680129/cSRwe-6w_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 105,
+          "like_count": 55026,
+          "listed_count": 3,
+          "media_count": 2829,
+          "tweet_count": 20618
+        },
+        "url": "https://t.co/oRkjwtLQkQ",
+        "username": "seojihwan7583",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

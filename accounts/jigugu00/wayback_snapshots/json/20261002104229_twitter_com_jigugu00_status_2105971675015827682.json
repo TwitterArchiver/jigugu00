@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105643929219833856",
+        "3_2105643929182056448"
+      ],
+      "media_source_tweet_id": [
+        "2105643935720968569",
+        "2105643935720968569"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105971675015827682",
+    "created_at": "2026-10-02T10:42:29.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105971675015827682"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 47,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 73,
+          "start": 61,
+          "tag": "病み垢女子と繋がりたい"
+        },
+        {
+          "end": 87,
+          "start": 75,
+          "tag": "病み垢男子と繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2082007825270886400",
+          "start": 3,
+          "username": "nsk_2856"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4mOR68r5kB",
+          "end": 111,
+          "expanded_url": "https://x.com/nsk_2856/status/2105643935720968569/photo/1",
+          "media_key": "3_2105643929219833856",
+          "start": 88,
+          "url": "https://t.co/4mOR68r5kB"
+        },
+        {
+          "display_url": "pic.x.com/4mOR68r5kB",
+          "end": 111,
+          "expanded_url": "https://x.com/nsk_2856/status/2105643935720968569/photo/1",
+          "media_key": "3_2105643929182056448",
+          "start": 88,
+          "url": "https://t.co/4mOR68r5kB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105971675015827682",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105643929219833856"
+      },
+      {
+        "media_key": "3_2105643929182056448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105643935720968569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nsk_2856: tag\n\n18・FtM・情緒不安定\n\n離さないから離れないでね\n\n#病み垢さんと繋がりたい \n#病み垢女子と繋がりたい \n#病み垢男子と繋がりたい https://t.co/4mOR68r5kB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2105643929219833856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi__1ibIAA8uEK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105643929182056448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi__1ZasAA0we0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105643929219833856",
+            "3_2105643929182056448"
+          ],
+          "media_source_tweet_id": [
+            "2105643935720968569",
+            "2105643935720968569"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105971675015827682",
+        "created_at": "2026-10-02T10:42:29.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105971675015827682"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 47,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 73,
+              "start": 61,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 87,
+              "start": 75,
+              "tag": "病み垢男子と繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2082007825270886400",
+              "start": 3,
+              "username": "nsk_2856"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mOR68r5kB",
+              "end": 111,
+              "expanded_url": "https://x.com/nsk_2856/status/2105643935720968569/photo/1",
+              "media_key": "3_2105643929219833856",
+              "start": 88,
+              "url": "https://t.co/4mOR68r5kB"
+            },
+            {
+              "display_url": "pic.x.com/4mOR68r5kB",
+              "end": 111,
+              "expanded_url": "https://x.com/nsk_2856/status/2105643935720968569/photo/1",
+              "media_key": "3_2105643929182056448",
+              "start": 88,
+              "url": "https://t.co/4mOR68r5kB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105971675015827682",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105643929219833856"
+          },
+          {
+            "media_key": "3_2105643929182056448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105643935720968569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nsk_2856: tag\n\n18・FtM・情緒不安定\n\n離さないから離れないでね\n\n#病み垢さんと繋がりたい \n#病み垢女子と繋がりたい \n#病み垢男子と繋がりたい https://t.co/4mOR68r5kB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105643929219833856",
+            "3_2105643929182056448"
+          ]
+        },
+        "author_id": "2082007825270886400",
+        "conversation_id": "2105643935720968569",
+        "created_at": "2026-10-01T13:00:09.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105643935720968569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 59,
+              "start": 47,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 73,
+              "start": 61,
+              "tag": "病み垢男子と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mOR68r5kB",
+              "end": 97,
+              "expanded_url": "https://x.com/nsk_2856/status/2105643935720968569/photo/1",
+              "media_key": "3_2105643929219833856",
+              "start": 74,
+              "url": "https://t.co/4mOR68r5kB"
+            },
+            {
+              "display_url": "pic.x.com/4mOR68r5kB",
+              "end": 97,
+              "expanded_url": "https://x.com/nsk_2856/status/2105643935720968569/photo/1",
+              "media_key": "3_2105643929182056448",
+              "start": 74,
+              "url": "https://t.co/4mOR68r5kB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105643935720968569",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105643929219833856"
+          },
+          {
+            "media_key": "3_2105643929182056448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2378,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "tag\n\n18・FtM・情緒不安定\n\n離さないから離れないでね\n\n#病み垢さんと繋がりたい \n#病み垢女子と繋がりたい \n#病み垢男子と繋がりたい https://t.co/4mOR68r5kB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105971675015827682",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 878,
+          "like_count": 4179,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2123
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T07:38:42.000Z",
+        "description": "18・FtM・情緒不安定 / LINE× / エンカ× / お別れはブロ解で\nサブ垢 @syo_2856 @szk_2856",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "syo_2856"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "szk_2856"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/56hamjrpf0svrj…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/56hamjrpf0svrjj?t=JmUaCm&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/HTnHUoGwrc"
+              }
+            ]
+          }
+        },
+        "id": "2082007825270886400",
+        "is_identity_verified": false,
+        "location": "めろくなりたい",
+        "most_recent_tweet_id": "2105914034583478489",
+        "name": "成瀬",
+        "pinned_tweet_id": "2105643935720968569",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082007825270886400/1785226224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099113485531820032/JYrpjwHh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 312,
+          "like_count": 6401,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/HTnHUoGwrc",
+        "username": "nsk_2856",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

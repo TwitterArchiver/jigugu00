@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106813825492336640",
+        "3_2106813825488134144"
+      ],
+      "media_source_tweet_id": [
+        "2106813833608302749",
+        "2106813833608302749"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "conversation_id": "2106998743711289667",
+    "created_at": "2026-10-05T06:43:41.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T07:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106998743711289667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1978032792383709184",
+          "start": 3,
+          "username": "Ih84F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DQK6Urbxln",
+          "end": 58,
+          "expanded_url": "https://x.com/Ih84F/status/2106813833608302749/photo/1",
+          "media_key": "3_2106813825492336640",
+          "start": 35,
+          "url": "https://t.co/DQK6Urbxln"
+        },
+        {
+          "display_url": "pic.x.com/DQK6Urbxln",
+          "end": 58,
+          "expanded_url": "https://x.com/Ih84F/status/2106813833608302749/photo/1",
+          "media_key": "3_2106813825488134144",
+          "start": 35,
+          "url": "https://t.co/DQK6Urbxln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106998743711289667",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106813825492336640"
+      },
+      {
+        "media_key": "3_2106813825488134144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106813833608302749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ih84F: 解释解释为什么看男同性恋3D和男同性恋做爱视频 https://t.co/DQK6Urbxln"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106813825492336640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzoAwxaQAAzhgq.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106813825488134144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzoAwwaIAAOp7Q.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106813825492336640",
+            "3_2106813825488134144"
+          ],
+          "media_source_tweet_id": [
+            "2106813833608302749",
+            "2106813833608302749"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "conversation_id": "2106998743711289667",
+        "created_at": "2026-10-05T06:43:41.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106998743711289667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1978032792383709184",
+              "start": 3,
+              "username": "Ih84F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQK6Urbxln",
+              "end": 58,
+              "expanded_url": "https://x.com/Ih84F/status/2106813833608302749/photo/1",
+              "media_key": "3_2106813825492336640",
+              "start": 35,
+              "url": "https://t.co/DQK6Urbxln"
+            },
+            {
+              "display_url": "pic.x.com/DQK6Urbxln",
+              "end": 58,
+              "expanded_url": "https://x.com/Ih84F/status/2106813833608302749/photo/1",
+              "media_key": "3_2106813825488134144",
+              "start": 35,
+              "url": "https://t.co/DQK6Urbxln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106998743711289667",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106813825492336640"
+          },
+          {
+            "media_key": "3_2106813825488134144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106813833608302749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ih84F: 解释解释为什么看男同性恋3D和男同性恋做爱视频 https://t.co/DQK6Urbxln"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106813825492336640",
+            "3_2106813825488134144"
+          ]
+        },
+        "author_id": "1978032792383709184",
+        "conversation_id": "2106813833608302749",
+        "created_at": "2026-10-04T18:28:55.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T19:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106813833608302749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQK6Urbxln",
+              "end": 47,
+              "expanded_url": "https://x.com/Ih84F/status/2106813833608302749/photo/1",
+              "media_key": "3_2106813825492336640",
+              "start": 24,
+              "url": "https://t.co/DQK6Urbxln"
+            },
+            {
+              "display_url": "pic.x.com/DQK6Urbxln",
+              "end": 47,
+              "expanded_url": "https://x.com/Ih84F/status/2106813833608302749/photo/1",
+              "media_key": "3_2106813825488134144",
+              "start": 24,
+              "url": "https://t.co/DQK6Urbxln"
+            },
+            {
+              "display_url": "x.com/114514feiq1029…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/114514feiq10293/status/2106772658931343810",
+              "start": 48,
+              "url": "https://t.co/Ai5TosE7UY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106813833608302749",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106813825492336640"
+          },
+          {
+            "media_key": "3_2106813825488134144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8528,
+          "like_count": 195,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106772658931343810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解释解释为什么看男同性恋3D和男同性恋做爱视频 https://t.co/DQK6Urbxln https://t.co/Ai5TosE7UY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2106998743711289667",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 922,
+          "like_count": 4461,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "爱是最温柔的暴动",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clubjt.jp/brand-site/sev…",
+                "end": 23,
+                "expanded_url": "https://www.clubjt.jp/brand-site/sevenstars/?utm_source=chatgpt.com",
+                "start": 0,
+                "url": "https://t.co/3dNh7bAgsD"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "is_identity_verified": false,
+        "location": "百家粉呀，主要属性是理智玉迷～",
+        "most_recent_tweet_id": "2106958956149285274",
+        "name": "溺れる飛べない鳥は水羽が必要",
+        "pinned_tweet_id": "2094463688745140600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978032792383709184/1788879601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105721780388429825/e7F4LBMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 521,
+          "like_count": 40825,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 6770
+        },
+        "url": "https://t.co/3dNh7bAgsD",
+        "username": "Ih84F",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

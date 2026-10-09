@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107116773074182145"
+      ],
+      "media_source_tweet_id": [
+        "2107116785841701198"
+      ]
+    },
+    "author_id": "1883117066812882944",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107185643411701820",
+    "created_at": "2026-10-05T19:06:21.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T20:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107185643411701820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1685861367197446145",
+          "start": 3,
+          "username": "L7xVz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z4FsdRt3Ub",
+          "end": 41,
+          "expanded_url": "https://x.com/L7xVz/status/2107116785841701198/video/1",
+          "media_key": "13_2107116773074182145",
+          "start": 18,
+          "url": "https://t.co/Z4FsdRt3Ub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107185643411701820",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2107116773074182145"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107116785841701198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L7xVz: 메따똔 ㅜㅜ https://t.co/Z4FsdRt3Ub"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4580,
+        "height": 720,
+        "media_key": "13_2107116773074182145",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107116773074182145/img/JWnAHqqxJBMaUhCS.jpg",
+        "public_metrics": {
+          "view_count": 2512
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107116773074182145/vid/avc1/388x270/mRLvkQ8Vs6Idu1NR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107116773074182145/vid/avc1/518x360/hKlrUvugO4c4t-Kl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107116773074182145/vid/avc1/1036x720/J00hKJQrVHibQ9sJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107116773074182145/pl/4jhLtWThjZEg2uwO.m3u8"
+          }
+        ],
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107116773074182145"
+          ],
+          "media_source_tweet_id": [
+            "2107116785841701198"
+          ]
+        },
+        "author_id": "1883117066812882944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107185643411701820",
+        "created_at": "2026-10-05T19:06:21.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T20:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107185643411701820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1685861367197446145",
+              "start": 3,
+              "username": "L7xVz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4FsdRt3Ub",
+              "end": 41,
+              "expanded_url": "https://x.com/L7xVz/status/2107116785841701198/video/1",
+              "media_key": "13_2107116773074182145",
+              "start": 18,
+              "url": "https://t.co/Z4FsdRt3Ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107185643411701820",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2107116773074182145"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107116785841701198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L7xVz: 메따똔 ㅜㅜ https://t.co/Z4FsdRt3Ub"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107116773074182145"
+          ]
+        },
+        "author_id": "1685861367197446145",
+        "conversation_id": "2107116785841701198",
+        "created_at": "2026-10-05T14:32:44.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T15:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107116785841701198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4FsdRt3Ub",
+              "end": 30,
+              "expanded_url": "https://x.com/L7xVz/status/2107116785841701198/video/1",
+              "media_key": "13_2107116773074182145",
+              "start": 7,
+              "url": "https://t.co/Z4FsdRt3Ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107116785841701198",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2107116773074182145"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 5164,
+          "like_count": 599,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "메따똔 ㅜㅜ https://t.co/Z4FsdRt3Ub"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2107185643411701820",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 922,
+          "like_count": 4539,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2227
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-31T03:54:23.000Z",
+        "description": "",
+        "id": "1685861367197446145",
+        "is_identity_verified": false,
+        "location": "creepypasta",
+        "most_recent_tweet_id": "2107116785841701198",
+        "name": "라첼",
+        "pinned_tweet_id": "2016849859387732200",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685861367197446145/1791188260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106656391004073984/7rE-yRIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7127,
+          "following_count": 18,
+          "like_count": 41060,
+          "listed_count": 11,
+          "media_count": 24,
+          "tweet_count": 3670
+        },
+        "url": "",
+        "username": "L7xVz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

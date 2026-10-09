@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2103025290369007993",
+    "created_at": "2026-09-25T07:14:46.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103382688044560409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081249791783444480",
+          "start": 0,
+          "username": "m1lkinside4bag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103382688044560409",
+    "in_reply_to_user_id": "2081249791783444480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103025290369007993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1lkinside4bag 我去dol。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2103025282584346624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9yWiobAAAik3F.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2103025290369007993",
+        "created_at": "2026-09-25T07:14:46.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103382688044560409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081249791783444480",
+              "start": 0,
+              "username": "m1lkinside4bag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103382688044560409",
+        "in_reply_to_user_id": "2081249791783444480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103025290369007993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1lkinside4bag 我去dol。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103025282584346624"
+          ]
+        },
+        "author_id": "2081249791783444480",
+        "conversation_id": "2103025290369007993",
+        "created_at": "2026-09-24T07:34:36.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103025290369007993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtFcIPiEGn",
+              "end": 83,
+              "expanded_url": "https://x.com/m1lkinside4bag/status/2103025290369007993/photo/1",
+              "media_key": "3_2103025282584346624",
+              "start": 60,
+              "url": "https://t.co/gtFcIPiEGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103025290369007993",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103025282584346624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1879,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么做到把黄油玩得跟我的生活一样惨的，在学校被同学老师霸凌还被关进精神病院然后身体心理都是病，这跟我现实生活有啥区别 https://t.co/gtFcIPiEGn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2103382688044560409",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 826,
+          "like_count": 3895,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1972
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T05:28:10.000Z",
+        "description": "💊🔪🩸🍺 🚬 重焦重抑|oder|BPD|osdd|cptsd pr80梦女 大吐量黑泥 女友重度依赖 欢迎互fo",
+        "id": "2081249791783444480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103025956994564207",
+        "name": "戀是愛的嘔吐物",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081249791783444480/1785166031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081250413056294912/aZUC8gm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 154,
+          "like_count": 1217,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "m1lkinside4bag",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

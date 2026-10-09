@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883117066812882944",
+    "conversation_id": "2105680670555250751",
+    "created_at": "2026-10-01T15:26:08.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105680670555250751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1290795320243175424",
+          "start": 3,
+          "username": "sekitsuii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105680670555250751",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105187850161647622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sekitsuii: whenever im crying about literally anything i always think to myself \" and im fat too \" which makes me break down even more"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883117066812882944",
+        "conversation_id": "2105680670555250751",
+        "created_at": "2026-10-01T15:26:08.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105680670555250751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1290795320243175424",
+              "start": 3,
+              "username": "sekitsuii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105680670555250751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105187850161647622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sekitsuii: whenever im crying about literally anything i always think to myself \" and im fat too \" which makes me break down even more"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1290795320243175424",
+        "conversation_id": "2105187850161647622",
+        "created_at": "2026-09-30T06:47:50.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105187850161647622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105187850161647622",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 60004,
+          "like_count": 10431,
+          "quote_count": 28,
+          "reply_count": 5,
+          "retweet_count": 2158
+        },
+        "reply_settings": "everyone",
+        "text": "whenever im crying about literally anything i always think to myself \" and im fat too \" which makes me break down even more"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "=叽菇/💊🩸🎨/\n希望每个人都能获得自己的幸福\n/🎨@jigugu01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "jigugu01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jigugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jigugu",
+                "start": 0,
+                "url": "https://t.co/gt9MmHbTJy"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "is_identity_verified": false,
+        "location": "高中住校中。。。",
+        "most_recent_tweet_id": "2105680670555250751",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2061024735505596567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883117066812882944/1738071536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 863,
+          "like_count": 4137,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/gt9MmHbTJy",
+        "username": "jigugu00",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-04T23:42:49.000Z",
+        "description": "20 • harm reduction + meals & recipes + my thoughts .ᐟ",
+        "id": "1290795320243175424",
+        "is_identity_verified": false,
+        "location": " ࣪ ִֶָ☾.",
+        "most_recent_tweet_id": "2105187850161647622",
+        "name": "seki ˖᯽ ݁˖",
+        "pinned_tweet_id": "2065612693826945024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290795320243175424/1781315159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065611561759035392/NYVXRvUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9289,
+          "following_count": 2131,
+          "like_count": 61066,
+          "listed_count": 55,
+          "media_count": 2794,
+          "tweet_count": 13199
+        },
+        "url": "",
+        "username": "sekitsuii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
